@@ -1,0 +1,9 @@
+variable,type,format,notes
+date,string,YYYYMMDD,
+battleID,integer,,daily battle identification
+userID,integer,,unique user
+battle_name,string,,swgoh name for battle
+n_sims,integer,,"number of simulations for that battle, if 0 it means the battle was fought"
+reward,string,,swgoh name for reward
+count,integer,,amount of that reward
+level,integer,,swgoh user level at the start of the day

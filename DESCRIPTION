@@ -1,0 +1,18 @@
+Package: swgoh
+Title: Data for Battle Rewards from Star Wars Galaxy of Heroes 
+Version: 0.0.1
+Authors@R: 
+    person(given = "Jarad",
+           family = "Niemi",
+           role = c("aut", "cre"),
+           email = "jaradniemi@gmail.com",
+           comment = c(ORCID = "0000-0002-5079-158X"))
+Description: The package contains counts for Battle Rewards from the mobile 
+    game Star Wars Galaxy of Heroes. The intent of these data are to provide a
+    modern data set for the analysis of count and the estimation of 
+    probabilities or relates related to the binomial and Poisson distributions.
+    With enough data, it may also be possible to utilize change-point models
+    to identify when the probabilities or rates have changed.
+License: MIT
+Encoding: UTF-8
+LazyData: true
