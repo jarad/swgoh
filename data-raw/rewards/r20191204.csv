@@ -8,7 +8,7 @@ battleID,reward,count
 1,Credits,7000
 1,Sim Tickets,1
 1,Player XP,56
-2,Mk 2CEC Fusion Furnace,4
+2,Mk 2 CEC Fusion Furnace,4
 2,Mk 1 Nubian Security Scanner,3
 2,Mk 1 BlasTech Weapon Mod,1
 2,T2 Training Droid,5
@@ -201,8 +201,8 @@ battleID,reward,count
 26,Credits,3920
 26,Player XP,64
 27,Nightsister Acolyte,4
-27,Ability Material Mark II,1
-27,Ability Material Mark I,4
+27,Ability Material Mk II,1
+27,Ability Material Mk I,4
 27,T2 Training Droid,20
 27,T1 Training Droid,40
 27,Credits,15000
