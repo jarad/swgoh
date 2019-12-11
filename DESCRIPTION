@@ -16,3 +16,8 @@ Description: The package contains counts for Battle Rewards from the mobile
 License: MIT
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat,
+    readr,
+    dplyr,
+    tidyr
