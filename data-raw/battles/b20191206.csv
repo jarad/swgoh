@@ -13,24 +13,24 @@ battleID,userID,battle,n_sims
 12,1,Light Side 3-E (Hard),5
 13,2,Cantina 1-F,5
 14,2,Light Side 2-D (Hard),2
-15,3,Light 2-F (Hard),0
-16,3,Light 2-F (Hard),0
+15,3,Light Side 2-F (Hard),0
+16,3,Light Side 2-F (Hard),0
 17,2,Light Side 2-A (Hard),4
-18,3,Light 2-F (Hard),0
-19,3,Light 2-F (Hard),0
-20,3,Light 2-F (Hard),0
-21,1,Fleet 1-A,5
-22,1,Light Side 7-B,0
-23,1,Light Side 7-C,0
-24,1,Light Side 7-D,0
+18,3,Light Side 2-F (Hard),0
+19,3,Light Side 2-F (Hard),0
+20,3,Light Side 2-F (Hard),0
+21,1,Fleet 1-A (Hard),5
+22,1,Light Side 7-B (Hard),0
+23,1,Light Side 7-C (Hard),0
+24,1,Light Side 7-D (Hard),0
 25,1,Cantina 2-A,10
-26,1,Fleet 1-E,5
+26,1,Fleet 1-E (Hard),5
 27,1,Dark Side 2-C (Hard),5
 28,1,Light Side 5-E (Hard),5
 29,1,Dark Side 3-E (Hard),5
-30,1,Fleet 1-C,5
-31,1,Fleet 1-D,3
-32,1,Fleet 1-D,2
+30,1,Fleet 1-C (Hard),5
+31,1,Fleet 1-D (Hard),3
+32,1,Fleet 1-D (Hard),2
 33,1,Cantina 2-A,12
 34,1,Light Side 1-A (Hard),5
 35,1,Light Side 7-D (Hard),3

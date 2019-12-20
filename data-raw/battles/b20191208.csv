@@ -2,7 +2,7 @@ battleID,userID,battle,n_sims
 1,2,Cantina 1-F,8
 2,2,Dark Side 1-A (Hard),5
 3,2,Light Side 2-E (Hard),3
-4,1,Fleet 1-E,5
+4,1,Fleet 1-E (Hard),5
 5,3,Cantina 1-F,0
 6,3,Cantina 1-F,0
 7,3,Cantina 1-F,0
@@ -33,7 +33,7 @@ battleID,userID,battle,n_sims
 32,1,Light Side 3-E (Hard),5
 33,1,Light Side 5-E (Hard),5
 34,1,Dark Side 3-E (Hard),5
-35,1,Fleet 1-A,5
-36,1,Fleet 1-C,5
+35,1,Fleet 1-A (Hard),5
+36,1,Fleet 1-C (Hard),5
 37,2,Cantina 1-F,5
 38,2,Light Side 2-A (Hard),5
