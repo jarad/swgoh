@@ -1,6 +1,6 @@
 battleID,reward,count
 1,Clone Sergeant's ARC-170,1
-1,Mk 4 SoroSubb Keypad Salvage,2
+1,Mk 4 SoroSuub Keypad Salvage,2
 1,Mk 2 Arakyd Droid Caller,1
 2,Sabine Wren,2
 2,Mk 2 CEC Fusion Furnace,3
@@ -43,7 +43,7 @@ battleID,reward,count
 22,Ability Material Mk III,1
 22,Ability Material Mk I,1
 23,Royal Guard,3
-23,Mk 4 Arakyd Droid Cller Salvage,1
+23,Mk 4 Arakyd Droid Caller Salvage,1
 23,Mk 6 BioTech Implant Prototype Salvage,1
 23,Mk 5 BioTech Implant Prototype,2
 23,Mk 2 Chedak Comlink Prototype,2
@@ -71,7 +71,7 @@ battleID,reward,count
 30,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
 31,Ability Material Mk I,1
 32,Young Lando Calrissian,1
-32,Lando's Millenium Falcon,3
+32,Lando's Millennium Falcon,3
 32,Mk 3 Sienar Holo Projector Salvage,1
 32,Mk 1 Chiewab Hypo Syringe Prototype,1
 33,Clone Sergeant - Phase I,1

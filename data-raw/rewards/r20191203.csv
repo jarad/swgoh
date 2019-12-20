@@ -16,9 +16,9 @@ battleID,reward,count
 6,Ability Material Mk I,1
 8,Clone Sergeant - Phase I,1
 8,Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,3
-8,Mk 7 BAW Armor Mod Prototpe Salvage,3
+8,Mk 7 BAW Armor Mod Prototype Salvage,3
 8,Mk 1 Sienar Holo Projector,2
-8,Mk 1 Nubian Design Tech,2
+8,Mk 1 Nubian Design Tech Prototype,2
 9,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
 9,Mk 3 Neuro-Saav Electrobinoculars,1
 10,Hera Syndulla,2
@@ -28,7 +28,7 @@ battleID,reward,count
 12,Talia,2
 12,Mk 2 Arakyd Droid Caller,4
 12,Mk 1 TaggeCo Holo Lens,3
-12,Mk 1 Chiewab Hypo Syringe,2
+12,Mk 1 Chiewab Hypo Syringe Prototype,2
 13,Clone Wars Chewbacca,1
 13,Mk 3 Neuro-Saav Electrobinoculars,3
 13,Mk 1 BioTech Implant,1
@@ -44,14 +44,14 @@ battleID,reward,count
 17,Mk 1 Fabritech Data Pad,2
 18,Rey (Scavenger),3
 18,Mk 2 BAW Armor Mod Prototype,3
-18,Mk 1 Loronar Powr Cell,4
+18,Mk 1 Loronar Power Cell,4
 18,Mk 1 A/KT Stun Gun,3
 19,Nightsister Acolyte,2
 20,Young Lando Calrissian,2
 20,Lando's Millennium Falcon,1
 21,Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,1
 21,Mk 1 Sienar Holo Projector,1
-21,Mk 1 Nubian Design Tech,1
+21,Mk 1 Nubian Design Tech Prototype,1
 22,Clone Sergeant - Phase I,3
 22,Mk 4 BAW Armor Mod Salvage,4
 22,Mk 2 TaggeCo Holo Lens,3

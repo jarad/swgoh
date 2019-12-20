@@ -14,7 +14,7 @@ battleID,reward,count
 4,Mk 1 Nubian Security Scanner,3
 5,Mace Windu,1
 5,Mk 1 Czerka Stun Cuffs,2
-5,Mk.1 BioTech Implant,1
+5,Mk 1 BioTech Implant,1
 5,Mk 1 BlasTech Weapon Mod,3
 6,Mace Windu,1
 6,Mk 1 Czerka Stun Cuffs,1
@@ -29,7 +29,7 @@ battleID,reward,count
 10,Mk 2 CEC Fusion Furnace,3
 10,Mk 1 Nubian Security Scanner,3
 11,Clone Sergeant's ARC-170,2
-11,Mk 4 SoroSubb Keypad Salvage,1
+11,Mk 4 SoroSuub Keypad Salvage,1
 11,Mk 2 Arakyd Droid Caller,1
 12,Mk 1 Athakam Medpac Salvage,2
 12,Mk 3 Neuro-Saav Electrobinoculars,2
@@ -64,7 +64,7 @@ battleID,reward,count
 22,Mk 1 Nubian Design Tech Prototype,4
 23,Clone Sergeant - Phase I,1
 23,Mk 4 BAW Armor Mod Salvage,2
-23,Mk 5 TaggeCo Holo Lens Prototye Salvage,1
+23,Mk 5 TaggeCo Holo Lens Prototype Salvage,1
 23,Mk 2 TaggeCo Holo Lens,3
 24,Mace Windu,1
 24,Mk 1 Czerka Stun Cuffs,1
@@ -80,7 +80,7 @@ battleID,reward,count
 27,Ability Material Mk II,1
 27,Ability Material Mk I,1
 28,Mk 4 BAW Armor Mod Salvage,1
-28,Mk 5 TaggeCo Holo Lens Prototye Salvage,2
+28,Mk 5 TaggeCo Holo Lens Prototype Salvage,2
 28,Mk 2 TaggeCo Holo Lens,4
 29,Clone Sergeant - Phase I,2
 29,Mk 3 Loronar Power Cell,4
