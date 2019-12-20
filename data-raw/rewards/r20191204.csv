@@ -1,399 +1,107 @@
 battleID,reward,count
 1,Hera Syndulla,3
 1,Ability Material Mk II,1
-1,T2 Training Droid,14
-1,T1 Training Droid,21
-1,Cantina Battle Tokens,91
-1,Ally Point,280
-1,Credits,7000
-1,Sim Tickets,1
-1,Player XP,56
 2,Mk 2 CEC Fusion Furnace,4
 2,Mk 1 Nubian Security Scanner,3
 2,Mk 1 BlasTech Weapon Mod,1
-2,T2 Training Droid,5
-2,T1 Training Droid,15
-2,Credits,1650
-2,Ally Point,180
-2,Player XP,60
-3,T2 Training Droid,2
-3,T1 Training Droid,3
-3,Ally Point,40
-3,Credits,1000
-3,Cantina Battle Tokens,13
-3,Player XP,8
 4,Ability Material Mk I,1
-4,T2 Training Droid,2
-4,T1 Training Droid,3
-4,Ally Point,40
-4,Cantina Battle Tokens,13
-4,Credits,1000
-4,Player XP,8
-5,T2 Training Droid,2
-5,T1 Training Droid,3
-5,Cantina Battle Tokens,13
-5,Ally Point,20
-5,Credits,1000
-5,Sim Tickets,1
-5,Player XP,8
-6,T2 Training Droid,2
-6,T1 Training Droid,3
-6,Ally Point,20
-6,Credits,1000
-6,Cantina Battle Tokens,13
-6,Player XP,8
 7,Hera Syndulla,2
 7,Ability Material Mk I,2
-7,T2 Training Droid,8
-7,T1 Training Droid,12
-7,Cantina Battle Tokens,52
-7,Credits,4000
-7,Ally Point,160
-7,Player XP,32
 8,Talia,2
 8,Mk 2 Arakyd Droid Caller,2
 8,Mk 1 TaggeCo Holo Lens,2
-8,T2 Training Droid,5
-8,T1 Training Droid,15
-8,Credits,2150
-8,Ally Point,180
-8,Player XP,60
 9,Mk 2 SoroSuub Keypad Prototype,1
 9,Mk 3 BAW Armor Mod,1
 9,Mk 1 Nubian Design Tech Prototype,1
-9,T2 Training Droid,6
-9,Sim Tickets,1
-9,Credits,990
-9,Ally Point,108
-9,Player XP,36
 10,Mk 2 CEC Fusion Furnace,1
 10,Mk 1 BlasTech Weapon Mod,1
-10,T2 Training Droid,1
-10,T1 Training Droid,3
-10,Ally Point,36
-10,Credits,330
-10,Player XP,12
 11,Mk 1 Nubian Security Scanner,1
-11,T2 Training Droid,1
-11,T1 Training Droid,3
-11,Ally Point,18
-11,Credits,330
-11,Player XP,12
 12,Sabine Wren,1
 12,Mk 1 Nubian Security Scanner,1
-12,T2 Training Droid,1
-12,T1 Training Droid,3
-12,Ally Point,18
-12,Credits,330
-12,Player XP,12
 13,Mk 2 Chiewab Hypo Syringe,1
 13,Mk 1 Neuro-Saav Electrobinoculars,1
 13,Mk 2 Neuro-Saav Electrobinoculars Prototype,1
-13,T2 Training Droid,1
-13,T1 Training Droid,3
-13,Ally Point,36
-13,Credits,430
-13,Player XP,12
 14,Mk 2 Chiewab Hypo Syringe,1
 14,Mk 1 Neuro-Saav Electrobinoculars,1
-14,T2 Training Droid,1
-14,T1 Training Droid,3
-14,Ally Point,18
-14,Credits,430
-14,Player XP,12
 15,Nightsister Acolyte,2
-15,T2 Training Droid,14
-15,T1 Training Droid,28
-15,Ally Point,280
-15,Cantina Battle Tokens,91
-15,Credits,10500
-15,Player XP,56
 16,Mk 2 Chiewab Hypo Syringe,1
 16,Mk 1 Neuro-Saav Electrobinoculars,1
 16,Mk 2 Neuro-Saav Electrobinoculars Prototype,1
-16,T2 Training Droid,1
-16,T1 Training Droid,3
-16,Ally Point,36
-16,Credits,430
-16,Player XP,12
 17,Mk 2 CEC Fusion Furnace,4
 17,Mk 1 BlasTech Weapon Mod,2
 17,Mk 1 Nubian Security Scanner,1
-17,T2 Training Droid,5
-17,T1 Training Droid,15
-17,Ally Point,180
-17,Credits,1650
-17,Player XP,60
 18,Clone Wars Chewbacca,2
 18,Mk 1 Athakam Medpac Salvage,1
 18,Mk 3 Neuro-Saav Electrobinoculars,1
 18,Mk 1 BioTech Implant,1
-18,T2 Training Droid,8
-18,Credits,2120
-18,Ally Point,144
-18,Sim Tickets,1
-18,Player XP,48
 19,Clone Sergeant's ARC-170,1
 19,Ship Ability Material Mk I,1
-19,T3 Training Droid,5
-19,T2 Training Droid,5
-19,T1 Enhancement Droid,10
-19,Ship Building Materials,1725
-19,Ally Point,240
-19,Credits,5175
-19,Sim Tickets,1
-19,Player XP,80
 20,Resistance X-wing,1
-20,T3 Training Droid,2
-20,T2 Training Droid,2
-20,T1 Enhancement Droid,4
-20,Credits,2070
-20,Ally Point,96
-20,Ship Building Materials,690
-20,Player XP,32
 21,Hera Syndulla,3
 21,Ability Material Mk II,1
-21,T2 Training Droid,16
-21,T1 Training Droid,24
-21,Ally Point,320
-21,Cantina Battle Tokens,104
-21,Credits,8000
-21,Sim Tickets,1
-21,Player XP,64
 22,Sabine Wren,1
 22,Mk 2 CEC Fusion Furnace,1
 22,Mk 1 BlasTech Weapon Mod,1
 22,Mk 1 Nubian Security Scanner,1
-22,T2 Training Droid,2
-22,T1 Training Droid,6
-22,Credits,660
-22,Ally Point,72
-22,Player XP,24
 23,Talia,2
 23,Mk 1 TaggeCo Holo Lens,2
 23,Mk 1 Chiewab Hypo Syringe Prototype,2
-23,T2 Training Droid,5
-23,T1 Training Droid,15
-23,Ally Point,180
-23,Credits,2150
-23,Player XP,60
 24,Mk 2 Chiewab Hypo Syringe,2
 24,Mk 1 Neuro-Saav Electrobinoculars,2
 24,Mk 2 Neuro-Saav Electrobinoculars Prototype,2
-24,T2 Training Droid,2
-24,T1 Training Droid,6
-24,Credits,860
-24,Ally Point,72
-24,Player XP,24
 25,Clone Wars Chewbacca,1
 25,Mk 4 BAW Armor Mod Salvage,2
-25,T2 Training Droid,10
-25,T1 Training Droid,10
-25,Ally Point,180
-25,Credits,2150
-25,Player XP,60
 26,Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,1
 26,Mk 1 Sienar Holo Projector,2
 26,Mk 1 Nubian Design Tech Prototype,2
-26,T2 Training Droid,16
-26,T1 Training Droid,8
-26,Ally Point,192
-26,Credits,3920
-26,Player XP,64
 27,Nightsister Acolyte,4
 27,Ability Material Mk II,1
 27,Ability Material Mk I,4
-27,T2 Training Droid,20
-27,T1 Training Droid,40
-27,Credits,15000
-27,Ally Point,400
-27,Cantina Battle Tokens,130
-27,Player XP,80
 28,Resistance X-wing,1
 28,Mk 2 BlasTech Weapon Mod,1
-28,T3 Training Droid,3
-28,T2 Training Droid,3
-28,T1 Enhancement Droid,6
-28,Credits,3105
-28,Ship Building Materials,1035
-28,Ally Point,144
-28,Sim Tickets,1
-28,Player XP,48
 29,Ewok Scout,1
 29,Mk 1 TaggeCo Holo Lens,3
 29,Mk 1 BAW Armor Mod,2
 29,Mk 1 Nubian Security Scanner,3
-29,T1 Training Droid,20
-29,Credits,1650
-29,Ally Point,180
-29,Sim Tickets,2
-29,Player XP,60
 30,Clone Wars Chewbacca,1
 30,Mk 3 Neuro-Saav Electrobinoculars,2
 30,Mk 1 BioTech Implant,3
-30,T2 Training Droid,10
-30,Credits,2650
-30,Ally Point,180
-30,Player XP,60
 31,Hera Syndulla,1
 31,Ability Material Mk II,1
-31,T2 Training Droid,4
-31,T1 Training Droid,6
-31,Cantina Battle Tokens,26
-31,Credits,2000
-31,Ally Point,80
-31,Player XP,16
-32,T2 Training Droid,2
-32,T1 Training Droid,3
-32,Cantina Battle Tokens,13
-32,Ally Point,40
-32,Credits,1000
-32,Sim Tickets,1
-32,Player XP,8
-33,T2 Training Droid,2
-33,T1 Training Droid,3
-33,Ally Point,40
-33,Credits,1000
-33,Cantina Battle Tokens,13
-33,Player XP,8
-34,T2 Training Droid,2
-34,T1 Training Droid,3
-34,Ally Point,20
-34,Credits,1000
-34,Cantina Battle Tokens,13
-34,Player XP,8
-35,T2 Training Droid,2
-35,T1 Training Droid,3
-35,Ally Point,40
-35,Credits,1000
-35,Cantina Battle Tokens,13
-35,Player XP,8
-36,T2 Training Droid,2
-36,T1 Training Droid,3
-36,Ally Point,20
-36,Credits,1000
-36,Cantina Battle Tokens,13
-36,Player XP,8
 37,Mk 3 BAW Armor Mod,1
-37,T2 Training Droid,2
-37,T1 Training Droid,4
-37,Ally Point,36
-37,Credits,530
-37,Player XP,12
 38,Jedi Consular,1
 38,Mk 4 Nubian Security Scanner Prototype Salvage,1
 38,Mk 2 Arakyd Droid Caller,1
-38,T2 Training Droid,2
-38,T1 Training Droid,4
-38,Ally Point,36
-38,Credits,530
-38,Player XP,12
 39,Mk 3 BAW Armor Mod,1
-39,T2 Training Droid,2
-39,T1 Training Droid,4
-39,Ally Point,18
-39,Credits,530
-39,Player XP,12
 40,Mk 2 Arakyd Droid Caller,1
 40,Mk 3 BAW Armor Mod,1
-40,T2 Training Droid,2
-40,T1 Training Droid,4
-40,Ally Point,18
-40,Credits,530
-40,Player XP,12
 41,Hera Syndulla,4
 41,Ability Material Mk I,2
-41,T2 Training Droid,16
-41,T1 Training Droid,24
-41,Cantina Battle Tokens,104
-41,Ally Point,320
-41,Credits,8000
-41,Sim Tickets,1
-41,Player XP,64
 42,Mk 3 BioTech Implant,1
 42,Mk 2 BlasTech Weapon Mod,1
-42,T2 Training Droid,2
-42,Ally Point,36
-42,Credits,530
-42,Player XP,12
 43,Mace Windu,3
 43,Mk 1 Czerka Stun Cuffs,1
 43,Mk 1 BlasTech Weapon Mod,2
 43,Mk 1 BioTech Implant,3
-43,T2 Training Droid,5
-43,T1 Training Droid,15
-43,Credits,2150
-43,Ally Point,180
-43,Sim Tickets,2
-43,Player XP,60
 44,Mk 1 Nubian Design Tech Prototype,1
 44,Mk 2 BlasTech Weapon Mod,1
-44,T2 Training Droid,2
-44,Ally Point,18
-44,Credits,530
-44,Player XP,12
 45,Rey (Scavenger),1
 45,Mk 1 Loronar Power Cell,3
 45,Mk 2 BAW Armor Mod Prototype,1
 45,Mk 1 A/KT Stun Gun,2
-45,T2 Training Droid,3
-45,T1 Training Droid,3
-45,Ally Point,108
-45,Credits,1290
-45,Sim Tickets,1
-45,Player XP,36
 46,Mk 1 Nubian Design Tech Prototype,1
 46,Mk 2 BlasTech Weapon Mod,1
-46,T2 Training Droid,2
-46,Ally Point,18
-46,Credits,530
-46,Player XP,12
-47,T2 Training Droid,2
-47,Ally Point,18
-47,Credits,530
-47,Player XP,12
 48,Mk 7 BAW Armor Mod Prototype Salvage,1
 48,Mk 1 Sienar Holo Projector,1
 48,Mk 1 Nubian Design Tech Prototype,1
-48,T2 Training Droid,4
-48,T1 Training Droid,2
-48,Ally Point,48
-48,Credits,980
-48,Player XP,16
 49,Clone Sergeant - Phase I,3
 49,Mk 5 TaggeCo Holo Lens Prototype Salvage,1
 49,Mk 4 BAW Armor Mod Salvage,1
 49,Mk 2 TaggeCo Holo Lens,5
-49,T2 Training Droid,10
-49,T1 Training Droid,20
-49,Credits,2650
-49,Ally Point,180
-49,Sim Tickets,2
-49,Player XP,60
 50,Mk 2 TaggeCo Holo Lens,4
 50,Mk 3 Loronar Power Cell,3
 50,Mk 2 BlasTech Weapon Mod,2
-50,T2 Training Droid,5
-50,T1 Training Droid,15
-50,Ally Point,180
-50,Credits,1650
-50,Sim Tickets,1
-50,Player XP,60
 51,Imperial TIE Fighter,2
 51,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
 51,Mk 3 Neuro-Saav Electrobinoculars,2
-51,T3 Training Droid,5
-51,T2 Training Droid,5
-51,T1 Enhancement Droid,10
-51,Credits,5175
-51,Ship Building Materials,1725
-51,Ally Point,240
-51,Player XP,80
 52,Mk 3 Sienar Holo Projector Salvage,1
-52,T3 Training Droid,3
-52,T2 Training Droid,3
-52,T1 Enhancement Droid,6
-52,Credits,3105
-52,Ally Point,144
-52,Ship Building Materials,1035
-52,Player XP,48
