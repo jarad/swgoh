@@ -1,8 +1,12 @@
-library(dplyr)
-library(tidyr)
+library("dplyr")
+library("tidyr")
 
 my_read_csv = function(f, into) {
-  readr::read_csv(f) %>%
+  readr::read_csv(f, col_types = cols(
+    battleID = col_integer(),
+    reward   = col_character(),
+    count    = col_integer()
+  )) %>%
     dplyr::mutate(file=f) %>%
     tidyr::separate(file, into) 
 }

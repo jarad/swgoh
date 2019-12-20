@@ -1,8 +1,15 @@
-library(dplyr)
-library(tidyr)
+library("dplyr")
+library("tidyr")
+
+col_types <- cols(
+  battleID = col_integer(),
+  userID   = col_integer(),
+  battle   = col_double(),
+  n_sims   = col_integer()
+)
 
 my_read_csv = function(f, into) {
-  readr::read_csv(f) %>%
+  readr::read_csv(f, col_types = col_types) %>%
     dplyr::mutate(file=f) %>%
     tidyr::separate(file, into) 
 }
