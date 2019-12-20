@@ -1,940 +1,940 @@
-﻿battle,reward,
-Light Side 1-A (Normal),Mk 1 Fabritech Data Pad,
-Light Side 1-A (Normal),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 1-A (Normal),Mk 1 TaggeCo Holo Lens,
-Light Side 1-A (Normal),Mk 1 Merr-Sonn Shield Generator,
-Light Side 1-A (Normal),Mk 1 BioTech Implant,
-Light Side 1-B (Normal),,
-Light Side 1-C (Normal),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 1-C (Normal),Mk 1 TaggeCo Holo Lens,
-Light Side 1-C (Normal),Mk 1 Nubian Security Scanner,
-Light Side 1-C (Normal),Mk 1 BAW Armor Mod,
-Light Side 1-C (Normal),Mk 1 BlasTech Weapon Mod,
-Light Side 1-D (Normal),Mk 1 Fabritech Data Pad,
-Light Side 1-D (Normal),Mk 1 CEC Fusion Furnace,
-Light Side 1-D (Normal),Mk 1 Loronar Power Cell,
-Light Side 1-D (Normal),Mk 1 BAW Armor Mod,
-Light Side 1-E (Normal),Mk 1 Nubian Security Scanner,
-Light Side 1-E (Normal),Mk 1 Loronar Power Cell,
-Light Side 1-E (Normal),Mk 1 BAW Armor Mod,
-Light Side 1-E (Normal),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 1-E (Normal),Mk 1 BlasTech Weapon Mod,
-Light Side 1-F (Normal),Mk 1 Fabritech Data Pad,
-Light Side 1-F (Normal),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 1-F (Normal),Mk 1 TaggeCo Holo Lens,
-Light Side 1-F (Normal),Mk 1 Merr-Sonn Shield Generator,
-Light Side 1-F (Normal),Mk 1 BioTech Implant,
-Light Side 2-A (Normal),Mk 1 Arakyd Droid Caller,
-Light Side 2-A (Normal),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 2-B (Normal),Mk 1 A/KT Stun Gun,
-Light Side 2-B (Normal),Mk 1 Chiewab Hypo Syringe Prototype,
-Light Side 2-C (Normal),Mk 1 Loronar Power Cell,
-Light Side 2-C (Normal),Mk 2 BAW Armor Mod Prototype,
-Light Side 2-D (Normal),Mk 1 BAW Armor Mod,
-Light Side 2-D (Normal),Mk 1 Arakyd Droid Caller,
-Light Side 2-E (Normal),Mk 1 SoroSuub Keypad,
-Light Side 2-E (Normal),Mk 2 Nubian Security Scanner Prototype,
-Light Side 2-F (Normal),Mk 1 BlasTech Weapon Mod,
-Light Side 2-F (Normal),Mk 1 Fabritech Data Pad,
-Light Side 2-G (Normal),Mk 1 Czerka Stun Cuffs,
-Light Side 2-G (Normal),Mk 1 BioTech Implant,
-Light Side 2-H (Normal),Mk 1 Arakyd Droid Caller,
-Light Side 2-H (Normal),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 2-I (Normal),Mk 2 Chiewab Hypo Syringe,
-Light Side 2-I (Normal),Mk 2 Neuro-Saav Electrobinoculars Prototype,
-Light Side 3-A (Normal),Mk 4 BAW Armor Mod Salvage,
-Light Side 3-A (Normal),Mk 2 TaggeCo Holo Lens,
-Light Side 3-B (Normal),Mk 1 Sienar Holo Projector,
-Light Side 3-B (Normal),Mk 1 BlasTech Weapon Mod,
-Light Side 3-C (Normal),Mk 1 BlasTech Weapon Mod,
-Light Side 3-C (Normal),Mk 1 TaggeCo Holo Lens,
-Light Side 3-D (Normal),Mk 1 Nubian Design Tech Prototype,
-Light Side 3-D (Normal),Mk 1 Arakyd Droid Caller,
-Light Side 3-E (Normal),Mk 1 BlasTech Weapon Mod,
-Light Side 3-E (Normal),Mk 1 A/KT Stun Gun,
-Light Side 3-F (Normal),Mk 1 Athakam Medpac Salvage,
-Light Side 3-F (Normal),Mk 3 BioTech Implant,
-Light Side 3-G (Normal),Mk 3 Neuro-Saav Electrobinoculars,
-Light Side 3-G (Normal),Mk 1 BioTech Implant,
-Light Side 3-G (Normal),Mk 1 Merr-Sonn Shield Generator,
-Light Side 3-H (Normal),Mk 2 Fabritech Data Pad,
-Light Side 3-H (Normal),Mk 1 Loronar Power Cell,
-Light Side 3-I (Normal),Mk 3 TaggeCo Holo Lens Prototype,
-Light Side 3-I (Normal),Mk 1 Nubian Security Scanner,
-Light Side 4-A (Normal),Mk 2 Sienar Holo Projector Prototype Salvage,
-Light Side 4-A (Normal),Mk 1 A/KT Stun Gun,
-Light Side 4-B (Normal),Mk 2 Chedak Comlink Prototype,
-Light Side 4-B (Normal),Mk 2 Neuro-Saav Electrobinoculars Prototype,
-Light Side 4-C (Normal),Mk 4 TaggeCo Holo Lens Salvage,
-Light Side 4-C (Normal),Mk 1 Fabritech Data Pad,
-Light Side 4-D (Normal),Mk 4 Fabritech Data Pad Prototype,
-Light Side 4-D (Normal),Mk 2 Nubian Security Scanner Prototype,
-Light Side 4-E (Normal),Mk 4 BlasTech Weapon Mod Prototype,
-Light Side 4-E (Normal),Mk 2 BlasTech Weapon Mod,
-Light Side 4-F (Normal),Mk 5 Loronar Power Cell Salvage,
-Light Side 4-F (Normal),Mk 1 Fabritech Data Pad,
-Light Side 4-G (Normal),Mk 5 Neuro-Saav Electrobinoculars Salvage,
-Light Side 4-G (Normal),Mk 1 Chiewab Hypo Syringe Prototype,
-Light Side 4-G (Normal),Mk 1 BAW Armor Mod,
-Light Side 4-H (Normal),Mk 4 BioTech Implant Prototype,
-Light Side 4-H (Normal),Mk 1 BioTech Implant,
-Light Side 4-I (Normal),Mk 5 BAW Armor Mod Salvage,
-Light Side 4-I (Normal),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 4-J (Normal),Mk 5 BlasTech Weapon Mod Prototype,
-Light Side 4-J (Normal),Mk 1 Arakyd Droid Caller,
-Light Side 4-K (Normal),Mk 3 BioTech Implant,
-Light Side 4-K (Normal),Mk 2 Chiewab Hypo Syringe,
-Light Side 4-L (Normal),Mk 3 Arakyd Droid Caller Salvage,
-Light Side 4-L (Normal),Mk 1 BlasTech Weapon Mod,
-Light Side 5-A (Normal),Mk 5 BAW Armor Mod Salvage,
-Light Side 5-A (Normal),Mk 1 Sienar Holo Projector,
-Light Side 5-B (Normal),Mk 5 Neuro-Saav Electrobinoculars Salvage,
-Light Side 5-B (Normal),Mk 3 Neuro-Saav Electrobinoculars,
-Light Side 5-C (Normal),Mk 4 A/KT Stun Gun Salvage,
-Light Side 5-C (Normal),Mk 3 TaggeCo Holo Lens Prototype,
-Light Side 5-D (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage,
-Light Side 5-D (Normal),Mk 6 BlasTech Weapon Mod Prototype,
-Light Side 5-E (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Light Side 5-E (Normal),Mk 2 Fabritech Data Pad,
-Light Side 5-F (Normal),Mk 4 SoroSuub Keypad Salvage,
-Light Side 5-F (Normal),Mk 2 Arakyd Droid Caller,
-Light Side 5-G (Normal),Mk 5 Loronar Power Cell Salvage,
-Light Side 5-G (Normal),Mk 3 BlasTech Implant,
-Light Side 5-H (Normal),Mk 8 BlasTech Weapon Mod Prototype Salvage,
-Light Side 5-H (Normal),Mk 3 Neuro-Saav Electrobinoculars,
-Light Side 5-I (Normal),Mk 7 BAW Armor Mod Prototype Salvage,
-Light Side 5-I (Normal),Mk 1 Sienar Holo Projector,
-Light Side 5-J (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Light Side 5-J (Normal),Mk 1 Nubian Design Tech Prototype,
-Light Side 5-K (Normal),Mk 5 SoroSuub Keypad Salvage,
-Light Side 5-K (Normal),Mk 5 Fabritech Data Pd,
-Light Side 5-L (Normal),Mk 4 TaggeCo Holo Lens Salvage,
-Light Side 5-L (Normal),Mk 1 TaggeCo Holo Lens,
-Light Side 6-A (Normal),Mk 3 Sienar Holo Projector Salvage,
-Light Side 6-A (Normal),Mk 6 Fabritech Data Pad Salvage,
-Light Side 6-A (Normal),Mk 6 BlasTech Weapon Mod Prototype,
-Light Side 6-B (Normal),Mk 6 Nubian Security Scanner Prototype Salvage,
-Light Side 6-B (Normal),Mk 4 Chiewab Hypo Syringe Prototype Salvage,
-Light Side 6-B (Normal),Mk 4 BioTech Implant Prototype,
-Light Side 6-C (Normal),Mk 5 Nubian Design Tech Prototype Salvage,
-Light Side 6-C (Normal),Mk 1 Athakam Medpac Salvage,
-Light Side 6-C (Normal),Mk 5 Fabritech Data Pd,
-Light Side 6-D (Normal),Mk 2 Zaltin Bacta Gel Prototype Salvage,
-Light Side 6-D (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Light Side 6-D (Normal),Mk 1 CEC Fusion Furnace,
-Light Side 6-E (Normal),Mk 4 A/KT Stun Gun Salvage,
-Light Side 6-E (Normal),Mk 2 Sienar Holo Projector Prototype Salvage,
-Light Side 6-E (Normal),Mk 2 BAW Armor Mod Prototype,
-Light Side 6-F (Normal),Mk 5 Chiewab Hypo Syringe Prototype Salvage,
-Light Side 6-F (Normal),Mk 4 BAW Armor Mod Salvage,
-Light Side 6-F (Normal),Mk 2 Fabritech Data Pad,
-Light Side 6-G (Normal),Mk 6 BioTech Implant Prototype Salvage,
-Light Side 6-G (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage,
-Light Side 6-G (Normal),Mk 3 BioTech Implant,
-Light Side 6-H (Normal),Mk 4 Arakyd Droid Caller Salvage,
-Light Side 6-H (Normal),Mk 5 BAW Armor Mod Salvage,
-Light Side 6-H (Normal),Mk 1 A/KT Stun Gun,
-Light Side 6-I (Normal),Mk 5 SoroSuub Keypad Salvage,
-Light Side 6-I (Normal),Mk 5 Neuro-Saav Electrobinoculars Salvage,
-Light Side 6-I (Normal),Mk 1 TaggeCo Holo Lens,
-Light Side 6-J (Normal),Mk 4 SoroSuub Keypad Salvage,
-Light Side 6-J (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Light Side 6-J (Normal),Mk 1 A/KT Stun Gun,
-Light Side 7-A (Normal),Mk 3 Sienar Holo Projector Salvage,
-Light Side 7-A (Normal),Mk 4 Chiewab Hypo Syringe Prototype Salvage,
-Light Side 7-A (Normal),Mk 3 TaggeCo Holo Lens Prototype,
-Light Side 7-B (Normal),Mk 5 SoroSuub Keypad Salvage,
-Light Side 7-B (Normal),Mk 7 Kyrotech Shock Prod Prototype Salvage,
-Light Side 7-B (Normal),Mk 7 BAW Armor Mod Prototype Salvage,
-Light Side 7-B (Normal),Mk 5 Fabritech Data Pd,
-Light Side 7-C (Normal),Mk 7 BioTech Implant Prototype Salvage,
-Light Side 7-C (Normal),Mk 4 TaggeCo Holo Lens Salvage,
-Light Side 7-C (Normal),Mk 2 Chiewab Hypo Syringe,
-Light Side 7-D (Normal),Mk 3 Czerka Stun Cuffs Salvage,
-Light Side 7-D (Normal),Mk 4 Nubian Security Scanner Prototype Salvage,
-Light Side 7-D (Normal),Mk 1 SoroSuub Keypad,
-Light Side 7-E (Normal),Mk 6 Chiewab Hypo Syringe Salvage,
-Light Side 7-E (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Light Side 7-E (Normal),Mk 2 Chedak Comlink Prototype,
-Light Side 7-F (Normal),Mk 8 BlasTech Weapon Mod Prototype Salvage,
-Light Side 7-F (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Light Side 7-F (Normal),Mk 4 Fabritech Data Pad Prototype,
-Light Side 7-G (Normal),Mk 3 Carbanti Sensor Array,*
-Light Side 7-G (Normal),Mk 3 Chiewab Hypo Syringe Prototype Salvage,
-Light Side 7-G (Normal),Mk 2 TaggeCo Holo Lens,
-Light Side 7-H (Normal),Mk 4 Arakyd Droid Caller Salvage,
-Light Side 7-H (Normal),Mk 5 Loronar Power Cell Salvage,
-Light Side 7-H (Normal),Mk 3 BlasTech Implant,
-Light Side 8-A (Normal),Mk 8 BlasTech Weapon Mod Prototype Salvage,
-Light Side 8-A (Normal),Mk 1 Athakam Medpac Salvage,
-Light Side 8-A (Normal),Mk 5 Fabritech Data Pd,
-Light Side 8-B (Normal),Mk 4 CEC Fusion Furnace Prototype Salvage,
-Light Side 8-B (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage,
-Light Side 8-B (Normal),Mk 1 SoroSuub Keypad,
-Light Side 8-C (Normal),Mk 6 Nubian Security Scanner Prototype Salvage,
-Light Side 8-C (Normal),Mk 4 Nubian Security Scanner Prototype Salvage,
-Light Side 8-C (Normal),Mk 2 Arakyd Droid Caller,
-Light Side 1-A (Hard),Ewok Scout,
-Light Side 1-A (Hard),Mk 1 TaggeCo Holo Lens,
-Light Side 1-A (Hard),Mk 1 Nubian Security Scanner,
-Light Side 1-A (Hard),Mk 1 BAW Armor Mod,
-Light Side 1-B (Hard),Jedi Consular,
-Light Side 1-B (Hard),Mk 1 Fabritech Data Pad,
-Light Side 1-B (Hard),Mk 1 CEC Fusion Furnace,
-Light Side 1-B (Hard),Mk 1 BAW Armor Mod,
-Light Side 1-C (Hard),Count Dooku,
-Light Side 1-C (Hard),Mk 1 Merr-Sonn Shield Generator,
-Light Side 1-C (Hard),Mk 1 BlasTech Weapon Mod,
-Light Side 1-C (Hard),Mk 1 BioTech Implant,
-Light Side 1-D (Hard),Royal Guard,
-Light Side 1-D (Hard),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 1-D (Hard),Mk 1 BAW Armor Mod,
-Light Side 1-D (Hard),Mk 1 Arakyd Droid Caller,
-Light Side 2-A (Hard),Rey (Scavenger),
-Light Side 2-A (Hard),Mk 2 BAW Armor Mod Prototype,
-Light Side 2-A (Hard),Mk 1 A/KT Stun Gun,
-Light Side 2-A (Hard),Mk 1 Loronar Power Cell,
-Light Side 2-B (Hard),First Order Stormtrooper,
-Light Side 2-B (Hard),Mk 1 SoroSuub Keypad,
-Light Side 2-B (Hard),Mk 1 BAW Armor Mod,
-Light Side 2-B (Hard),Mk 2 Nubian Security Scanner Prototype,
-Light Side 2-C (Hard),Ewok Elder,
-Light Side 2-C (Hard),Mk 1 Arakyd Droid Caller,
-Light Side 2-C (Hard),Mk 1 BlasTech Weapon Mod,
-Light Side 2-C (Hard),Mk 1 Fabritech Data Pad,
-Light Side 2-D (Hard),Talia,
-Light Side 2-D (Hard),Mk 2 Arakyd Droid Caller,
-Light Side 2-D (Hard),Mk 1 TaggeCo Holo Lens,
-Light Side 2-D (Hard),Mk 1 Chiewab Hypo Syringe Prototype,
-Light Side 2-E (Hard),Mace Windu,
-Light Side 2-E (Hard),Mk 1 Czerka Stun Cuffs,
-Light Side 2-E (Hard),Mk 1 BlasTech Weapon Mod,
-Light Side 2-E (Hard),Mk 1 BioTech Implant,
-Light Side 2-F (Hard),Talia,
-Light Side 2-F (Hard),Mk 2 Chiewab Hypo Syringe,
-Light Side 2-F (Hard),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 2-F (Hard),Mk 2 Neuro-Saav Electrobinoculars Prototype,
-Light Side 3-A (Hard),Resistance Trooper,
-Light Side 3-A (Hard),Mk 4 BAW Armor Mod Salvage,
-Light Side 3-A (Hard),Mk 2 TaggeCo Holo Lens,
-Light Side 3-A (Hard),Mk 1 BlasTech Weapon Mod,
-Light Side 3-B (Hard),Dathcha,
-Light Side 3-B (Hard),Mk 1 Sienar Holo Projector,
-Light Side 3-B (Hard),Mk 2 Fabritech Data Pad,
-Light Side 3-B (Hard),Mk 1 Loronar Power Cell,
-Light Side 3-C (Hard),Stormtrooper,
-Light Side 3-C (Hard),Mk 3 BlasTech Implant,
-Light Side 3-C (Hard),Mk 1 TaggeCo Holo Lens,
-Light Side 3-C (Hard),Mk 1 Arakyd Droid Caller,
-Light Side 3-D (Hard),Luminara Unduli,
-Light Side 3-D (Hard),Mk 3 BioTech Implant,
-Light Side 3-D (Hard),Mk 1 Nubian Design Tech Prototype,
-Light Side 3-D (Hard),Mk 2 BlasTech Weapon Mod,
-Light Side 3-E (Hard),Clone Wars Chewbacca,
-Light Side 3-E (Hard),Mk 1 Athakam Medpac Salvage,
-Light Side 3-E (Hard),Mk 3 Neuro-Saav Electrobinoculars,
-Light Side 3-E (Hard),Mk 1 BioTech Implant,
-Light Side 3-F (Hard),Dathcha,
-Light Side 3-F (Hard),Mk 3 TaggeCo Holo Lens Prototype,
-Light Side 3-F (Hard),Mk 1 A/KT Stun Gun,
-Light Side 3-F (Hard),Mk 1 Merr-Sonn Shield Generator,
-Light Side 4-A (Hard),Teebo,
-Light Side 4-A (Hard),Mk 2 Sienar Holo Projector Prototype Salvage,
-Light Side 4-A (Hard),Mk 2 Chedak Comlink Prototype,
-Light Side 4-A (Hard),Mk 2 Neuro-Saav Electrobinoculars Prototype,
-Light Side 4-B (Hard),Lobot,
-Light Side 4-B (Hard),Mk 4 TaggeCo Holo Lens Salvage,
-Light Side 4-B (Hard),Mk 4 Fabritech Data Pad Prototype,
-Light Side 4-B (Hard),Mk 2 Nubian Security Scanner Prototype,
-Light Side 4-C (Hard),General Veers,
-Light Side 4-C (Hard),Mk 5 Loronar Power Cell Salvage,
-Light Side 4-C (Hard),Mk 4 BlasTech Weapon Mod Prototype,
-Light Side 4-C (Hard),Mk 2 BlasTech Weapon Mod,
-Light Side 4-D (Hard),IG-86 Sentinel Droid,
-Light Side 4-D (Hard),Vulture Droid,
-Light Side 4-D (Hard),Mk 5 Neuro-Saav Electrobinoculars Salvage,
-Light Side 4-D (Hard),Mk 4 BioTech Implant Prototype,
-Light Side 4-D (Hard),Mk 1 Chiewab Hypo Syringe Prototype,
-Light Side 4-D (Hard),Mk 1 BioTech Implant,
-Light Side 4-E (Hard),Poggle the Lesser,
-Light Side 4-E (Hard),Mk 5 BAW Armor Mod Salvage,
-Light Side 4-E (Hard),Mk 5 BlasTech Weapon Mod Prototype,
-Light Side 4-E (Hard),Mk 1 Neuro-Saav Electrobinoculars,
-Light Side 4-E (Hard),Mk 1 Arakyd Droid Caller,
-Light Side 4-F (Hard),Rose Tico,
-Light Side 4-F (Hard),Mk 3 Arakyd Droid Caller Salvage,
-Light Side 4-F (Hard),Mk 2 Chiewab Hypo Syringe,
-Light Side 4-F (Hard),Mk 3 BioTech Implant,
-Light Side 4-F (Hard),Mk 1 BlasTech Weapon Mod,
-Light Side 5-A (Hard),URoRRuR'R'R,
-Light Side 5-A (Hard),Mk 5 BAW Armor Mod Salvage,
-Light Side 5-A (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Light Side 5-A (Hard),Mk 5 Neuro-Saav Electrobinoculars Salvage,
-Light Side 5-A (Hard),Mk 3 Neuro-Saav Electrobinoculars,
-Light Side 5-B (Hard),Lobot,
-Light Side 5-B (Hard),Mk 4 A/KT Stun Gun Salvage,
-Light Side 5-B (Hard),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage,
-Light Side 5-B (Hard),Mk 6 BlasTech Weapon Mod Prototype,
-Light Side 5-B (Hard),Mk 3 TaggeCo Holo Lens Prototype,
-Light Side 5-C (Hard),Jedi Knight Anakin,
-Light Side 5-C (Hard),Mk 4 SoroSuub Keypad Salvage,
-Light Side 5-C (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Light Side 5-C (Hard),Mk 2 Arakyd Droid Caller,
-Light Side 5-C (Hard),Mk 2 Fabritech Data Pad,
-Light Side 5-D (Hard),Zaalbar,
-Light Side 5-D (Hard),Mk 8 BlasTech Weapon Mod Prototype Salvage,
-Light Side 5-D (Hard),Mk 5 Loronar Power Cell Salvage,
-Light Side 5-D (Hard),Mk 3 BlasTech Implant,
-Light Side 5-D (Hard),Mk 3 Neuro-Saav Electrobinoculars,
-Light Side 5-E (Hard),Clone Sergeant - Phase I,
-Light Side 5-E (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Light Side 5-E (Hard),Mk 7 BAW Armor Mod Prototype Salvage,
-Light Side 5-E (Hard),Mk 1 Sienar Holo Projector,
-Light Side 5-E (Hard),Mk 1 Nubian Design Tech Prototype,
-Light Side 5-F (Hard),URoRRuR'R'R,
-Light Side 5-F (Hard),Mk 5 SoroSuub Keypad Salvage,
-Light Side 5-F (Hard),Mk 4 TaggeCo Holo Lens Salvage,
-Light Side 5-F (Hard),Mk 5 Fabritech Data Pd,
-Light Side 5-F (Hard),Mk 1 TaggeCo Holo Lens,
-Light Side 6-A (Hard),Juhani,
-Light Side 6-A (Hard),Mk 6 Nubian Security Scanner Prototype Salvage,
-Light Side 6-A (Hard),Mk 3 Sienar Holo Projector Salvage,
-Light Side 6-A (Hard),Mk 4 Chiewab Hypo Syringe Prototype Salvage,
-Light Side 6-A (Hard),Mk 6 Fabritech Data Pad Salvage,
-Light Side 6-B (Hard),Jawa,
-Light Side 6-B (Hard),Mk 2 Zaltin Bacta Gel Prototype Salvage,
-Light Side 6-B (Hard),Mk 5 Nubian Design Tech Prototype Salvage,
-Light Side 6-B (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Light Side 6-B (Hard),Mk 1 Athakam Medpac Salvage,
-Light Side 6-C (Hard),General Veers,
-Light Side 6-C (Hard),B-28 Extinction-class Bomber,
-Light Side 6-C (Hard),Mk 4 A/KT Stun Gun Salvage,
-Light Side 6-C (Hard),Mk 5 Chiewab Hypo Syringe Prototype Salvage,
-Light Side 6-C (Hard),Mk 2 Sienar Holo Projector Prototype Salvage,
-Light Side 6-C (Hard),Mk 4 BAW Armor Mod Salvage,
-Light Side 6-D (Hard),First Order TIE Pilot,
-Light Side 6-D (Hard),Mk 4 Arakyd Droid Caller Salvage,
-Light Side 6-D (Hard),Mk 6 BioTech Implant Prototype Salvage,
-Light Side 6-D (Hard),Mk 5 BAW Armor Mod Salvage,
-Light Side 6-D (Hard),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage,
-Light Side 6-E (Hard),Poggle the Lesser,
-Light Side 6-E (Hard),IG-2000,
-Light Side 6-E (Hard),Mk 5 SoroSuub Keypad Salvage,
-Light Side 6-E (Hard),Mk 4 SoroSuub Keypad Salvage,
-Light Side 6-E (Hard),Mk 5 Neuro-Saav Electrobinoculars Salvage,
-Light Side 6-E (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Light Side 7-A (Hard),Finn,
-Light Side 7-A (Hard),Mk 5 SoroSuub Keypad Salvage,
-Light Side 7-A (Hard),Mk 3 Sienar Holo Projector Salvage,
-Light Side 7-A (Hard),Mk 4 Chiewab Hypo Syringe Prototype Salvage,
-Light Side 7-A (Hard),Mk 7 BAW Armor Mod Prototype Salvage,
-Light Side 7-B (Hard),Poe Dameron,
-Light Side 7-B (Hard),Mk 3 Czerka Stun Cuffs Salvage,
-Light Side 7-B (Hard),Mk 7 BioTech Implant Prototype Salvage,
-Light Side 7-B (Hard),Mk 4 Nubian Security Scanner Prototype Salvage,
-Light Side 7-B (Hard),Mk 4 TaggeCo Holo Lens Salvage,
-Light Side 7-C (Hard),Ima-Gun Di,
-Light Side 7-C (Hard),Mk 6 Chiewab Hypo Syringe Salvage,
-Light Side 7-C (Hard),Mk 8 BlasTech Weapon Mod Prototype Salvage,
-Light Side 7-C (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Light Side 7-C (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Light Side 7-D (Hard),Luke Skywalker (Farmboy),
-Light Side 7-D (Hard),Mk 3 Carbanti Sensor Array,*
-Light Side 7-D (Hard),Mk 4 Arakyd Droid Caller Salvage,
-Light Side 7-D (Hard),Mk 3 Chiewab Hypo Syringe Prototype Salvage,
-Light Side 7-D (Hard),Mk 5 Loronar Power Cell Salvage,
-Dark Side 1-A (Normal),Mk 2 TaggeCo Holo Lens,
-Dark Side 1-A (Normal),Mk 2 CEC Fusion Furnace,
-Dark Side 1-B (Normal),Mk 3 Loronar Power Cell,
-Dark Side 1-B (Normal),Mk 1 Nubian Security Scanner,
-Dark Side 1-C (Normal),Mk 5 BioTech Implant Prototype,
-Dark Side 1-C (Normal),Mk 1 SoroSuub Keypad,
-Dark Side 1-D (Normal),Mk 3 BioTech Implant,
-Dark Side 1-D (Normal),Mk 1 BlasTech Weapon Mod,
-Dark Side 1-E (Normal),Mk 3 BAW Armor Mod,
-Dark Side 1-E (Normal),Mk 1 Nubian Design Tech Prototype,
-Dark Side 1-F (Normal),Mk 2 SoroSuub Keypad Prototype,
-Dark Side 1-F (Normal),Mk 2 BlasTech Weapon Mod,
-Dark Side 2-A (Normal),Mk 6 Loronar Power Cell Salvage,
-Dark Side 2-A (Normal),Mk 2 CEC Fusion Furnace,
-Dark Side 2-B (Normal),Mk 5 BlasTech Weapon Mod Prototype,
-Dark Side 2-B (Normal),Mk 2 BlasTech Weapon Mod,
-Dark Side 2-C (Normal),Mk 4 BAW Armor Mod Salvage,
-Dark Side 2-C (Normal),Mk 4 Loronar Power Cell Prototype,
-Dark Side 2-C (Normal),Mk 1 BAW Armor Mod,
-Dark Side 2-D (Normal),Mk 2 Chedak Comlink Prototype,
-Dark Side 2-D (Normal),Mk 1 Arakyd Droid Caller,
-Dark Side 2-E (Normal),Mk 5 Loronar Power Cell Salvage,
-Dark Side 2-E (Normal),Mk 4 BioTech Implant Prototype,
-Dark Side 2-F (Normal),Mk 4 Fabritech Data Pad Prototype,
-Dark Side 2-F (Normal),Mk 3 BioTech Implant,
-Dark Side 2-G (Normal),Mk 3 Arakyd Droid Caller Salvage,
-Dark Side 2-G (Normal),Mk 2 Nubian Security Scanner Prototype,
-Dark Side 2-H (Normal),Mk 2 Merr-Sonn Shield Generator,
-Dark Side 2-H (Normal),Mk 4 BlasTech Weapon Mod Prototype,
-Dark Side 2-I (Normal),Mk 1 Chedak Comlink Salvage,
-Dark Side 2-I (Normal),Mk 1 A/KT Stun Gun,
-Dark Side 3-A (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 3-A (Normal),Mk 1 Czerka Stun Cuffs,
-Dark Side 3-B (Normal),Mk 6 Fabritech Data Pad Salvage,
-Dark Side 3-B (Normal),Mk 2 SoroSuub Keypad Prototype,
-Dark Side 3-C (Normal),Mk 4 Nubian Security Scanner Prototype Salvage,
-Dark Side 3-C (Normal),Mk 2 BAW Armor Mod Prototype,
-Dark Side 3-D (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 3-D (Normal),Mk 4 Fabritech Data Pad Prototype,
-Dark Side 3-E (Normal),Mk 4 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 3-E (Normal),Mk 2 Arakyd Droid Caller,
-Dark Side 3-F (Normal),Mk 4 BAW Armor Mod Salvage,
-Dark Side 3-F (Normal),Mk 2 CEC Fusion Furnace,
-Dark Side 3-G (Normal),Mk 5 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 3-G (Normal),Mk 2 TaggeCo Holo Lens,
-Dark Side 3-H (Normal),Mk 2 Sienar Holo Projector Prototype Salvage,
-Dark Side 3-H (Normal),Mk 1 Chiewab Hypo Syringe Prototype,
-Dark Side 3-I (Normal),Mk 3 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 3-I (Normal),Mk 3 Loronar Power Cell,
-Dark Side 4-A (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 4-A (Normal),Mk 3 BioTech Implant,
-Dark Side 4-B (Normal),Mk 5 Loronar Power Cell Salvage,
-Dark Side 4-B (Normal),Mk 2 Chiewab Hypo Syringe,
-Dark Side 4-C (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 4-C (Normal),Mk 2 BlasTech Weapon Mod,
-Dark Side 4-D (Normal),Mk 6 Fabritech Data Pad Salvage,
-Dark Side 4-D (Normal),Mk 2 Neuro-Saav Electrobinoculars Prototype,
-Dark Side 4-E (Normal),Mk 7 BlasTech Weapon Mod Prototype Salvage,
-Dark Side 4-E (Normal),Mk 4 BioTech Implant Prototype,
-Dark Side 4-F (Normal),Mk 7 BAW Armor Mod Prototype Salvage,
-Dark Side 4-F (Normal),Mk 1 TaggeCo Holo Lens,
-Dark Side 4-G (Normal),Mk 4 Nubian Security Scanner Prototype Salvage,
-Dark Side 4-G (Normal),Mk 1 CEC Fusion Furnace,
-Dark Side 4-H (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 4-H (Normal),Mk 1 Merr-Sonn Shield Generator,
-Dark Side 4-I (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 4-I (Normal),Mk 2 Merr-Sonn Shield Generator,
-Dark Side 4-J (Normal),Mk 7 BAW Armor Mod Prototype Salvage,
-Dark Side 4-J (Normal),Mk 1 Fabritech Data Pad,
-Dark Side 4-K (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 4-K (Normal),Mk 1 Neuro-Saav Electrobinoculars,
-Dark Side 4-L (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 4-L (Normal),Mk 1 Loronar Power Cell,
-Dark Side 5-A (Normal),Mk 5 Nubian Security Scanner Prototype Salvage,
-Dark Side 5-A (Normal),Mk 3 BAW Armor Mod,
-Dark Side 5-B (Normal),Mk 3 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 5-B (Normal),Mk 4 Fabritech Data Pad Prototype,
-Dark Side 5-C (Normal),Mk 7 BlasTech Weapon Mod Prototype Salvage,
-Dark Side 5-C (Normal),Mk 5 BlasTech Weapon Mod Prototype,
-Dark Side 5-C (Normal),Mk 1 BAW Armor Mod,
-Dark Side 5-D (Normal),Mk 4 CEC Fusion Furnace Prototype Salvage,
-Dark Side 5-D (Normal),Mk 1 Czerka Stun Cuffs,
-Dark Side 5-E (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 5-E (Normal),Mk 6 BlasTech Weapon Mod Prototype,
-Dark Side 5-F (Normal),Mk 5 Nubian Design Tech Prototype Salvage,
-Dark Side 5-F (Normal),Mk 4 Loronar Power Cell Prototype,
-Dark Side 5-G (Normal),Mk 5 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 5-G (Normal),Mk 2 TaggeCo Holo Lens,
-Dark Side 5-G (Normal),Mk 1 Nubian Security Scanner,
-Dark Side 5-H (Normal),Mk 3 Arakyd Droid Caller Salvage,
-Dark Side 5-H (Normal),Mk 2 CEC Fusion Furnace,
-Dark Side 5-I (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 5-I (Normal),Mk 1 SoroSuub Keypad,
-Dark Side 5-J (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 5-J (Normal),Mk 4 BlasTech Weapon Mod Prototype,
-Dark Side 5-K (Normal),Mk 4 Arakyd Droid Caller Salvage,
-Dark Side 5-K (Normal),Mk 5 BioTech Implant Prototype,
-Dark Side 5-L (Normal),Mk 6 BioTech Implant Prototype Salvage,
-Dark Side 5-L (Normal),Mk 2 Chedak Comlink Prototype,
-Dark Side 6-A (Normal),Mk 5 Nubian Security Scanner Prototype Salvage,
-Dark Side 6-A (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 6-A (Normal),Mk 1 Merr-Sonn Shield Generator,
-Dark Side 6-B (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 6-B (Normal),Mk 3 Loronar Power Cell,
-Dark Side 6-B (Normal),Mk 1 Loronar Power Cell,
-Dark Side 6-C (Normal),Mk 4 SoroSuub Keypad Salvage,
-Dark Side 6-C (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage,
-Dark Side 6-C (Normal),Mk 1 Fabritech Data Pad,
-Dark Side 6-D (Normal),Mk 2 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 6-D (Normal),Mk 2 SoroSuub Keypad Prototype,
-Dark Side 6-D (Normal),Mk 2 Nubian Security Scanner Prototype,
-Dark Side 6-E (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 6-E (Normal),Mk 6 Fabritech Data Pad Salvage,
-Dark Side 6-E (Normal),Mk 2 BlasTech Weapon Mod,
-Dark Side 6-F (Normal),Mk 4 A/KT Stun Gun Salvage,
-Dark Side 6-F (Normal),Mk 3 BAW Armor Mod,
-Dark Side 6-F (Normal),Mk 1 Arakyd Droid Caller,
-Dark Side 6-G (Normal),Mk 3 Carbanti Sensor Array Salvage,
-Dark Side 6-G (Normal),Mk 6 Loronar Power Cell Salvage,
-Dark Side 6-G (Normal),Mk 1 BlasTech Weapon Mod,
-Dark Side 6-H (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 6-H (Normal),Mk 2 Chiewab Hypo Syringe,
-Dark Side 6-H (Normal),Mk 1 Merr-Sonn Shield Generator,
-Dark Side 6-I (Normal),Mk 5 Nubian Security Scanner Prototype Salvage,
-Dark Side 6-I (Normal),Mk 1 Chedak Comlink Salvage,
-Dark Side 6-I (Normal),Mk 2 Neuro-Saav Electrobinoculars Prototype,
-Dark Side 6-J (Normal),Mk 3 Chedak Comlink Prototype Salvage,
-Dark Side 6-J (Normal),Mk 4 Loronar Power Cell Prototype,
-Dark Side 6-J (Normal),Mk 1 Chiewab Hypo Syringe Prototype,
-Dark Side 7-A (Normal),Mk 7 BioTech Implant Prototype Salvage,
-Dark Side 7-A (Normal),Mk 2 Sienar Holo Projector Prototype Salvage,
-Dark Side 7-A (Normal),Mk 5 BlasTech Weapon Mod Prototype,
-Dark Side 7-B (Normal),Mk 4 Chedak Comlink Prototype Salvage,
-Dark Side 7-B (Normal),Mk 5 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 7-B (Normal),Mk 3 Loronar Power Cell,
-Dark Side 7-C (Normal),Mk 4 Carbanti Sensor Array Prototype Salvage,
-Dark Side 7-C (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 7-C (Normal),Mk 3 BAW Armor Mod,
-Dark Side 7-D (Normal),Mk 4 CEC Fusion Furnace Prototype Salvage,
-Dark Side 7-D (Normal),Mk 3 Arakyd Droid Caller Salvage,
-Dark Side 7-D (Normal),Mk 5 BioTech Implant Prototype,
-Dark Side 7-E (Normal),Mk 5 A/KT Stun Gun Prototype Salvage,
-Dark Side 7-E (Normal),Mk 3 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 7-E (Normal),Mk 2 SoroSuub Keypad Prototype,
-Dark Side 7-F (Normal),Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 7-F (Normal),Mk 7 BlasTech Weapon Mod Prototype Salvage,
-Dark Side 7-F (Normal),Mk 2 Merr-Sonn Shield Generator,
-Dark Side 7-G (Normal),Mk 4 Arakyd Droid Caller Salvage,
-Dark Side 7-G (Normal),Mk 4 BAW Armor Mod Salvage,
-Dark Side 7-G (Normal),Mk 4 BlasTech Weapon Mod Prototype,
-Dark Side 7-H (Normal),Mk 5 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 7-H (Normal),Mk 1 Chedak Comlink Salvage,
-Dark Side 7-H (Normal),Mk 1 Czerka Stun Cuffs,
-Dark Side 8-A (Normal),Mk 9 Kyrotech Battle Computer Prototype Salvage,
-Dark Side 8-A (Normal),Mk 3 Chedak Comlink Prototype Salvage,
-Dark Side 8-A (Normal),Mk 6 Loronar Power Cell Salvage,
-Dark Side 8-A (Normal),Mk 1 Nubian Design Tech Prototype,
-Dark Side 8-B (Normal),Mk 5 A/KT Stun Gun Prototype Salvage,
-Dark Side 8-B (Normal),Mk 7 BAW Armor Mod Prototype Salvage,
-Dark Side 8-B (Normal),Mk 4 Loronar Power Cell Prototype,
-Dark Side 8-C (Normal),Mk 3 Czerka Stun Cuffs Salvage,
-Dark Side 8-C (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 8-C (Normal),Mk 2 Arakyd Droid Caller,
-Dark Side 8-D (Normal),Mk 4 Chedak Comlink Prototype Salvage,
-Dark Side 8-D (Normal),Mk 4 BAW Armor Mod Salvage,
-Dark Side 8-D (Normal),Mk 2 BlasTech Weapon Mod,
-Dark Side 8-E (Normal),Injector Head Salvage,
-Dark Side 8-E (Normal),Mk 4 Carbanti Sensor Array Prototype Salvage,
-Dark Side 8-E (Normal),Mk 3 Arakyd Droid Caller Salvage,
-Dark Side 8-E (Normal),Mk 1 SoroSuub Keypad,
-Dark Side 8-F (Normal),Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 8-F (Normal),Mk 5 Loronar Power Cell Salvage,
-Dark Side 8-F (Normal),Mk 3 BioTech Implant,
-Dark Side 8-G (Normal),Mk 5 Nubian Design Tech Prototype Salvage,
-Dark Side 8-G (Normal),Mk 5 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 8-G (Normal),Mk 2 CEC Fusion Furnace,
-Dark Side 8-H (Normal),Mk 3 Sienar Holo Projector Salvage,
-Dark Side 8-H (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 8-H (Normal),Mk 4 BioTech Implant Prototype,
-Dark Side 1-A (Hard),Sabine Wren,
-Dark Side 1-A (Hard),Mk 2 CEC Fusion Furnace,
-Dark Side 1-A (Hard),Mk 1 BlasTech Weapon Mod,
-Dark Side 1-A (Hard),Mk 1 Nubian Security Scanner,
-Dark Side 1-B (Hard),Clone Sergeant - Phase I,
-Dark Side 1-B (Hard),Mk 3 Loronar Power Cell,
-Dark Side 1-B (Hard),Mk 2 TaggeCo Holo Lens,
-Dark Side 1-B (Hard),Mk 2 BlasTech Weapon Mod,
-Dark Side 1-C (Hard),Count Dooku,
-Dark Side 1-C (Hard),Mk 5 BioTech Implant Prototype,
-Dark Side 1-C (Hard),Mk 3 BioTech Implant,
-Dark Side 1-C (Hard),Mk 1 SoroSuub Keypad,
-Dark Side 1-D (Hard),Jedi Consular,
-Dark Side 1-D (Hard),Mk 3 BAW Armor Mod,
-Dark Side 1-D (Hard),Mk 1 Nubian Design Tech Prototype,
-Dark Side 1-D (Hard),Mk 2 SoroSuub Keypad Prototype,
-Dark Side 2-A (Hard),First Order Stormtrooper,
-Dark Side 2-A (Hard),Mk 2 Chedak Comlink Prototype,
-Dark Side 2-A (Hard),Mk 2 CEC Fusion Furnace,
-Dark Side 2-A (Hard),Mk 1 Arakyd Droid Caller,
-Dark Side 2-B (Hard),Boba Fett,
-Dark Side 2-B (Hard),Mk 6 Loronar Power Cell Salvage,
-Dark Side 2-B (Hard),Mk 5 BlasTech Weapon Mod Prototype,
-Dark Side 2-B (Hard),Mk 1 Neuro-Saav Electrobinoculars,
-Dark Side 2-C (Hard),Clone Wars Chewbacca,
-Dark Side 2-C (Hard),Mk 4 BAW Armor Mod Salvage,
-Dark Side 2-C (Hard),Mk 4 Loronar Power Cell Prototype,
-Dark Side 2-C (Hard),Mk 2 BlasTech Weapon Mod,
-Dark Side 2-D (Hard),"CT-5555 ""Fives""",
-Dark Side 2-D (Hard),Mk 5 Loronar Power Cell Salvage,
-Dark Side 2-D (Hard),Mk 4 Fabritech Data Pad Prototype,
-Dark Side 2-D (Hard),Mk 3 BioTech Implant,
-Dark Side 2-E (Hard),Luminara Unduli,
-Dark Side 2-E (Hard),Mk 3 Arakyd Droid Caller Salvage,
-Dark Side 2-E (Hard),Mk 4 BlasTech Weapon Mod Prototype,
-Dark Side 2-E (Hard),Mk 4 BioTech Implant Prototype,
-Dark Side 2-F (Hard),IG-86 Sentinel Droid,
-Dark Side 2-F (Hard),Mk 1 Chedak Comlink Salvage,
-Dark Side 2-F (Hard),Mk 2 Chiewab Hypo Syringe,
-Dark Side 2-F (Hard),Mk 2 Merr-Sonn Shield Generator,
-Dark Side 2-F (Hard),Mk 2 Nubian Security Scanner Prototype,
-Dark Side 3-A (Hard),Range Trooper,
-Dark Side 3-A (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 3-A (Hard),Mk 1 Czerka Stun Cuffs,
-Dark Side 3-A (Hard),Mk 2 BAW Armor Mod Prototype,
-Dark Side 3-B (Hard),Hoth Rebel Soldier,
-Dark Side 3-B (Hard),Mk 6 Fabritech Data Pad Salvage,
-Dark Side 3-B (Hard),Mk 2 SoroSuub Keypad Prototype,
-Dark Side 3-B (Hard),Mk 2 BlasTech Weapon Mod,
-Dark Side 3-C (Hard),Jedi Consular,
-Dark Side 3-C (Hard),Mk 4 Nubian Security Scanner Prototype Salvage,
-Dark Side 3-C (Hard),Mk 3 BAW Armor Mod,
-Dark Side 3-C (Hard),Mk 2 Arakyd Droid Caller,
-Dark Side 3-D (Hard),Teebo,
-Dark Side 3-D (Hard),Mk 4 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 3-D (Hard),Mk 1 Chedak Comlink Salvage,
-Dark Side 3-D (Hard),Mk 2 CEC Fusion Furnace,
-Dark Side 3-E (Hard),Clone Sergeant - Phase I,
-Dark Side 3-E (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 3-E (Hard),Mk 4 BAW Armor Mod Salvage,
-Dark Side 3-E (Hard),Mk 2 TaggeCo Holo Lens,
-Dark Side 3-F (Hard),Jedi Knight Guardian,
-Dark Side 3-F (Hard),Mk 3 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 3-F (Hard),Mk 2 Sienar Holo Projector Prototype Salvage,
-Dark Side 3-F (Hard),Mk 3 Loronar Power Cell,
-Dark Side 3-F (Hard),Mk 1 Chiewab Hypo Syringe Prototype,
-Dark Side 4-A (Hard),Biggs Darklighter,
-Dark Side 4-A (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 4-A (Hard),Mk 1 Chedak Comlink Salvage,
-Dark Side 4-A (Hard),Mk 2 Chiewab Hypo Syringe,
-Dark Side 4-A (Hard),Mk 3 BIoTech Implant,
-Dark Side 4-B (Hard),Old Daka,
-Dark Side 4-B (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 4-B (Hard),Mk 6 Fabritech Data Pad Salvage,
-Dark Side 4-B (Hard),Mk 2 BlasTech Weapon Mod,
-Dark Side 4-B (Hard),Mk 2 Neuro-Saav Electrobinoculars Prototype,
-Dark Side 4-C (Hard),Ahsoka Tano,
-Dark Side 4-C (Hard),Mk 7 BAW Armor Mod Prototype Salvage,
-Dark Side 4-C (Hard),Mk 7 BlasTech Weapon Mod Prototype Salvage,
-Dark Side 4-C (Hard),Mk 4 BioTech Implant Prototype,
-Dark Side 4-C (Hard),Mk 1 TaggeCo Holo Lens,
-Dark Side 4-D (Hard),Vandor Chewbacca,
-Dark Side 4-D (Hard),Mk 4 Nubian Security Scanner Prototype Salvage,
-Dark Side 4-D (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 4-D (Hard),Mk 1 Merr-Sonn Shield Generator,
-Dark Side 4-D (Hard),Mk 1 CEC Fusion Furnace,
-Dark Side 4-E (Hard),Boba Fett,
-Dark Side 4-E (Hard),Mk 7 BAW Armor Mod Prototype Salvage,
-Dark Side 4-E (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 4-E (Hard),Mk 2 Merr-Sonn Shield Generator,
-Dark Side 4-E (Hard),Mk 1 Fabritech Data Pad,
-Dark Side 4-F (Hard),Jawa,
-Dark Side 4-F (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 4-F (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 4-F (Hard),Mk 1 Neuro-Saav Electrobinoculars,
-Dark Side 4-F (Hard),Mk 1 Loronar Power Cell,
-Dark Side 5-A (Hard),Ima-Gun Di,
-Dark Side 5-A (Hard),Mk 5 Nubian Security Scanner Prototype Salvage,
-Dark Side 5-A (Hard),Mk 4 Fabritech Data Pad Prototype,
-Dark Side 5-A (Hard),Mk 4 BAW Armor Mod Salvage,
-Dark Side 5-A (Hard),Mk 3 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 5-B (Hard),Bastila Shan,
-Dark Side 5-B (Hard),Mk 4 CEC Fusion Furnace Prototype Salvage,
-Dark Side 5-B (Hard),Mk 3 Arakyd Droid Caller Salvage,
-Dark Side 5-B (Hard),Mk 7 BlasTech Weapon Mod Prototype Salvage,
-Dark Side 5-B (Hard),Mk 5 BlasTech Weapon Mod Prototype,
-Dark Side 5-C (Hard),Barriss Offee,
-Dark Side 5-C (Hard),Mk 5 Nubian Design Tech Prototype Salvage,
-Dark Side 5-C (Hard),Mk 5 Loronar Power Cell Salvage,
-Dark Side 5-C (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 5-C (Hard),Mk 6 BlasTech Weapon Mod Prototype,
-Dark Side 5-D (Hard),Rey (Scavenger),
-Dark Side 5-D (Hard),Rey's Millennium Falcon,
-Dark Side 5-D (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 5-D (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 5-D (Hard),Mk 2 TaggeCo Holo Lens,
-Dark Side 5-D (Hard),Mk 2 CEC Fusion Furnace,
-Dark Side 5-E (Hard),Barriss Offee,
-Dark Side 5-E (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 5-E (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 5-E (Hard),Mk 4 BlasTech Weapon Mod Prototype,
-Dark Side 5-E (Hard),Mk 2 TaggeCo Holo Lens,
-Dark Side 5-F (Hard),Royal Guard,
-Dark Side 5-F (Hard),Mk 6 BioTech Implant Prototype Salvage,
-Dark Side 5-F (Hard),Mk 4 Arakyd Droid Caller Salvage,
-Dark Side 5-F (Hard),Mk 5 BioTech Implant Prototype,
-Dark Side 5-F (Hard),Mk 2 Chedak Comlink Prototype,
-Dark Side 6-A (Hard),Hoth Rebel Scout,
-Dark Side 6-A (Hard),Mk 5 Nubian Security Scanner Prototype Salvage,
-Dark Side 6-A (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 6-A (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 6-A (Hard),Mk 3 Loronar Power Cell,
-Dark Side 6-B (Hard),First Order TIE Pilot,
-Dark Side 6-B (Hard),Mk 2 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 6-B (Hard),Mk 4 SoroSuub Keypad Salvage,
-Dark Side 6-B (Hard),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage,
-Dark Side 6-B (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 6-C (Hard),Tusken Raider,
-Dark Side 6-C (Hard),Mk 4 A/KT Stun Gun Salvage,
-Dark Side 6-C (Hard),Mk 6 Fabritech Data Pad Salvage,
-Dark Side 6-C (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 6-C (Hard),Mk 3 BAW Armor Mod,
-Dark Side 6-D (Hard),Jolee Bindo,
-Dark Side 6-D (Hard),Mk 3 Carbanti Sensor Array Salvage,
-Dark Side 6-D (Hard),Mk 6 Loronar Power Cell Salvage,
-Dark Side 6-D (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 6-D (Hard),Mk 2 Chiewab Hypo Syringe,
-Dark Side 6-E (Hard),IG-100 MagnaGuard,
-Dark Side 6-E (Hard),Mk 3 Chedak Comlink Prototype Salvage,
-Dark Side 6-E (Hard),Mk 5 Nubian Security Scanner Prototype Salvage,
-Dark Side 6-E (Hard),Mk 1 Chedak Comlink Salvage,
-Dark Side 6-E (Hard),Mk 4 Loronar Power Cell Prototype,
-Dark Side 7-A (Hard),Bastila Shan (Fallen),
-Dark Side 7-A (Hard),Mk 4 Chedak Comlink Prototype Salvage,
-Dark Side 7-A (Hard),Mk 7 BioTech Implant Prototype Salvage,
-Dark Side 7-A (Hard),Mk 2 Sienar Holo Projector Prototype Salvage,
-Dark Side 7-A (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage,
-Dark Side 7-B (Hard),Visas Marr,
-Dark Side 7-B (Hard),Mk 4 Carbanti Sensor Array Prototype Salvage,
-Dark Side 7-B (Hard),Mk 4 CEC Fusion Furnace Prototype Salvage,
-Dark Side 7-B (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Dark Side 7-B (Hard),Mk 3 Arakyd Droid Caller Salvage,
-Dark Side 7-C (Hard),Amilyn Holdo,
-Dark Side 7-C (Hard),Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 7-C (Hard),Mk 5 A/KT Stun Gun Prototype Salvage,
-Dark Side 7-C (Hard),Mk 7 BlasTech Weapon Mod Prototype Salvage,
-Dark Side 7-C (Hard),Mk 3 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 7-D (Hard),Emperor's Shuttle,
-Dark Side 7-D (Hard),Mk 5 Chiewab Hypo Syringe Prototype Salvage,
-Dark Side 7-D (Hard),Mk 4 Arakyd Droid Caller Salvage,
-Dark Side 7-D (Hard),Mk 1 Chedak Comlink Salvage,
-Dark Side 7-D (Hard),Mk 4 BAW Armor Mod Salvage,
-Dark Side 8-A (Hard),Wicket,
-Dark Side 8-A (Hard),Mk 5 A/KT Stun Gun Prototype Salvage,
-Dark Side 8-A (Hard),Mk 3 Chedak Comlink Prototype Salvage,
-Dark Side 8-A (Hard),Mk 7 BAW Armor Mod Prototype Salvage,
-Dark Side 8-A (Hard),Mk 6 Loronar Power Cell Salvage,
-Dark Side 8-B (Hard),Jedi Consular's Starfighter,
-Dark Side 8-B (Hard),Mk 4 Chedak Comlink Prototype Salvage,
-Dark Side 8-B (Hard),Mk 3 Czerka Stun Cuffs Salvage,
-Dark Side 8-B (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Dark Side 8-B (Hard),Mk 4 BAW Armor Mod Salvage,
-Dark Side 8-C (Hard),Embo,
-Dark Side 8-C (Hard),Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 8-C (Hard),Mk 4 Carbanti Sensor Array Prototype Salvage,
-Dark Side 8-C (Hard),Mk 5 Loronar Power Cell Salvage,
-Dark Side 8-C (Hard),Mk 3 Arakyd Droid Caller Salvage,
-Dark Side 8-D (Hard),Nightsister Zombie,
-Dark Side 8-D (Hard),Mk 5 Nubian Design Tech Prototype Salvage,
-Dark Side 8-D (Hard),Mk 3 Sienar Holo Projector Salvage,
-Dark Side 8-D (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage,
-Dark Side 8-D (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage,
-Cantina 1-A,Geonosian Soldier,
-Cantina 1-A,Ability Material Mk III,
-Cantina 1-A,Ability Material Mk II,
-Cantina 1-A,Ability Material Mk I,
-Cantina 1-B,Luke Skywalker (Farmboy),
-Cantina 1-B,Ability Material Mk III,
-Cantina 1-B,Ability Material Mk II,
-Cantina 1-B,Ability Material Mk I,
-Cantina 1-C,Clone Wars Chewbacca,
-Cantina 1-C,Ability Material Mk III,
-Cantina 1-C,Ability Material Mk II,
-Cantina 1-C,Ability Material Mk I,
-Cantina 1-D,Scarif Rebel Pathfinder,
-Cantina 1-D,Ability Material Mk III,
-Cantina 1-D,Ability Material Mk II,
-Cantina 1-D,Ability Material Mk I,
-Cantina 1-E,Lando Calrissian,
-Cantina 1-E,Ability Material Mk III,
-Cantina 1-E,Ability Material Mk II,
-Cantina 1-E,Ability Material Mk I,
-Cantina 1-F,Hera Syndulla,
-Cantina 1-F,Ability Material Mk III,
-Cantina 1-F,Ability Material Mk II,
-Cantina 1-F,Ability Material Mk I,
-Cantina 1-G,Talia,
-Cantina 1-G,Ability Material Mk III,
-Cantina 1-G,Ability Material Mk II,
-Cantina 1-G,Ability Material Mk I,
-Cantina 2-A,Nightsister Acolyte,
-Cantina 2-A,Ability Material Mk III,
-Cantina 2-A,Ability Material Mk II,
-Cantina 2-A,Ability Material Mk I,
-Cantina 2-B,Ezra Bridger,
-Cantina 2-B,Ability Material Mk III,
-Cantina 2-B,Ability Material Mk II,
-Cantina 2-B,Ability Material Mk I,
-Cantina 2-C,Imperial Super Commando,
-Cantina 2-C,Ability Material Mk III,
-Cantina 2-C,Ability Material Mk II,
-Cantina 2-C,Ability Material Mk I,
-Cantina 2-D,Jawa,
-Cantina 2-D,Ability Material Mk III,
-Cantina 2-D,Ability Material Mk II,
-Cantina 2-D,Ability Material Mk I,
-Cantina 2-E,Gar Saxon,
-Cantina 2-E,Ability Material Mk III,
-Cantina 2-E,Ability Material Mk II,
-Cantina 2-E,Ability Material Mk I,
-Cantina 2-F,Obi-Wan Kenobi (Old Ben),
-Cantina 2-F,Ability Material Mk III,
-Cantina 2-F,Ability Material Mk II,
-Cantina 2-F,Ability Material Mk I,
-Cantina 2-G,First Order Executioner,
-Cantina 2-G,Ability Material Mk III,
-Cantina 2-G,Ability Material Mk II,
-Cantina 2-G,Ability Material Mk I,
-Cantina 3-A,Jedi Consular,
-Cantina 3-A,Ability Material Mk III,
-Cantina 3-A,Ability Material Mk II,
-Cantina 3-A,Ability Material Mk I,
-Cantina 3-B,Qi'ra,
-Cantina 3-B,Ability Material Mk III,
-Cantina 3-B,Ability Material Mk II,
-Cantina 3-B,Ability Material Mk I,
-Cantina 3-C,IG-100 MagnaGuard,
-Cantina 3-C,Ability Material Mk III,
-Cantina 3-C,Ability Material Mk II,
-Cantina 3-C,Ability Material Mk I,
-Cantina 3-D,Paploo,
-Cantina 3-D,Ability Material Mk III,
-Cantina 3-D,Ability Material Mk II,
-Cantina 3-D,Ability Material Mk I,
-Cantina 3-E,Finn,
-Cantina 3-E,Ability Material Mk III,
-Cantina 3-E,Ability Material Mk II,
-Cantina 3-E,Ability Material Mk I,
-Cantina 3-F,Kylo Ren (Unmasked),
-Cantina 3-F,TIE Silencer,
-Cantina 3-F,Ability Material Mk III,
-Cantina 3-F,Ability Material Mk II,
-Cantina 3-F,Ability Material Mk I,
-Cantina 3-G,Biggs Darklighter,
-Cantina 3-G,Ability Material Mk III,
-Cantina 3-G,Ability Material Mk II,
-Cantina 3-G,Ability Material Mk I,
-Cantina 4-A,Mace Windu,
-Cantina 4-A,Ability Material Mk III,
-Cantina 4-A,Ability Material Mk II,
-Cantina 4-A,Ability Material Mk I,
-Cantina 4-B,TIE Fighter Pilot,
-Cantina 4-B,Ability Material Mk III,
-Cantina 4-B,Ability Material Mk II,
-Cantina 4-B,Ability Material Mk I,
-Cantina 4-C,Kylo Ren,
-Cantina 4-C,Ability Material Mk III,
-Cantina 4-C,Ability Material Mk II,
-Cantina 4-C,Ability Material Mk I,
-Cantina 4-D,Geonosian Spy,
-Cantina 4-D,Ability Material Mk III,
-Cantina 4-D,Ability Material Mk II,
-Cantina 4-D,Ability Material Mk I,
-Cantina 4-E,IG-86 Sentinel Droid,
-Cantina 4-E,Ability Material Mk III,
-Cantina 4-E,Ability Material Mk II,
-Cantina 4-E,Ability Material Mk I,
-Cantina 4-F,Kit Fisto,
-Cantina 4-F,Ability Material Mk III,
-Cantina 4-F,Ability Material Mk II,
-Cantina 4-F,Ability Material Mk I,
-Cantina 4-G,Plo Koon,
-Cantina 4-G,Ability Material Mk III,
-Cantina 4-G,Ability Material Mk II,
-Cantina 4-G,Ability Material Mk I,
-Fleet 1-A (Normal),Mk 3 Neuro-Saav Electrobinoculars,
-Fleet 1-A (Normal),Mk 1 BAW Armor Mod,
-Fleet 1-A (Normal),Ship Ability Material Mk I,
-Fleet 1-B (Normal),Mk 3 Arakyd Droid Caller Salvage,
-Fleet 1-B (Normal),Mk 2 Chiewab Hypo Syringe,
-Fleet 1-B (Normal),Ship Ability Material Mk I,
-Fleet 1-C (Normal),Mk 2 Sienar Holo Projector Prototype Salvage,
-Fleet 1-C (Normal),Mk 3 BioTech Implant,
-Fleet 1-C (Normal),Ship Ability Material Mk I,
-Fleet 1-D (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage,
-Fleet 1-D (Normal),Mk 5 Fabritech Data Pd,
-Fleet 1-D (Normal),Ship Ability Material Mk I,
-Fleet 1-E (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,
-Fleet 1-E (Normal),Mk 2 Arakyd Droid Caller,
-Fleet 1-E (Normal),Ship Ability Material Mk I,
-Fleet 1-F (Normal),Mk 3 Arakyd Droid Caller Salvage,
-Fleet 1-F (Normal),Mk 3 TaggeCo Holo Lens Prototype,
-Fleet 1-F (Normal),Ship Ability Material Mk I,
-Fleet 1-G (Normal),Mk 3 Sienar Holo Projector Salvage,
-Fleet 1-G (Normal),Mk 3 Neuro-Saav Electrobinoculars,
-Fleet 1-G (Normal),Ship Ability Material Mk I,
-Fleet 2-A (Normal),Mk 4 SoroSuub Keypad Salvage,
-Fleet 2-A (Normal),Mk 4 Loronar Power Cell Prototype,
-Fleet 2-A (Normal),Mk 1 Chiewab Hypo Syringe Prototype,
-Fleet 2-A (Normal),Ship Ability Material Mk II,
-Fleet 2-A (Normal),Ship Ability Material Mk I,
-Fleet 2-B (Normal),Mk 4 Arakyd Droid Caller Salvage,
-Fleet 2-B (Normal),Mk 3 Arakyd Droid Caller Salvage,
-Fleet 2-B (Normal),Mk 1 BlasTech Weapon Mod,
-Fleet 2-B (Normal),Ship Ability Material Mk II,
-Fleet 2-B (Normal),Ship Ability Material Mk I,
-Fleet 2-C (Normal),Mk 6 BioTech Implant Prototype Salvage,
-Fleet 2-C (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Fleet 2-C (Normal),Mk 1 CEC Fusion Furnace,
-Fleet 2-C (Normal),Ship Ability Material Mk II,
-Fleet 2-C (Normal),Ship Ability Material Mk I,
-Fleet 2-D (Normal),Mk 8 BlasTech Weapon Mod Prototype Salvage,
-Fleet 2-D (Normal),Mk 2 Sienar Holo Projector Prototype Salvage,
-Fleet 2-D (Normal),Mk 2 BlasTech Weapon Mod,
-Fleet 2-D (Normal),Ship Ability Material Mk II,
-Fleet 2-D (Normal),Ship Ability Material Mk I,
-Fleet 2-E (Normal),Mk 12 ArmaTek Fusion Furnace Prototype Salvage,
-Fleet 2-E (Normal),Mk 5 Nubian Security Scanner Prototype Salvage,
-Fleet 2-E (Normal),Mk 4 BAW Armor Mod Salvage,
-Fleet 2-E (Normal),Mk 2 Fabritech Data Pad,
-Fleet 2-E (Normal),Ship Ability Material Mk II,
-Fleet 2-E (Normal),Ship Ability Material Mk I,
-Fleet 2-F (Normal),Mk 12 Czerka Stun Cuffs Prototype Salvage,
-Fleet 2-F (Normal),Mk 6 Nubian Security Scanner Prototype Salvage,
-Fleet 2-F (Normal),Mk 6 Fabritech Data Pad Salvage,
-Fleet 2-F (Normal),Mk 6 BlasTech Weapon Mod Prototype,
-Fleet 2-F (Normal),Ship Ability Material Mk II,
-Fleet 2-F (Normal),Ship Ability Material Mk I,
-Fleet 2-G (Normal),Mk 2 Zaltin Bacta Gel Prototype Salvage,
-Fleet 2-G (Normal),Mk 6 Loronar Power Cell Salvage,
-Fleet 2-G (Normal),Mk 5 BioTech Implant Prototype,
-Fleet 2-G (Normal),Ship Ability Material Mk II,
-Fleet 2-G (Normal),Ship Ability Material Mk I,
-Fleet 1-A (Hard),Clone Sergeant's ARC-170,
-Fleet 1-A (Hard),Mk 4 SoroSuub Keypad Salvage,
-Fleet 1-A (Hard),Mk 2 Arakyd Droid Caller,
-Fleet 1-A (Hard),Ship Ability Material Mk I,
-Fleet 1-B (Hard),Anakin's Eta-2 Starfighter,
-Fleet 1-B (Hard),Mk 8 BlasTech Weapon Mod Prototype Salvage,
-Fleet 1-B (Hard),Mk 3 TaggeCo Holo Lens Prototype,
-Fleet 1-B (Hard),Ship Ability Material Mk I,
-Fleet 1-C (Hard),Imperial TIE Fighter,
-Fleet 1-C (Hard),Mk 8 BlasTech Weapon Mod Prototype Salvage,
-Fleet 1-C (Hard),Mk 3 Neuro-Saav Electrobinoculars,
-Fleet 1-C (Hard),Ship Ability Material Mk I,
-Fleet 1-D (Hard),Young Lando Calrissian,
-Fleet 1-D (Hard),Lando's Millenium Falcon,
-Fleet 1-D (Hard),Mk 3 SIenar Holo Projector Salvage,
-Fleet 1-D (Hard),Mk 4 Loronar Power Cell Prototype,
-Fleet 1-D (Hard),Mk 1 Chiewab Hypo Syringe Prototype,
-Fleet 1-D (Hard),Ship Ability Material Mk I,
-Fleet 1-E (Hard),Resistance X-wing,
-Fleet 1-E (Hard),Mk 5 Nubian Design Tech Prototype Salvage,
-Fleet 1-E (Hard),Mk 2 Sienar Holo Projector Prototype Salvage,
-Fleet 1-E (Hard),Mk 2 BlasTech Weapon Mod,
-Fleet 1-E (Hard),Ship Ability Material Mk I,
-Fleet 2-A (Hard),Sun Fac's Geonosian Starfighter,
-Fleet 2-A (Hard),Mk 2 Zaltin Bacta Gel Prototype Salvage,
-Fleet 2-A (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage,
-Fleet 2-A (Hard),Mk 1 CEC Fusion Furnace,
-Fleet 2-A (Hard),Ship Ability Material Mk II,
-Fleet 2-A (Hard),Ship Ability Material Mk I,
-Fleet 2-B (Hard),Slave I,
-Fleet 2-B (Hard),Mk 5 Chiewab Hypo Syringe Prototype Salvage,
-Fleet 2-B (Hard),Mk 4 BAW Armor Mod Salvage,
-Fleet 2-B (Hard),Mk 2 Fabritech Data Pad,
-Fleet 2-B (Hard),Ship Ability Material Mk II,
-Fleet 2-B (Hard),Ship Ability Material Mk I,
-Fleet 2-C (Hard),Bistan's U-wing,
-Fleet 2-C (Hard),Mk 3 Carbanti Sensor Array Salvage,
-Fleet 2-C (Hard),Mk 6 Fabritech Data Pad Salvage,
-Fleet 2-C (Hard),Mk 6 BlasTech Weapon Mod Prototype,
-Fleet 2-C (Hard),Ship Ability Material Mk II,
-Fleet 2-C (Hard),Ship Ability Material Mk I,
-Fleet 2-D (Hard),Bastila Shan,
-Fleet 2-D (Hard),Mk 6 Chiewab Hypo Syringe Salvage,
-Fleet 2-D (Hard),Mk 6 Loronar Power Cell Salvage,
-Fleet 2-D (Hard),Mk 5 BioTech Implant Prototype,
-Fleet 2-D (Hard),Ship Ability Material Mk II,
-Fleet 2-D (Hard),Ship Ability Material Mk I,
-Fleet 2-E (Hard),Carth Onasi,
-Fleet 2-E (Hard),Mk 3 Carbanti Sensor Array Salvage,
-Fleet 2-E (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage,
-Fleet 2-E (Hard),Mk 2 Chedak Comlink Prototype,
-Fleet 2-E (Hard),Ship Ability Material Mk II,
-Fleet 2-E (Hard),Ship Ability Material Mk I,
+﻿battle,reward
+Light Side 1-A (Normal),Mk 1 Fabritech Data Pad
+Light Side 1-A (Normal),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 1-A (Normal),Mk 1 TaggeCo Holo Lens
+Light Side 1-A (Normal),Mk 1 Merr-Sonn Shield Generator
+Light Side 1-A (Normal),Mk 1 BioTech Implant
+Light Side 1-B (Normal),
+Light Side 1-C (Normal),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 1-C (Normal),Mk 1 TaggeCo Holo Lens
+Light Side 1-C (Normal),Mk 1 Nubian Security Scanner
+Light Side 1-C (Normal),Mk 1 BAW Armor Mod
+Light Side 1-C (Normal),Mk 1 BlasTech Weapon Mod
+Light Side 1-D (Normal),Mk 1 Fabritech Data Pad
+Light Side 1-D (Normal),Mk 1 CEC Fusion Furnace
+Light Side 1-D (Normal),Mk 1 Loronar Power Cell
+Light Side 1-D (Normal),Mk 1 BAW Armor Mod
+Light Side 1-E (Normal),Mk 1 Nubian Security Scanner
+Light Side 1-E (Normal),Mk 1 Loronar Power Cell
+Light Side 1-E (Normal),Mk 1 BAW Armor Mod
+Light Side 1-E (Normal),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 1-E (Normal),Mk 1 BlasTech Weapon Mod
+Light Side 1-F (Normal),Mk 1 Fabritech Data Pad
+Light Side 1-F (Normal),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 1-F (Normal),Mk 1 TaggeCo Holo Lens
+Light Side 1-F (Normal),Mk 1 Merr-Sonn Shield Generator
+Light Side 1-F (Normal),Mk 1 BioTech Implant
+Light Side 2-A (Normal),Mk 1 Arakyd Droid Caller
+Light Side 2-A (Normal),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 2-B (Normal),Mk 1 A/KT Stun Gun
+Light Side 2-B (Normal),Mk 1 Chiewab Hypo Syringe Prototype
+Light Side 2-C (Normal),Mk 1 Loronar Power Cell
+Light Side 2-C (Normal),Mk 2 BAW Armor Mod Prototype
+Light Side 2-D (Normal),Mk 1 BAW Armor Mod
+Light Side 2-D (Normal),Mk 1 Arakyd Droid Caller
+Light Side 2-E (Normal),Mk 1 SoroSuub Keypad
+Light Side 2-E (Normal),Mk 2 Nubian Security Scanner Prototype
+Light Side 2-F (Normal),Mk 1 BlasTech Weapon Mod
+Light Side 2-F (Normal),Mk 1 Fabritech Data Pad
+Light Side 2-G (Normal),Mk 1 Czerka Stun Cuffs
+Light Side 2-G (Normal),Mk 1 BioTech Implant
+Light Side 2-H (Normal),Mk 1 Arakyd Droid Caller
+Light Side 2-H (Normal),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 2-I (Normal),Mk 2 Chiewab Hypo Syringe
+Light Side 2-I (Normal),Mk 2 Neuro-Saav Electrobinoculars Prototype
+Light Side 3-A (Normal),Mk 4 BAW Armor Mod Salvage
+Light Side 3-A (Normal),Mk 2 TaggeCo Holo Lens
+Light Side 3-B (Normal),Mk 1 Sienar Holo Projector
+Light Side 3-B (Normal),Mk 1 BlasTech Weapon Mod
+Light Side 3-C (Normal),Mk 1 BlasTech Weapon Mod
+Light Side 3-C (Normal),Mk 1 TaggeCo Holo Lens
+Light Side 3-D (Normal),Mk 1 Nubian Design Tech Prototype
+Light Side 3-D (Normal),Mk 1 Arakyd Droid Caller
+Light Side 3-E (Normal),Mk 1 BlasTech Weapon Mod
+Light Side 3-E (Normal),Mk 1 A/KT Stun Gun
+Light Side 3-F (Normal),Mk 1 Athakam Medpac Salvage
+Light Side 3-F (Normal),Mk 3 BioTech Implant
+Light Side 3-G (Normal),Mk 3 Neuro-Saav Electrobinoculars
+Light Side 3-G (Normal),Mk 1 BioTech Implant
+Light Side 3-G (Normal),Mk 1 Merr-Sonn Shield Generator
+Light Side 3-H (Normal),Mk 2 Fabritech Data Pad
+Light Side 3-H (Normal),Mk 1 Loronar Power Cell
+Light Side 3-I (Normal),Mk 3 TaggeCo Holo Lens Prototype
+Light Side 3-I (Normal),Mk 1 Nubian Security Scanner
+Light Side 4-A (Normal),Mk 2 Sienar Holo Projector Prototype Salvage
+Light Side 4-A (Normal),Mk 1 A/KT Stun Gun
+Light Side 4-B (Normal),Mk 2 Chedak Comlink Prototype
+Light Side 4-B (Normal),Mk 2 Neuro-Saav Electrobinoculars Prototype
+Light Side 4-C (Normal),Mk 4 TaggeCo Holo Lens Salvage
+Light Side 4-C (Normal),Mk 1 Fabritech Data Pad
+Light Side 4-D (Normal),Mk 4 Fabritech Data Pad Prototype
+Light Side 4-D (Normal),Mk 2 Nubian Security Scanner Prototype
+Light Side 4-E (Normal),Mk 4 BlasTech Weapon Mod Prototype
+Light Side 4-E (Normal),Mk 2 BlasTech Weapon Mod
+Light Side 4-F (Normal),Mk 5 Loronar Power Cell Salvage
+Light Side 4-F (Normal),Mk 1 Fabritech Data Pad
+Light Side 4-G (Normal),Mk 5 Neuro-Saav Electrobinoculars Salvage
+Light Side 4-G (Normal),Mk 1 Chiewab Hypo Syringe Prototype
+Light Side 4-G (Normal),Mk 1 BAW Armor Mod
+Light Side 4-H (Normal),Mk 4 BioTech Implant Prototype
+Light Side 4-H (Normal),Mk 1 BioTech Implant
+Light Side 4-I (Normal),Mk 5 BAW Armor Mod Salvage
+Light Side 4-I (Normal),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 4-J (Normal),Mk 5 BlasTech Weapon Mod Prototype
+Light Side 4-J (Normal),Mk 1 Arakyd Droid Caller
+Light Side 4-K (Normal),Mk 3 BioTech Implant
+Light Side 4-K (Normal),Mk 2 Chiewab Hypo Syringe
+Light Side 4-L (Normal),Mk 3 Arakyd Droid Caller Salvage
+Light Side 4-L (Normal),Mk 1 BlasTech Weapon Mod
+Light Side 5-A (Normal),Mk 5 BAW Armor Mod Salvage
+Light Side 5-A (Normal),Mk 1 Sienar Holo Projector
+Light Side 5-B (Normal),Mk 5 Neuro-Saav Electrobinoculars Salvage
+Light Side 5-B (Normal),Mk 3 Neuro-Saav Electrobinoculars
+Light Side 5-C (Normal),Mk 4 A/KT Stun Gun Salvage
+Light Side 5-C (Normal),Mk 3 TaggeCo Holo Lens Prototype
+Light Side 5-D (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage
+Light Side 5-D (Normal),Mk 6 BlasTech Weapon Mod Prototype
+Light Side 5-E (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage
+Light Side 5-E (Normal),Mk 2 Fabritech Data Pad
+Light Side 5-F (Normal),Mk 4 SoroSuub Keypad Salvage
+Light Side 5-F (Normal),Mk 2 Arakyd Droid Caller
+Light Side 5-G (Normal),Mk 5 Loronar Power Cell Salvage
+Light Side 5-G (Normal),Mk 3 BlasTech Implant
+Light Side 5-H (Normal),Mk 8 BlasTech Weapon Mod Prototype Salvage
+Light Side 5-H (Normal),Mk 3 Neuro-Saav Electrobinoculars
+Light Side 5-I (Normal),Mk 7 BAW Armor Mod Prototype Salvage
+Light Side 5-I (Normal),Mk 1 Sienar Holo Projector
+Light Side 5-J (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Light Side 5-J (Normal),Mk 1 Nubian Design Tech Prototype
+Light Side 5-K (Normal),Mk 5 SoroSuub Keypad Salvage
+Light Side 5-K (Normal),Mk 5 Fabritech Data Pd
+Light Side 5-L (Normal),Mk 4 TaggeCo Holo Lens Salvage
+Light Side 5-L (Normal),Mk 1 TaggeCo Holo Lens
+Light Side 6-A (Normal),Mk 3 Sienar Holo Projector Salvage
+Light Side 6-A (Normal),Mk 6 Fabritech Data Pad Salvage
+Light Side 6-A (Normal),Mk 6 BlasTech Weapon Mod Prototype
+Light Side 6-B (Normal),Mk 6 Nubian Security Scanner Prototype Salvage
+Light Side 6-B (Normal),Mk 4 Chiewab Hypo Syringe Prototype Salvage
+Light Side 6-B (Normal),Mk 4 BioTech Implant Prototype
+Light Side 6-C (Normal),Mk 5 Nubian Design Tech Prototype Salvage
+Light Side 6-C (Normal),Mk 1 Athakam Medpac Salvage
+Light Side 6-C (Normal),Mk 5 Fabritech Data Pd
+Light Side 6-D (Normal),Mk 2 Zaltin Bacta Gel Prototype Salvage
+Light Side 6-D (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage
+Light Side 6-D (Normal),Mk 1 CEC Fusion Furnace
+Light Side 6-E (Normal),Mk 4 A/KT Stun Gun Salvage
+Light Side 6-E (Normal),Mk 2 Sienar Holo Projector Prototype Salvage
+Light Side 6-E (Normal),Mk 2 BAW Armor Mod Prototype
+Light Side 6-F (Normal),Mk 5 Chiewab Hypo Syringe Prototype Salvage
+Light Side 6-F (Normal),Mk 4 BAW Armor Mod Salvage
+Light Side 6-F (Normal),Mk 2 Fabritech Data Pad
+Light Side 6-G (Normal),Mk 6 BioTech Implant Prototype Salvage
+Light Side 6-G (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage
+Light Side 6-G (Normal),Mk 3 BioTech Implant
+Light Side 6-H (Normal),Mk 4 Arakyd Droid Caller Salvage
+Light Side 6-H (Normal),Mk 5 BAW Armor Mod Salvage
+Light Side 6-H (Normal),Mk 1 A/KT Stun Gun
+Light Side 6-I (Normal),Mk 5 SoroSuub Keypad Salvage
+Light Side 6-I (Normal),Mk 5 Neuro-Saav Electrobinoculars Salvage
+Light Side 6-I (Normal),Mk 1 TaggeCo Holo Lens
+Light Side 6-J (Normal),Mk 4 SoroSuub Keypad Salvage
+Light Side 6-J (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Light Side 6-J (Normal),Mk 1 A/KT Stun Gun
+Light Side 7-A (Normal),Mk 3 Sienar Holo Projector Salvage
+Light Side 7-A (Normal),Mk 4 Chiewab Hypo Syringe Prototype Salvage
+Light Side 7-A (Normal),Mk 3 TaggeCo Holo Lens Prototype
+Light Side 7-B (Normal),Mk 5 SoroSuub Keypad Salvage
+Light Side 7-B (Normal),Mk 7 Kyrotech Shock Prod Prototype Salvage
+Light Side 7-B (Normal),Mk 7 BAW Armor Mod Prototype Salvage
+Light Side 7-B (Normal),Mk 5 Fabritech Data Pd
+Light Side 7-C (Normal),Mk 7 BioTech Implant Prototype Salvage
+Light Side 7-C (Normal),Mk 4 TaggeCo Holo Lens Salvage
+Light Side 7-C (Normal),Mk 2 Chiewab Hypo Syringe
+Light Side 7-D (Normal),Mk 3 Czerka Stun Cuffs Salvage
+Light Side 7-D (Normal),Mk 4 Nubian Security Scanner Prototype Salvage
+Light Side 7-D (Normal),Mk 1 SoroSuub Keypad
+Light Side 7-E (Normal),Mk 6 Chiewab Hypo Syringe Salvage
+Light Side 7-E (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Light Side 7-E (Normal),Mk 2 Chedak Comlink Prototype
+Light Side 7-F (Normal),Mk 8 BlasTech Weapon Mod Prototype Salvage
+Light Side 7-F (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Light Side 7-F (Normal),Mk 4 Fabritech Data Pad Prototype
+Light Side 7-G (Normal),Mk 3 Carbanti Sensor Array Salvage
+Light Side 7-G (Normal),Mk 3 Chiewab Hypo Syringe Prototype Salvage
+Light Side 7-G (Normal),Mk 2 TaggeCo Holo Lens
+Light Side 7-H (Normal),Mk 4 Arakyd Droid Caller Salvage
+Light Side 7-H (Normal),Mk 5 Loronar Power Cell Salvage
+Light Side 7-H (Normal),Mk 3 BlasTech Implant
+Light Side 8-A (Normal),Mk 8 BlasTech Weapon Mod Prototype Salvage
+Light Side 8-A (Normal),Mk 1 Athakam Medpac Salvage
+Light Side 8-A (Normal),Mk 5 Fabritech Data Pd
+Light Side 8-B (Normal),Mk 4 CEC Fusion Furnace Prototype Salvage
+Light Side 8-B (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage
+Light Side 8-B (Normal),Mk 1 SoroSuub Keypad
+Light Side 8-C (Normal),Mk 6 Nubian Security Scanner Prototype Salvage
+Light Side 8-C (Normal),Mk 4 Nubian Security Scanner Prototype Salvage
+Light Side 8-C (Normal),Mk 2 Arakyd Droid Caller
+Light Side 1-A (Hard),Ewok Scout
+Light Side 1-A (Hard),Mk 1 TaggeCo Holo Lens
+Light Side 1-A (Hard),Mk 1 Nubian Security Scanner
+Light Side 1-A (Hard),Mk 1 BAW Armor Mod
+Light Side 1-B (Hard),Jedi Consular
+Light Side 1-B (Hard),Mk 1 Fabritech Data Pad
+Light Side 1-B (Hard),Mk 1 CEC Fusion Furnace
+Light Side 1-B (Hard),Mk 1 BAW Armor Mod
+Light Side 1-C (Hard),Count Dooku
+Light Side 1-C (Hard),Mk 1 Merr-Sonn Shield Generator
+Light Side 1-C (Hard),Mk 1 BlasTech Weapon Mod
+Light Side 1-C (Hard),Mk 1 BioTech Implant
+Light Side 1-D (Hard),Royal Guard
+Light Side 1-D (Hard),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 1-D (Hard),Mk 1 BAW Armor Mod
+Light Side 1-D (Hard),Mk 1 Arakyd Droid Caller
+Light Side 2-A (Hard),Rey (Scavenger)
+Light Side 2-A (Hard),Mk 2 BAW Armor Mod Prototype
+Light Side 2-A (Hard),Mk 1 A/KT Stun Gun
+Light Side 2-A (Hard),Mk 1 Loronar Power Cell
+Light Side 2-B (Hard),First Order Stormtrooper
+Light Side 2-B (Hard),Mk 1 SoroSuub Keypad
+Light Side 2-B (Hard),Mk 1 BAW Armor Mod
+Light Side 2-B (Hard),Mk 2 Nubian Security Scanner Prototype
+Light Side 2-C (Hard),Ewok Elder
+Light Side 2-C (Hard),Mk 1 Arakyd Droid Caller
+Light Side 2-C (Hard),Mk 1 BlasTech Weapon Mod
+Light Side 2-C (Hard),Mk 1 Fabritech Data Pad
+Light Side 2-D (Hard),Talia
+Light Side 2-D (Hard),Mk 2 Arakyd Droid Caller
+Light Side 2-D (Hard),Mk 1 TaggeCo Holo Lens
+Light Side 2-D (Hard),Mk 1 Chiewab Hypo Syringe Prototype
+Light Side 2-E (Hard),Mace Windu
+Light Side 2-E (Hard),Mk 1 Czerka Stun Cuffs
+Light Side 2-E (Hard),Mk 1 BlasTech Weapon Mod
+Light Side 2-E (Hard),Mk 1 BioTech Implant
+Light Side 2-F (Hard),Talia
+Light Side 2-F (Hard),Mk 2 Chiewab Hypo Syringe
+Light Side 2-F (Hard),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 2-F (Hard),Mk 2 Neuro-Saav Electrobinoculars Prototype
+Light Side 3-A (Hard),Resistance Trooper
+Light Side 3-A (Hard),Mk 4 BAW Armor Mod Salvage
+Light Side 3-A (Hard),Mk 2 TaggeCo Holo Lens
+Light Side 3-A (Hard),Mk 1 BlasTech Weapon Mod
+Light Side 3-B (Hard),Dathcha
+Light Side 3-B (Hard),Mk 1 Sienar Holo Projector
+Light Side 3-B (Hard),Mk 2 Fabritech Data Pad
+Light Side 3-B (Hard),Mk 1 Loronar Power Cell
+Light Side 3-C (Hard),Stormtrooper
+Light Side 3-C (Hard),Mk 3 BlasTech Implant
+Light Side 3-C (Hard),Mk 1 TaggeCo Holo Lens
+Light Side 3-C (Hard),Mk 1 Arakyd Droid Caller
+Light Side 3-D (Hard),Luminara Unduli
+Light Side 3-D (Hard),Mk 3 BioTech Implant
+Light Side 3-D (Hard),Mk 1 Nubian Design Tech Prototype
+Light Side 3-D (Hard),Mk 2 BlasTech Weapon Mod
+Light Side 3-E (Hard),Clone Wars Chewbacca
+Light Side 3-E (Hard),Mk 1 Athakam Medpac Salvage
+Light Side 3-E (Hard),Mk 3 Neuro-Saav Electrobinoculars
+Light Side 3-E (Hard),Mk 1 BioTech Implant
+Light Side 3-F (Hard),Dathcha
+Light Side 3-F (Hard),Mk 3 TaggeCo Holo Lens Prototype
+Light Side 3-F (Hard),Mk 1 A/KT Stun Gun
+Light Side 3-F (Hard),Mk 1 Merr-Sonn Shield Generator
+Light Side 4-A (Hard),Teebo
+Light Side 4-A (Hard),Mk 2 Sienar Holo Projector Prototype Salvage
+Light Side 4-A (Hard),Mk 2 Chedak Comlink Prototype
+Light Side 4-A (Hard),Mk 2 Neuro-Saav Electrobinoculars Prototype
+Light Side 4-B (Hard),Lobot
+Light Side 4-B (Hard),Mk 4 TaggeCo Holo Lens Salvage
+Light Side 4-B (Hard),Mk 4 Fabritech Data Pad Prototype
+Light Side 4-B (Hard),Mk 2 Nubian Security Scanner Prototype
+Light Side 4-C (Hard),General Veers
+Light Side 4-C (Hard),Mk 5 Loronar Power Cell Salvage
+Light Side 4-C (Hard),Mk 4 BlasTech Weapon Mod Prototype
+Light Side 4-C (Hard),Mk 2 BlasTech Weapon Mod
+Light Side 4-D (Hard),IG-86 Sentinel Droid
+Light Side 4-D (Hard),Vulture Droid
+Light Side 4-D (Hard),Mk 5 Neuro-Saav Electrobinoculars Salvage
+Light Side 4-D (Hard),Mk 4 BioTech Implant Prototype
+Light Side 4-D (Hard),Mk 1 Chiewab Hypo Syringe Prototype
+Light Side 4-D (Hard),Mk 1 BioTech Implant
+Light Side 4-E (Hard),Poggle the Lesser
+Light Side 4-E (Hard),Mk 5 BAW Armor Mod Salvage
+Light Side 4-E (Hard),Mk 5 BlasTech Weapon Mod Prototype
+Light Side 4-E (Hard),Mk 1 Neuro-Saav Electrobinoculars
+Light Side 4-E (Hard),Mk 1 Arakyd Droid Caller
+Light Side 4-F (Hard),Rose Tico
+Light Side 4-F (Hard),Mk 3 Arakyd Droid Caller Salvage
+Light Side 4-F (Hard),Mk 2 Chiewab Hypo Syringe
+Light Side 4-F (Hard),Mk 3 BioTech Implant
+Light Side 4-F (Hard),Mk 1 BlasTech Weapon Mod
+Light Side 5-A (Hard),URoRRuR'R'R
+Light Side 5-A (Hard),Mk 5 BAW Armor Mod Salvage
+Light Side 5-A (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Light Side 5-A (Hard),Mk 5 Neuro-Saav Electrobinoculars Salvage
+Light Side 5-A (Hard),Mk 3 Neuro-Saav Electrobinoculars
+Light Side 5-B (Hard),Lobot
+Light Side 5-B (Hard),Mk 4 A/KT Stun Gun Salvage
+Light Side 5-B (Hard),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage
+Light Side 5-B (Hard),Mk 6 BlasTech Weapon Mod Prototype
+Light Side 5-B (Hard),Mk 3 TaggeCo Holo Lens Prototype
+Light Side 5-C (Hard),Jedi Knight Anakin
+Light Side 5-C (Hard),Mk 4 SoroSuub Keypad Salvage
+Light Side 5-C (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Light Side 5-C (Hard),Mk 2 Arakyd Droid Caller
+Light Side 5-C (Hard),Mk 2 Fabritech Data Pad
+Light Side 5-D (Hard),Zaalbar
+Light Side 5-D (Hard),Mk 8 BlasTech Weapon Mod Prototype Salvage
+Light Side 5-D (Hard),Mk 5 Loronar Power Cell Salvage
+Light Side 5-D (Hard),Mk 3 BlasTech Implant
+Light Side 5-D (Hard),Mk 3 Neuro-Saav Electrobinoculars
+Light Side 5-E (Hard),Clone Sergeant - Phase I
+Light Side 5-E (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Light Side 5-E (Hard),Mk 7 BAW Armor Mod Prototype Salvage
+Light Side 5-E (Hard),Mk 1 Sienar Holo Projector
+Light Side 5-E (Hard),Mk 1 Nubian Design Tech Prototype
+Light Side 5-F (Hard),URoRRuR'R'R
+Light Side 5-F (Hard),Mk 5 SoroSuub Keypad Salvage
+Light Side 5-F (Hard),Mk 4 TaggeCo Holo Lens Salvage
+Light Side 5-F (Hard),Mk 5 Fabritech Data Pd
+Light Side 5-F (Hard),Mk 1 TaggeCo Holo Lens
+Light Side 6-A (Hard),Juhani
+Light Side 6-A (Hard),Mk 6 Nubian Security Scanner Prototype Salvage
+Light Side 6-A (Hard),Mk 3 Sienar Holo Projector Salvage
+Light Side 6-A (Hard),Mk 4 Chiewab Hypo Syringe Prototype Salvage
+Light Side 6-A (Hard),Mk 6 Fabritech Data Pad Salvage
+Light Side 6-B (Hard),Jawa
+Light Side 6-B (Hard),Mk 2 Zaltin Bacta Gel Prototype Salvage
+Light Side 6-B (Hard),Mk 5 Nubian Design Tech Prototype Salvage
+Light Side 6-B (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Light Side 6-B (Hard),Mk 1 Athakam Medpac Salvage
+Light Side 6-C (Hard),General Veers
+Light Side 6-C (Hard),B-28 Extinction-class Bomber
+Light Side 6-C (Hard),Mk 4 A/KT Stun Gun Salvage
+Light Side 6-C (Hard),Mk 5 Chiewab Hypo Syringe Prototype Salvage
+Light Side 6-C (Hard),Mk 2 Sienar Holo Projector Prototype Salvage
+Light Side 6-C (Hard),Mk 4 BAW Armor Mod Salvage
+Light Side 6-D (Hard),First Order TIE Pilot
+Light Side 6-D (Hard),Mk 4 Arakyd Droid Caller Salvage
+Light Side 6-D (Hard),Mk 6 BioTech Implant Prototype Salvage
+Light Side 6-D (Hard),Mk 5 BAW Armor Mod Salvage
+Light Side 6-D (Hard),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage
+Light Side 6-E (Hard),Poggle the Lesser
+Light Side 6-E (Hard),IG-2000
+Light Side 6-E (Hard),Mk 5 SoroSuub Keypad Salvage
+Light Side 6-E (Hard),Mk 4 SoroSuub Keypad Salvage
+Light Side 6-E (Hard),Mk 5 Neuro-Saav Electrobinoculars Salvage
+Light Side 6-E (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Light Side 7-A (Hard),Finn
+Light Side 7-A (Hard),Mk 5 SoroSuub Keypad Salvage
+Light Side 7-A (Hard),Mk 3 Sienar Holo Projector Salvage
+Light Side 7-A (Hard),Mk 4 Chiewab Hypo Syringe Prototype Salvage
+Light Side 7-A (Hard),Mk 7 BAW Armor Mod Prototype Salvage
+Light Side 7-B (Hard),Poe Dameron
+Light Side 7-B (Hard),Mk 3 Czerka Stun Cuffs Salvage
+Light Side 7-B (Hard),Mk 7 BioTech Implant Prototype Salvage
+Light Side 7-B (Hard),Mk 4 Nubian Security Scanner Prototype Salvage
+Light Side 7-B (Hard),Mk 4 TaggeCo Holo Lens Salvage
+Light Side 7-C (Hard),Ima-Gun Di
+Light Side 7-C (Hard),Mk 6 Chiewab Hypo Syringe Salvage
+Light Side 7-C (Hard),Mk 8 BlasTech Weapon Mod Prototype Salvage
+Light Side 7-C (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Light Side 7-C (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Light Side 7-D (Hard),Luke Skywalker (Farmboy)
+Light Side 7-D (Hard),Mk 3 Carbanti Sensor Array Salvage
+Light Side 7-D (Hard),Mk 4 Arakyd Droid Caller Salvage
+Light Side 7-D (Hard),Mk 3 Chiewab Hypo Syringe Prototype Salvage
+Light Side 7-D (Hard),Mk 5 Loronar Power Cell Salvage
+Dark Side 1-A (Normal),Mk 2 TaggeCo Holo Lens
+Dark Side 1-A (Normal),Mk 2 CEC Fusion Furnace
+Dark Side 1-B (Normal),Mk 3 Loronar Power Cell
+Dark Side 1-B (Normal),Mk 1 Nubian Security Scanner
+Dark Side 1-C (Normal),Mk 5 BioTech Implant Prototype
+Dark Side 1-C (Normal),Mk 1 SoroSuub Keypad
+Dark Side 1-D (Normal),Mk 3 BioTech Implant
+Dark Side 1-D (Normal),Mk 1 BlasTech Weapon Mod
+Dark Side 1-E (Normal),Mk 3 BAW Armor Mod
+Dark Side 1-E (Normal),Mk 1 Nubian Design Tech Prototype
+Dark Side 1-F (Normal),Mk 2 SoroSuub Keypad Prototype
+Dark Side 1-F (Normal),Mk 2 BlasTech Weapon Mod
+Dark Side 2-A (Normal),Mk 6 Loronar Power Cell Salvage
+Dark Side 2-A (Normal),Mk 2 CEC Fusion Furnace
+Dark Side 2-B (Normal),Mk 5 BlasTech Weapon Mod Prototype
+Dark Side 2-B (Normal),Mk 2 BlasTech Weapon Mod
+Dark Side 2-C (Normal),Mk 4 BAW Armor Mod Salvage
+Dark Side 2-C (Normal),Mk 4 Loronar Power Cell Prototype
+Dark Side 2-C (Normal),Mk 1 BAW Armor Mod
+Dark Side 2-D (Normal),Mk 2 Chedak Comlink Prototype
+Dark Side 2-D (Normal),Mk 1 Arakyd Droid Caller
+Dark Side 2-E (Normal),Mk 5 Loronar Power Cell Salvage
+Dark Side 2-E (Normal),Mk 4 BioTech Implant Prototype
+Dark Side 2-F (Normal),Mk 4 Fabritech Data Pad Prototype
+Dark Side 2-F (Normal),Mk 3 BioTech Implant
+Dark Side 2-G (Normal),Mk 3 Arakyd Droid Caller Salvage
+Dark Side 2-G (Normal),Mk 2 Nubian Security Scanner Prototype
+Dark Side 2-H (Normal),Mk 2 Merr-Sonn Shield Generator
+Dark Side 2-H (Normal),Mk 4 BlasTech Weapon Mod Prototype
+Dark Side 2-I (Normal),Mk 1 Chedak Comlink Salvage
+Dark Side 2-I (Normal),Mk 1 A/KT Stun Gun
+Dark Side 3-A (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 3-A (Normal),Mk 1 Czerka Stun Cuffs
+Dark Side 3-B (Normal),Mk 6 Fabritech Data Pad Salvage
+Dark Side 3-B (Normal),Mk 2 SoroSuub Keypad Prototype
+Dark Side 3-C (Normal),Mk 4 Nubian Security Scanner Prototype Salvage
+Dark Side 3-C (Normal),Mk 2 BAW Armor Mod Prototype
+Dark Side 3-D (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 3-D (Normal),Mk 4 Fabritech Data Pad Prototype
+Dark Side 3-E (Normal),Mk 4 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 3-E (Normal),Mk 2 Arakyd Droid Caller
+Dark Side 3-F (Normal),Mk 4 BAW Armor Mod Salvage
+Dark Side 3-F (Normal),Mk 2 CEC Fusion Furnace
+Dark Side 3-G (Normal),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Dark Side 3-G (Normal),Mk 2 TaggeCo Holo Lens
+Dark Side 3-H (Normal),Mk 2 Sienar Holo Projector Prototype Salvage
+Dark Side 3-H (Normal),Mk 1 Chiewab Hypo Syringe Prototype
+Dark Side 3-I (Normal),Mk 3 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 3-I (Normal),Mk 3 Loronar Power Cell
+Dark Side 4-A (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Dark Side 4-A (Normal),Mk 3 BioTech Implant
+Dark Side 4-B (Normal),Mk 5 Loronar Power Cell Salvage
+Dark Side 4-B (Normal),Mk 2 Chiewab Hypo Syringe
+Dark Side 4-C (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Dark Side 4-C (Normal),Mk 2 BlasTech Weapon Mod
+Dark Side 4-D (Normal),Mk 6 Fabritech Data Pad Salvage
+Dark Side 4-D (Normal),Mk 2 Neuro-Saav Electrobinoculars Prototype
+Dark Side 4-E (Normal),Mk 7 BlasTech Weapon Mod Prototype Salvage
+Dark Side 4-E (Normal),Mk 4 BioTech Implant Prototype
+Dark Side 4-F (Normal),Mk 7 BAW Armor Mod Prototype Salvage
+Dark Side 4-F (Normal),Mk 1 TaggeCo Holo Lens
+Dark Side 4-G (Normal),Mk 4 Nubian Security Scanner Prototype Salvage
+Dark Side 4-G (Normal),Mk 1 CEC Fusion Furnace
+Dark Side 4-H (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 4-H (Normal),Mk 1 Merr-Sonn Shield Generator
+Dark Side 4-I (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 4-I (Normal),Mk 2 Merr-Sonn Shield Generator
+Dark Side 4-J (Normal),Mk 7 BAW Armor Mod Prototype Salvage
+Dark Side 4-J (Normal),Mk 1 Fabritech Data Pad
+Dark Side 4-K (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 4-K (Normal),Mk 1 Neuro-Saav Electrobinoculars
+Dark Side 4-L (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Dark Side 4-L (Normal),Mk 1 Loronar Power Cell
+Dark Side 5-A (Normal),Mk 5 Nubian Security Scanner Prototype Salvage
+Dark Side 5-A (Normal),Mk 3 BAW Armor Mod
+Dark Side 5-B (Normal),Mk 3 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 5-B (Normal),Mk 4 Fabritech Data Pad Prototype
+Dark Side 5-C (Normal),Mk 7 BlasTech Weapon Mod Prototype Salvage
+Dark Side 5-C (Normal),Mk 5 BlasTech Weapon Mod Prototype
+Dark Side 5-C (Normal),Mk 1 BAW Armor Mod
+Dark Side 5-D (Normal),Mk 4 CEC Fusion Furnace Prototype Salvage
+Dark Side 5-D (Normal),Mk 1 Czerka Stun Cuffs
+Dark Side 5-E (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 5-E (Normal),Mk 6 BlasTech Weapon Mod Prototype
+Dark Side 5-F (Normal),Mk 5 Nubian Design Tech Prototype Salvage
+Dark Side 5-F (Normal),Mk 4 Loronar Power Cell Prototype
+Dark Side 5-G (Normal),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Dark Side 5-G (Normal),Mk 2 TaggeCo Holo Lens
+Dark Side 5-G (Normal),Mk 1 Nubian Security Scanner
+Dark Side 5-H (Normal),Mk 3 Arakyd Droid Caller Salvage
+Dark Side 5-H (Normal),Mk 2 CEC Fusion Furnace
+Dark Side 5-I (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Dark Side 5-I (Normal),Mk 1 SoroSuub Keypad
+Dark Side 5-J (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 5-J (Normal),Mk 4 BlasTech Weapon Mod Prototype
+Dark Side 5-K (Normal),Mk 4 Arakyd Droid Caller Salvage
+Dark Side 5-K (Normal),Mk 5 BioTech Implant Prototype
+Dark Side 5-L (Normal),Mk 6 BioTech Implant Prototype Salvage
+Dark Side 5-L (Normal),Mk 2 Chedak Comlink Prototype
+Dark Side 6-A (Normal),Mk 5 Nubian Security Scanner Prototype Salvage
+Dark Side 6-A (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 6-A (Normal),Mk 1 Merr-Sonn Shield Generator
+Dark Side 6-B (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Dark Side 6-B (Normal),Mk 3 Loronar Power Cell
+Dark Side 6-B (Normal),Mk 1 Loronar Power Cell
+Dark Side 6-C (Normal),Mk 4 SoroSuub Keypad Salvage
+Dark Side 6-C (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage
+Dark Side 6-C (Normal),Mk 1 Fabritech Data Pad
+Dark Side 6-D (Normal),Mk 2 Zaltin Bacta Gel Prototype Salvage
+Dark Side 6-D (Normal),Mk 2 SoroSuub Keypad Prototype
+Dark Side 6-D (Normal),Mk 2 Nubian Security Scanner Prototype
+Dark Side 6-E (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Dark Side 6-E (Normal),Mk 6 Fabritech Data Pad Salvage
+Dark Side 6-E (Normal),Mk 2 BlasTech Weapon Mod
+Dark Side 6-F (Normal),Mk 4 A/KT Stun Gun Salvage
+Dark Side 6-F (Normal),Mk 3 BAW Armor Mod
+Dark Side 6-F (Normal),Mk 1 Arakyd Droid Caller
+Dark Side 6-G (Normal),Mk 3 Carbanti Sensor Array Salvage
+Dark Side 6-G (Normal),Mk 6 Loronar Power Cell Salvage
+Dark Side 6-G (Normal),Mk 1 BlasTech Weapon Mod
+Dark Side 6-H (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 6-H (Normal),Mk 2 Chiewab Hypo Syringe
+Dark Side 6-H (Normal),Mk 1 Merr-Sonn Shield Generator
+Dark Side 6-I (Normal),Mk 5 Nubian Security Scanner Prototype Salvage
+Dark Side 6-I (Normal),Mk 1 Chedak Comlink Salvage
+Dark Side 6-I (Normal),Mk 2 Neuro-Saav Electrobinoculars Prototype
+Dark Side 6-J (Normal),Mk 3 Chedak Comlink Prototype Salvage
+Dark Side 6-J (Normal),Mk 4 Loronar Power Cell Prototype
+Dark Side 6-J (Normal),Mk 1 Chiewab Hypo Syringe Prototype
+Dark Side 7-A (Normal),Mk 7 BioTech Implant Prototype Salvage
+Dark Side 7-A (Normal),Mk 2 Sienar Holo Projector Prototype Salvage
+Dark Side 7-A (Normal),Mk 5 BlasTech Weapon Mod Prototype
+Dark Side 7-B (Normal),Mk 4 Chedak Comlink Prototype Salvage
+Dark Side 7-B (Normal),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Dark Side 7-B (Normal),Mk 3 Loronar Power Cell
+Dark Side 7-C (Normal),Mk 4 Carbanti Sensor Array Prototype Salvage
+Dark Side 7-C (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Dark Side 7-C (Normal),Mk 3 BAW Armor Mod
+Dark Side 7-D (Normal),Mk 4 CEC Fusion Furnace Prototype Salvage
+Dark Side 7-D (Normal),Mk 3 Arakyd Droid Caller Salvage
+Dark Side 7-D (Normal),Mk 5 BioTech Implant Prototype
+Dark Side 7-E (Normal),Mk 5 A/KT Stun Gun Prototype Salvage
+Dark Side 7-E (Normal),Mk 3 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 7-E (Normal),Mk 2 SoroSuub Keypad Prototype
+Dark Side 7-F (Normal),Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 7-F (Normal),Mk 7 BlasTech Weapon Mod Prototype Salvage
+Dark Side 7-F (Normal),Mk 2 Merr-Sonn Shield Generator
+Dark Side 7-G (Normal),Mk 4 Arakyd Droid Caller Salvage
+Dark Side 7-G (Normal),Mk 4 BAW Armor Mod Salvage
+Dark Side 7-G (Normal),Mk 4 BlasTech Weapon Mod Prototype
+Dark Side 7-H (Normal),Mk 5 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 7-H (Normal),Mk 1 Chedak Comlink Salvage
+Dark Side 7-H (Normal),Mk 1 Czerka Stun Cuffs
+Dark Side 8-A (Normal),Mk 9 Kyrotech Battle Computer Prototype Salvage
+Dark Side 8-A (Normal),Mk 3 Chedak Comlink Prototype Salvage
+Dark Side 8-A (Normal),Mk 6 Loronar Power Cell Salvage
+Dark Side 8-A (Normal),Mk 1 Nubian Design Tech Prototype
+Dark Side 8-B (Normal),Mk 5 A/KT Stun Gun Prototype Salvage
+Dark Side 8-B (Normal),Mk 7 BAW Armor Mod Prototype Salvage
+Dark Side 8-B (Normal),Mk 4 Loronar Power Cell Prototype
+Dark Side 8-C (Normal),Mk 3 Czerka Stun Cuffs Salvage
+Dark Side 8-C (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 8-C (Normal),Mk 2 Arakyd Droid Caller
+Dark Side 8-D (Normal),Mk 4 Chedak Comlink Prototype Salvage
+Dark Side 8-D (Normal),Mk 4 BAW Armor Mod Salvage
+Dark Side 8-D (Normal),Mk 2 BlasTech Weapon Mod
+Dark Side 8-E (Normal),Injector Head Salvage
+Dark Side 8-E (Normal),Mk 4 Carbanti Sensor Array Prototype Salvage
+Dark Side 8-E (Normal),Mk 3 Arakyd Droid Caller Salvage
+Dark Side 8-E (Normal),Mk 1 SoroSuub Keypad
+Dark Side 8-F (Normal),Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 8-F (Normal),Mk 5 Loronar Power Cell Salvage
+Dark Side 8-F (Normal),Mk 3 BioTech Implant
+Dark Side 8-G (Normal),Mk 5 Nubian Design Tech Prototype Salvage
+Dark Side 8-G (Normal),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Dark Side 8-G (Normal),Mk 2 CEC Fusion Furnace
+Dark Side 8-H (Normal),Mk 3 Sienar Holo Projector Salvage
+Dark Side 8-H (Normal),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 8-H (Normal),Mk 4 BioTech Implant Prototype
+Dark Side 1-A (Hard),Sabine Wren
+Dark Side 1-A (Hard),Mk 2 CEC Fusion Furnace
+Dark Side 1-A (Hard),Mk 1 BlasTech Weapon Mod
+Dark Side 1-A (Hard),Mk 1 Nubian Security Scanner
+Dark Side 1-B (Hard),Clone Sergeant - Phase I
+Dark Side 1-B (Hard),Mk 3 Loronar Power Cell
+Dark Side 1-B (Hard),Mk 2 TaggeCo Holo Lens
+Dark Side 1-B (Hard),Mk 2 BlasTech Weapon Mod
+Dark Side 1-C (Hard),Count Dooku
+Dark Side 1-C (Hard),Mk 5 BioTech Implant Prototype
+Dark Side 1-C (Hard),Mk 3 BioTech Implant
+Dark Side 1-C (Hard),Mk 1 SoroSuub Keypad
+Dark Side 1-D (Hard),Jedi Consular
+Dark Side 1-D (Hard),Mk 3 BAW Armor Mod
+Dark Side 1-D (Hard),Mk 1 Nubian Design Tech Prototype
+Dark Side 1-D (Hard),Mk 2 SoroSuub Keypad Prototype
+Dark Side 2-A (Hard),First Order Stormtrooper
+Dark Side 2-A (Hard),Mk 2 Chedak Comlink Prototype
+Dark Side 2-A (Hard),Mk 2 CEC Fusion Furnace
+Dark Side 2-A (Hard),Mk 1 Arakyd Droid Caller
+Dark Side 2-B (Hard),Boba Fett
+Dark Side 2-B (Hard),Mk 6 Loronar Power Cell Salvage
+Dark Side 2-B (Hard),Mk 5 BlasTech Weapon Mod Prototype
+Dark Side 2-B (Hard),Mk 1 Neuro-Saav Electrobinoculars
+Dark Side 2-C (Hard),Clone Wars Chewbacca
+Dark Side 2-C (Hard),Mk 4 BAW Armor Mod Salvage
+Dark Side 2-C (Hard),Mk 4 Loronar Power Cell Prototype
+Dark Side 2-C (Hard),Mk 2 BlasTech Weapon Mod
+Dark Side 2-D (Hard),"CT-5555 ""Fives"""
+Dark Side 2-D (Hard),Mk 5 Loronar Power Cell Salvage
+Dark Side 2-D (Hard),Mk 4 Fabritech Data Pad Prototype
+Dark Side 2-D (Hard),Mk 3 BioTech Implant
+Dark Side 2-E (Hard),Luminara Unduli
+Dark Side 2-E (Hard),Mk 3 Arakyd Droid Caller Salvage
+Dark Side 2-E (Hard),Mk 4 BlasTech Weapon Mod Prototype
+Dark Side 2-E (Hard),Mk 4 BioTech Implant Prototype
+Dark Side 2-F (Hard),IG-86 Sentinel Droid
+Dark Side 2-F (Hard),Mk 1 Chedak Comlink Salvage
+Dark Side 2-F (Hard),Mk 2 Chiewab Hypo Syringe
+Dark Side 2-F (Hard),Mk 2 Merr-Sonn Shield Generator
+Dark Side 2-F (Hard),Mk 2 Nubian Security Scanner Prototype
+Dark Side 3-A (Hard),Range Trooper
+Dark Side 3-A (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 3-A (Hard),Mk 1 Czerka Stun Cuffs
+Dark Side 3-A (Hard),Mk 2 BAW Armor Mod Prototype
+Dark Side 3-B (Hard),Hoth Rebel Soldier
+Dark Side 3-B (Hard),Mk 6 Fabritech Data Pad Salvage
+Dark Side 3-B (Hard),Mk 2 SoroSuub Keypad Prototype
+Dark Side 3-B (Hard),Mk 2 BlasTech Weapon Mod
+Dark Side 3-C (Hard),Jedi Consular
+Dark Side 3-C (Hard),Mk 4 Nubian Security Scanner Prototype Salvage
+Dark Side 3-C (Hard),Mk 3 BAW Armor Mod
+Dark Side 3-C (Hard),Mk 2 Arakyd Droid Caller
+Dark Side 3-D (Hard),Teebo
+Dark Side 3-D (Hard),Mk 4 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 3-D (Hard),Mk 1 Chedak Comlink Salvage
+Dark Side 3-D (Hard),Mk 2 CEC Fusion Furnace
+Dark Side 3-E (Hard),Clone Sergeant - Phase I
+Dark Side 3-E (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Dark Side 3-E (Hard),Mk 4 BAW Armor Mod Salvage
+Dark Side 3-E (Hard),Mk 2 TaggeCo Holo Lens
+Dark Side 3-F (Hard),Jedi Knight Guardian
+Dark Side 3-F (Hard),Mk 3 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 3-F (Hard),Mk 2 Sienar Holo Projector Prototype Salvage
+Dark Side 3-F (Hard),Mk 3 Loronar Power Cell
+Dark Side 3-F (Hard),Mk 1 Chiewab Hypo Syringe Prototype
+Dark Side 4-A (Hard),Biggs Darklighter
+Dark Side 4-A (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Dark Side 4-A (Hard),Mk 1 Chedak Comlink Salvage
+Dark Side 4-A (Hard),Mk 2 Chiewab Hypo Syringe
+Dark Side 4-A (Hard),Mk 3 BioTech Implant
+Dark Side 4-B (Hard),Old Daka
+Dark Side 4-B (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Dark Side 4-B (Hard),Mk 6 Fabritech Data Pad Salvage
+Dark Side 4-B (Hard),Mk 2 BlasTech Weapon Mod
+Dark Side 4-B (Hard),Mk 2 Neuro-Saav Electrobinoculars Prototype
+Dark Side 4-C (Hard),Ahsoka Tano
+Dark Side 4-C (Hard),Mk 7 BAW Armor Mod Prototype Salvage
+Dark Side 4-C (Hard),Mk 7 BlasTech Weapon Mod Prototype Salvage
+Dark Side 4-C (Hard),Mk 4 BioTech Implant Prototype
+Dark Side 4-C (Hard),Mk 1 TaggeCo Holo Lens
+Dark Side 4-D (Hard),Vandor Chewbacca
+Dark Side 4-D (Hard),Mk 4 Nubian Security Scanner Prototype Salvage
+Dark Side 4-D (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 4-D (Hard),Mk 1 Merr-Sonn Shield Generator
+Dark Side 4-D (Hard),Mk 1 CEC Fusion Furnace
+Dark Side 4-E (Hard),Boba Fett
+Dark Side 4-E (Hard),Mk 7 BAW Armor Mod Prototype Salvage
+Dark Side 4-E (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 4-E (Hard),Mk 2 Merr-Sonn Shield Generator
+Dark Side 4-E (Hard),Mk 1 Fabritech Data Pad
+Dark Side 4-F (Hard),Jawa
+Dark Side 4-F (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 4-F (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Dark Side 4-F (Hard),Mk 1 Neuro-Saav Electrobinoculars
+Dark Side 4-F (Hard),Mk 1 Loronar Power Cell
+Dark Side 5-A (Hard),Ima-Gun Di
+Dark Side 5-A (Hard),Mk 5 Nubian Security Scanner Prototype Salvage
+Dark Side 5-A (Hard),Mk 4 Fabritech Data Pad Prototype
+Dark Side 5-A (Hard),Mk 4 BAW Armor Mod Salvage
+Dark Side 5-A (Hard),Mk 3 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 5-B (Hard),Bastila Shan
+Dark Side 5-B (Hard),Mk 4 CEC Fusion Furnace Prototype Salvage
+Dark Side 5-B (Hard),Mk 3 Arakyd Droid Caller Salvage
+Dark Side 5-B (Hard),Mk 7 BlasTech Weapon Mod Prototype Salvage
+Dark Side 5-B (Hard),Mk 5 BlasTech Weapon Mod Prototype
+Dark Side 5-C (Hard),Barriss Offee
+Dark Side 5-C (Hard),Mk 5 Nubian Design Tech Prototype Salvage
+Dark Side 5-C (Hard),Mk 5 Loronar Power Cell Salvage
+Dark Side 5-C (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 5-C (Hard),Mk 6 BlasTech Weapon Mod Prototype
+Dark Side 5-D (Hard),Rey (Scavenger)
+Dark Side 5-D (Hard),Rey's Millennium Falcon
+Dark Side 5-D (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 5-D (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Dark Side 5-D (Hard),Mk 2 TaggeCo Holo Lens
+Dark Side 5-D (Hard),Mk 2 CEC Fusion Furnace
+Dark Side 5-E (Hard),Barriss Offee
+Dark Side 5-E (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Dark Side 5-E (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 5-E (Hard),Mk 4 BlasTech Weapon Mod Prototype
+Dark Side 5-E (Hard),Mk 2 TaggeCo Holo Lens
+Dark Side 5-F (Hard),Royal Guard
+Dark Side 5-F (Hard),Mk 6 BioTech Implant Prototype Salvage
+Dark Side 5-F (Hard),Mk 4 Arakyd Droid Caller Salvage
+Dark Side 5-F (Hard),Mk 5 BioTech Implant Prototype
+Dark Side 5-F (Hard),Mk 2 Chedak Comlink Prototype
+Dark Side 6-A (Hard),Hoth Rebel Scout
+Dark Side 6-A (Hard),Mk 5 Nubian Security Scanner Prototype Salvage
+Dark Side 6-A (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 6-A (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Dark Side 6-A (Hard),Mk 3 Loronar Power Cell
+Dark Side 6-B (Hard),First Order TIE Pilot
+Dark Side 6-B (Hard),Mk 2 Zaltin Bacta Gel Prototype Salvage
+Dark Side 6-B (Hard),Mk 4 SoroSuub Keypad Salvage
+Dark Side 6-B (Hard),Mk 6 Neuro-Saav Electrobinoculars Prototpe Salvage
+Dark Side 6-B (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 6-C (Hard),Tusken Raider
+Dark Side 6-C (Hard),Mk 4 A/KT Stun Gun Salvage
+Dark Side 6-C (Hard),Mk 6 Fabritech Data Pad Salvage
+Dark Side 6-C (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Dark Side 6-C (Hard),Mk 3 BAW Armor Mod
+Dark Side 6-D (Hard),Jolee Bindo
+Dark Side 6-D (Hard),Mk 3 Carbanti Sensor Array Salvage
+Dark Side 6-D (Hard),Mk 6 Loronar Power Cell Salvage
+Dark Side 6-D (Hard),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 6-D (Hard),Mk 2 Chiewab Hypo Syringe
+Dark Side 6-E (Hard),IG-100 MagnaGuard
+Dark Side 6-E (Hard),Mk 3 Chedak Comlink Prototype Salvage
+Dark Side 6-E (Hard),Mk 5 Nubian Security Scanner Prototype Salvage
+Dark Side 6-E (Hard),Mk 1 Chedak Comlink Salvage
+Dark Side 6-E (Hard),Mk 4 Loronar Power Cell Prototype
+Dark Side 7-A (Hard),Bastila Shan (Fallen)
+Dark Side 7-A (Hard),Mk 4 Chedak Comlink Prototype Salvage
+Dark Side 7-A (Hard),Mk 7 BioTech Implant Prototype Salvage
+Dark Side 7-A (Hard),Mk 2 Sienar Holo Projector Prototype Salvage
+Dark Side 7-A (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Dark Side 7-B (Hard),Visas Marr
+Dark Side 7-B (Hard),Mk 4 Carbanti Sensor Array Prototype Salvage
+Dark Side 7-B (Hard),Mk 4 CEC Fusion Furnace Prototype Salvage
+Dark Side 7-B (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Dark Side 7-B (Hard),Mk 3 Arakyd Droid Caller Salvage
+Dark Side 7-C (Hard),Amilyn Holdo
+Dark Side 7-C (Hard),Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 7-C (Hard),Mk 5 A/KT Stun Gun Prototype Salvage
+Dark Side 7-C (Hard),Mk 7 BlasTech Weapon Mod Prototype Salvage
+Dark Side 7-C (Hard),Mk 3 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 7-D (Hard),Emperor's Shuttle
+Dark Side 7-D (Hard),Mk 5 Chiewab Hypo Syringe Prototype Salvage
+Dark Side 7-D (Hard),Mk 4 Arakyd Droid Caller Salvage
+Dark Side 7-D (Hard),Mk 1 Chedak Comlink Salvage
+Dark Side 7-D (Hard),Mk 4 BAW Armor Mod Salvage
+Dark Side 8-A (Hard),Wicket
+Dark Side 8-A (Hard),Mk 5 A/KT Stun Gun Prototype Salvage
+Dark Side 8-A (Hard),Mk 3 Chedak Comlink Prototype Salvage
+Dark Side 8-A (Hard),Mk 7 BAW Armor Mod Prototype Salvage
+Dark Side 8-A (Hard),Mk 6 Loronar Power Cell Salvage
+Dark Side 8-B (Hard),Jedi Consular's Starfighter
+Dark Side 8-B (Hard),Mk 4 Chedak Comlink Prototype Salvage
+Dark Side 8-B (Hard),Mk 3 Czerka Stun Cuffs Salvage
+Dark Side 8-B (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Dark Side 8-B (Hard),Mk 4 BAW Armor Mod Salvage
+Dark Side 8-C (Hard),Embo
+Dark Side 8-C (Hard),Mk 5 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 8-C (Hard),Mk 4 Carbanti Sensor Array Prototype Salvage
+Dark Side 8-C (Hard),Mk 5 Loronar Power Cell Salvage
+Dark Side 8-C (Hard),Mk 3 Arakyd Droid Caller Salvage
+Dark Side 8-D (Hard),Nightsister Zombie
+Dark Side 8-D (Hard),Mk 5 Nubian Design Tech Prototype Salvage
+Dark Side 8-D (Hard),Mk 3 Sienar Holo Projector Salvage
+Dark Side 8-D (Hard),Mk 4 Merr-Sonn Thermal Detonator Prototype Salvage
+Dark Side 8-D (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Cantina 1-A,Geonosian Soldier
+Cantina 1-A,Ability Material Mk III
+Cantina 1-A,Ability Material Mk II
+Cantina 1-A,Ability Material Mk I
+Cantina 1-B,Luke Skywalker (Farmboy)
+Cantina 1-B,Ability Material Mk III
+Cantina 1-B,Ability Material Mk II
+Cantina 1-B,Ability Material Mk I
+Cantina 1-C,Clone Wars Chewbacca
+Cantina 1-C,Ability Material Mk III
+Cantina 1-C,Ability Material Mk II
+Cantina 1-C,Ability Material Mk I
+Cantina 1-D,Scarif Rebel Pathfinder
+Cantina 1-D,Ability Material Mk III
+Cantina 1-D,Ability Material Mk II
+Cantina 1-D,Ability Material Mk I
+Cantina 1-E,Lando Calrissian
+Cantina 1-E,Ability Material Mk III
+Cantina 1-E,Ability Material Mk II
+Cantina 1-E,Ability Material Mk I
+Cantina 1-F,Hera Syndulla
+Cantina 1-F,Ability Material Mk III
+Cantina 1-F,Ability Material Mk II
+Cantina 1-F,Ability Material Mk I
+Cantina 1-G,Talia
+Cantina 1-G,Ability Material Mk III
+Cantina 1-G,Ability Material Mk II
+Cantina 1-G,Ability Material Mk I
+Cantina 2-A,Nightsister Acolyte
+Cantina 2-A,Ability Material Mk III
+Cantina 2-A,Ability Material Mk II
+Cantina 2-A,Ability Material Mk I
+Cantina 2-B,Ezra Bridger
+Cantina 2-B,Ability Material Mk III
+Cantina 2-B,Ability Material Mk II
+Cantina 2-B,Ability Material Mk I
+Cantina 2-C,Imperial Super Commando
+Cantina 2-C,Ability Material Mk III
+Cantina 2-C,Ability Material Mk II
+Cantina 2-C,Ability Material Mk I
+Cantina 2-D,Jawa
+Cantina 2-D,Ability Material Mk III
+Cantina 2-D,Ability Material Mk II
+Cantina 2-D,Ability Material Mk I
+Cantina 2-E,Gar Saxon
+Cantina 2-E,Ability Material Mk III
+Cantina 2-E,Ability Material Mk II
+Cantina 2-E,Ability Material Mk I
+Cantina 2-F,Obi-Wan Kenobi (Old Ben)
+Cantina 2-F,Ability Material Mk III
+Cantina 2-F,Ability Material Mk II
+Cantina 2-F,Ability Material Mk I
+Cantina 2-G,First Order Executioner
+Cantina 2-G,Ability Material Mk III
+Cantina 2-G,Ability Material Mk II
+Cantina 2-G,Ability Material Mk I
+Cantina 3-A,Jedi Consular
+Cantina 3-A,Ability Material Mk III
+Cantina 3-A,Ability Material Mk II
+Cantina 3-A,Ability Material Mk I
+Cantina 3-B,Qi'ra
+Cantina 3-B,Ability Material Mk III
+Cantina 3-B,Ability Material Mk II
+Cantina 3-B,Ability Material Mk I
+Cantina 3-C,IG-100 MagnaGuard
+Cantina 3-C,Ability Material Mk III
+Cantina 3-C,Ability Material Mk II
+Cantina 3-C,Ability Material Mk I
+Cantina 3-D,Paploo
+Cantina 3-D,Ability Material Mk III
+Cantina 3-D,Ability Material Mk II
+Cantina 3-D,Ability Material Mk I
+Cantina 3-E,Finn
+Cantina 3-E,Ability Material Mk III
+Cantina 3-E,Ability Material Mk II
+Cantina 3-E,Ability Material Mk I
+Cantina 3-F,Kylo Ren (Unmasked)
+Cantina 3-F,TIE Silencer
+Cantina 3-F,Ability Material Mk III
+Cantina 3-F,Ability Material Mk II
+Cantina 3-F,Ability Material Mk I
+Cantina 3-G,Biggs Darklighter
+Cantina 3-G,Ability Material Mk III
+Cantina 3-G,Ability Material Mk II
+Cantina 3-G,Ability Material Mk I
+Cantina 4-A,Mace Windu
+Cantina 4-A,Ability Material Mk III
+Cantina 4-A,Ability Material Mk II
+Cantina 4-A,Ability Material Mk I
+Cantina 4-B,TIE Fighter Pilot
+Cantina 4-B,Ability Material Mk III
+Cantina 4-B,Ability Material Mk II
+Cantina 4-B,Ability Material Mk I
+Cantina 4-C,Kylo Ren
+Cantina 4-C,Ability Material Mk III
+Cantina 4-C,Ability Material Mk II
+Cantina 4-C,Ability Material Mk I
+Cantina 4-D,Geonosian Spy
+Cantina 4-D,Ability Material Mk III
+Cantina 4-D,Ability Material Mk II
+Cantina 4-D,Ability Material Mk I
+Cantina 4-E,IG-86 Sentinel Droid
+Cantina 4-E,Ability Material Mk III
+Cantina 4-E,Ability Material Mk II
+Cantina 4-E,Ability Material Mk I
+Cantina 4-F,Kit Fisto
+Cantina 4-F,Ability Material Mk III
+Cantina 4-F,Ability Material Mk II
+Cantina 4-F,Ability Material Mk I
+Cantina 4-G,Plo Koon
+Cantina 4-G,Ability Material Mk III
+Cantina 4-G,Ability Material Mk II
+Cantina 4-G,Ability Material Mk I
+Fleet 1-A (Normal),Mk 3 Neuro-Saav Electrobinoculars
+Fleet 1-A (Normal),Mk 1 BAW Armor Mod
+Fleet 1-A (Normal),Ship Ability Material Mk I
+Fleet 1-B (Normal),Mk 3 Arakyd Droid Caller Salvage
+Fleet 1-B (Normal),Mk 2 Chiewab Hypo Syringe
+Fleet 1-B (Normal),Ship Ability Material Mk I
+Fleet 1-C (Normal),Mk 2 Sienar Holo Projector Prototype Salvage
+Fleet 1-C (Normal),Mk 3 BioTech Implant
+Fleet 1-C (Normal),Ship Ability Material Mk I
+Fleet 1-D (Normal),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Fleet 1-D (Normal),Mk 5 Fabritech Data Pd
+Fleet 1-D (Normal),Ship Ability Material Mk I
+Fleet 1-E (Normal),Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage
+Fleet 1-E (Normal),Mk 2 Arakyd Droid Caller
+Fleet 1-E (Normal),Ship Ability Material Mk I
+Fleet 1-F (Normal),Mk 3 Arakyd Droid Caller Salvage
+Fleet 1-F (Normal),Mk 3 TaggeCo Holo Lens Prototype
+Fleet 1-F (Normal),Ship Ability Material Mk I
+Fleet 1-G (Normal),Mk 3 Sienar Holo Projector Salvage
+Fleet 1-G (Normal),Mk 3 Neuro-Saav Electrobinoculars
+Fleet 1-G (Normal),Ship Ability Material Mk I
+Fleet 2-A (Normal),Mk 4 SoroSuub Keypad Salvage
+Fleet 2-A (Normal),Mk 4 Loronar Power Cell Prototype
+Fleet 2-A (Normal),Mk 1 Chiewab Hypo Syringe Prototype
+Fleet 2-A (Normal),Ship Ability Material Mk II
+Fleet 2-A (Normal),Ship Ability Material Mk I
+Fleet 2-B (Normal),Mk 4 Arakyd Droid Caller Salvage
+Fleet 2-B (Normal),Mk 3 Arakyd Droid Caller Salvage
+Fleet 2-B (Normal),Mk 1 BlasTech Weapon Mod
+Fleet 2-B (Normal),Ship Ability Material Mk II
+Fleet 2-B (Normal),Ship Ability Material Mk I
+Fleet 2-C (Normal),Mk 6 BioTech Implant Prototype Salvage
+Fleet 2-C (Normal),Mk 1 Carbanti Sensor Array Prototype Salvage
+Fleet 2-C (Normal),Mk 1 CEC Fusion Furnace
+Fleet 2-C (Normal),Ship Ability Material Mk II
+Fleet 2-C (Normal),Ship Ability Material Mk I
+Fleet 2-D (Normal),Mk 8 BlasTech Weapon Mod Prototype Salvage
+Fleet 2-D (Normal),Mk 2 Sienar Holo Projector Prototype Salvage
+Fleet 2-D (Normal),Mk 2 BlasTech Weapon Mod
+Fleet 2-D (Normal),Ship Ability Material Mk II
+Fleet 2-D (Normal),Ship Ability Material Mk I
+Fleet 2-E (Normal),Mk 12 ArmaTek Fusion Furnace Prototype Salvage
+Fleet 2-E (Normal),Mk 5 Nubian Security Scanner Prototype Salvage
+Fleet 2-E (Normal),Mk 4 BAW Armor Mod Salvage
+Fleet 2-E (Normal),Mk 2 Fabritech Data Pad
+Fleet 2-E (Normal),Ship Ability Material Mk II
+Fleet 2-E (Normal),Ship Ability Material Mk I
+Fleet 2-F (Normal),Mk 12 Czerka Stun Cuffs Prototype Salvage
+Fleet 2-F (Normal),Mk 6 Nubian Security Scanner Prototype Salvage
+Fleet 2-F (Normal),Mk 6 Fabritech Data Pad Salvage
+Fleet 2-F (Normal),Mk 6 BlasTech Weapon Mod Prototype
+Fleet 2-F (Normal),Ship Ability Material Mk II
+Fleet 2-F (Normal),Ship Ability Material Mk I
+Fleet 2-G (Normal),Mk 2 Zaltin Bacta Gel Prototype Salvage
+Fleet 2-G (Normal),Mk 6 Loronar Power Cell Salvage
+Fleet 2-G (Normal),Mk 5 BioTech Implant Prototype
+Fleet 2-G (Normal),Ship Ability Material Mk II
+Fleet 2-G (Normal),Ship Ability Material Mk I
+Fleet 1-A (Hard),Clone Sergeant's ARC-170
+Fleet 1-A (Hard),Mk 4 SoroSuub Keypad Salvage
+Fleet 1-A (Hard),Mk 2 Arakyd Droid Caller
+Fleet 1-A (Hard),Ship Ability Material Mk I
+Fleet 1-B (Hard),Anakin's Eta-2 Starfighter
+Fleet 1-B (Hard),Mk 8 BlasTech Weapon Mod Prototype Salvage
+Fleet 1-B (Hard),Mk 3 TaggeCo Holo Lens Prototype
+Fleet 1-B (Hard),Ship Ability Material Mk I
+Fleet 1-C (Hard),Imperial TIE Fighter
+Fleet 1-C (Hard),Mk 8 BlasTech Weapon Mod Prototype Salvage
+Fleet 1-C (Hard),Mk 3 Neuro-Saav Electrobinoculars
+Fleet 1-C (Hard),Ship Ability Material Mk I
+Fleet 1-D (Hard),Young Lando Calrissian
+Fleet 1-D (Hard),Lando's Millenium Falcon
+Fleet 1-D (Hard),Mk 3 Sienar Holo Projector Salvage
+Fleet 1-D (Hard),Mk 4 Loronar Power Cell Prototype
+Fleet 1-D (Hard),Mk 1 Chiewab Hypo Syringe Prototype
+Fleet 1-D (Hard),Ship Ability Material Mk I
+Fleet 1-E (Hard),Resistance X-wing
+Fleet 1-E (Hard),Mk 5 Nubian Design Tech Prototype Salvage
+Fleet 1-E (Hard),Mk 2 Sienar Holo Projector Prototype Salvage
+Fleet 1-E (Hard),Mk 2 BlasTech Weapon Mod
+Fleet 1-E (Hard),Ship Ability Material Mk I
+Fleet 2-A (Hard),Sun Fac's Geonosian Starfighter
+Fleet 2-A (Hard),Mk 2 Zaltin Bacta Gel Prototype Salvage
+Fleet 2-A (Hard),Mk 1 Carbanti Sensor Array Prototype Salvage
+Fleet 2-A (Hard),Mk 1 CEC Fusion Furnace
+Fleet 2-A (Hard),Ship Ability Material Mk II
+Fleet 2-A (Hard),Ship Ability Material Mk I
+Fleet 2-B (Hard),Slave I
+Fleet 2-B (Hard),Mk 5 Chiewab Hypo Syringe Prototype Salvage
+Fleet 2-B (Hard),Mk 4 BAW Armor Mod Salvage
+Fleet 2-B (Hard),Mk 2 Fabritech Data Pad
+Fleet 2-B (Hard),Ship Ability Material Mk II
+Fleet 2-B (Hard),Ship Ability Material Mk I
+Fleet 2-C (Hard),Bistan's U-wing
+Fleet 2-C (Hard),Mk 3 Carbanti Sensor Array Salvage
+Fleet 2-C (Hard),Mk 6 Fabritech Data Pad Salvage
+Fleet 2-C (Hard),Mk 6 BlasTech Weapon Mod Prototype
+Fleet 2-C (Hard),Ship Ability Material Mk II
+Fleet 2-C (Hard),Ship Ability Material Mk I
+Fleet 2-D (Hard),Bastila Shan
+Fleet 2-D (Hard),Mk 6 Chiewab Hypo Syringe Salvage
+Fleet 2-D (Hard),Mk 6 Loronar Power Cell Salvage
+Fleet 2-D (Hard),Mk 5 BioTech Implant Prototype
+Fleet 2-D (Hard),Ship Ability Material Mk II
+Fleet 2-D (Hard),Ship Ability Material Mk I
+Fleet 2-E (Hard),Carth Onasi
+Fleet 2-E (Hard),Mk 3 Carbanti Sensor Array Salvage
+Fleet 2-E (Hard),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Fleet 2-E (Hard),Mk 2 Chedak Comlink Prototype
+Fleet 2-E (Hard),Ship Ability Material Mk II
+Fleet 2-E (Hard),Ship Ability Material Mk I
