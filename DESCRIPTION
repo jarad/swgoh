@@ -10,8 +10,10 @@ Authors@R:
 Description: The package contains counts for Battle Rewards from the mobile 
     game Star Wars Galaxy of Heroes. The intent of these data are to provide a
     modern data set for the analysis of count and the estimation of 
-    probabilities or relates related to the binomial and Poisson distributions.
-    With enough data, it may also be possible to utilize change-point models
+    probabilities related to the binomial, Poisson, and multinomial distributions.
+    Hierarchical extensions of these models could be used to borrow information 
+    among similar reward types.
+    It may also be possible to utilize change-point models
     to identify when the probabilities or rates have changed.
 License: MIT
 Encoding: UTF-8
@@ -21,3 +23,4 @@ Suggests:
     readr,
     dplyr,
     tidyr
+RoxygenNote: 7.0.1
