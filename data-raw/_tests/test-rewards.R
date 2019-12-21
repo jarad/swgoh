@@ -8,7 +8,7 @@ col_types <- cols(
   count    = col_integer()
 )
 
-load("../../data/level_rewards.rda")
+load("../../data/battle_rewards.rda")
 
 reward_files <- list.files(path = "../rewards/",
                            pattern = "*.csv",
@@ -54,13 +54,15 @@ for (i in seq_along(reward_files)) {
     expect_true(all(diff(d$battleID) >= 0))
   )
   
-  test_that(
-    paste(file, "rewards are known"),
-    expect_true(all(d$reward %in% level_rewards$reward))
-  )
-  
-  test_that(
-    paste(file, "count has reasonable numbers"),
-    expect_true(all(0 <= d$count & d$count <= 20))
-  )
+  for (j in 1:nrow(d)) {
+    test_that(
+      paste(file, j, d$reward[j], "reward is known"),
+      expect_true(d$reward[j] %in% battle_rewards$reward)
+    )
+    
+    test_that(
+      paste(file, j, "0 <=", d$count[j], "<= 20"),
+      expect_true(0 <= d$count[j] & d$count[j] <= 20)
+    )
+  }
 }

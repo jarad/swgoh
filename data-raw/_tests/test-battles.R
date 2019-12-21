@@ -9,7 +9,7 @@ col_types <- cols(
   n_sims   = col_integer()
 )
 
-load("../../data/level_rewards.rda")
+load("../../data/battle_rewards.rda")
 
 battle_files <- list.files(path = "../battles/",
                            pattern = "*.csv",
