@@ -55,18 +55,20 @@ for (i in seq_along(battle_files)) {
     expect_true(all(diff(d$battleID) == 1))
   )
   
-  test_that(
-    paste(file, "userIDs in 1,2,3"),
-    expect_true(all(d$userID %in% as.integer(1:3)))
-  )
-  
-  test_that(
-    paste(file, "battles are known"),
-    expect_true(all(d$battle %in% level_rewards$battle))
-  )
-  
-  test_that(
-    paste(file, "n_sims have reasonable numbers"),
-    expect_true(all(0 <= d$n_sims & d$n_sims <= 20))
-  )
+  for (r in 1:nrow(d)) {
+    test_that(
+      paste(file, r, d$userID[r], "userIDs in 1,2,3"),
+      expect_true(d$userID[r] %in% as.integer(1:3))
+    )
+    
+    test_that(
+      paste(file, r, d$battle[r], "battles are known"),
+      expect_true(d$battle[r] %in% battle_rewards$battle)
+    )
+    
+    test_that(
+      paste(file, r, d$n_sims[r], "n_sims have reasonable numbers"),
+      expect_true(0 <= d$n_sims[r] & d$n_sims[r] <= 20)
+    )
+  }
 }
