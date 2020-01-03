@@ -37,5 +37,7 @@ rsconnect/
 .Rproj.user
 swgoh.Rproj
 
+data-raw/_tests/aux
+
 # Mac files
 .DS_Store
