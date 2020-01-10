@@ -1,4 +1,4 @@
-﻿battleID,reward,count
+battleID,reward,count
 1,Sabine Wren,1
 1,Mk 2 CEC Fusion Furnace,3
 1,Mk 1 BlasTech Weapon Mod,2
@@ -56,7 +56,7 @@
 18,Mk 1 Nubian Security Scanner,3
 18,Mk 1 BlasTech Weapon Mod,2
 19,Biggs Darklighter,4
-19,Mk 1 Carbanti Sensory Array Prototype Salvage,2
+19,Mk 1 Carbanti Sensor Array Prototype Salvage,2
 19,Mk 1 Zaltin Bacta Gel Prototype Salvage,3
 19,Mk 3 BioTech Implant,3
 19,Mk 2 Chiewab Hypo Syringe,2
@@ -81,7 +81,7 @@
 25,Ability Material Mk II,3
 25,Ability Material Mk I,2
 26,Biggs Darklighter,1
-26,Mk 1 Carbanti Sensory Array Prototype Salvage,1
+26,Mk 1 Carbanti Sensor Array Prototype Salvage,1
 26,Mk 1 Zaltin Bacta Gel Prototype Salvage,3
 26,Mk 3 BioTech Implant,3
 26,Mk 2 Chiewab Hypo Syringe,2
@@ -89,7 +89,7 @@
 27,Ability Material Mk III,1
 27,Ability Material Mk I,1
 28,Biggs Darklighter,2
-28,Mk 1 Carbanti Sensory Array Prototype Salvage,2
+28,Mk 1 Carbanti Sensor Array Prototype Salvage,2
 28,Mk 1 Zaltin Bacta Gel Prototype Salvage,2
 28,Mk 3 BioTech Implant,4
 28,Mk 2 Chiewab Hypo Syringe,1
@@ -98,9 +98,9 @@
 30,Ezra Bridger,5
 30,Ability Material Mk II,2
 30,Ability Material Mk I,2
-31,Imperial TIE Fightr,2
+31,Imperial TIE Fighter,2
 31,Mk 8 BlasTech Weapon Mod Prototype Salvage,2
-32,Mk 1 Carbanti Sensory Array Prototype Salvage,2
+32,Mk 1 Carbanti Sensor Array Prototype Salvage,2
 32,Mk 1 Zaltin Bacta Gel Prototype Salvage,3
 32,Mk 3 BioTech Implant,4
 32,Mk 2 Chiewab Hypo Syringe,2
@@ -115,7 +115,7 @@
 34,Mk 2 Chiewab Hypo Syringe,2
 35,Rey (Scavenger),1
 35,Rey's Millennium Falcon,3
-35,Mk 1 Carbanti Sensory Array Prototype Salvage,2
+35,Mk 1 Carbanti Sensor Array Prototype Salvage,2
 35,Mk 2 TaggeCo Holo Lens,3
 35,Mk 2 CEC Fusion Furnace,3
 36,Ezra Bridger,4
@@ -126,7 +126,7 @@
 38,Mk 5 BlasTech Weapon Mod Prototype,3
 38,Mk 1 Neuro-Saav Electrobinoculars,2
 39,Boba Fett,2
-39,Mk 1 Carbanti Sensory Array Prototype Salvage,1
+39,Mk 1 Carbanti Sensor Array Prototype Salvage,1
 39,Mk 2 Merr-Sonn Shield Generator,3
 39,Mk 1 Fabritech Data Pad,1
 40,Hera Syndulla,1
@@ -154,7 +154,7 @@
 55,Hera Syndulla,1
 55,Ability Material Mk II,1
 55,Ability Material Mk I,1
-56,Mk 4 SoroSuub Keypad,2
+56,Mk 4 SoroSuub Keypad Salvage,2
 56,Mk 2 Arakyd Droid Caller,5
 57,Mk 5 A/KT Stun Gun Prototype Salvage,3
 57,Mk 7 BAW Armor Mod Prototype Salvage,5

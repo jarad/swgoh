@@ -2,6 +2,9 @@ library("testthat")
 library("readr")
 library("dplyr")
 
+# source("check_md5ums.R")
+load("../../data/battle_rewards.rda")
+
 col_types <- cols(
   battleID = col_integer(),
   userID   = col_integer(),
@@ -9,44 +12,31 @@ col_types <- cols(
   n_sims   = col_integer()
 )
 
-load("../../data/battle_rewards.rda")
-
 battle_files <- list.files(path = "../battles/",
                            pattern = "*.csv",
                            recursive = TRUE,
                            full.names = TRUE)
 
-# # Figure out how to check md5sums for changes
-# md5sums <- vapply(battle_files, 
-#                   FUN = function(x) tools::md5sum(x),
-#                   FUN.VALUE = character(1)) 
+changed_battle_files <- battle_files
+
+# md5sums <- check_md5sums(files = battle_files,
+#               md5sum_file = "battle_files.md5sum")
 # 
-# if (file.exists("battle_files.md5sums")) {
-#   old <- readr::read_csv("battle_files.md5sums")
-#   
-#   keep = numeric()
-#   m <- match(battle_files, old$files)
-#   
-#   for (i in seq_along(m)) {
-#     
-#     
-#     if (old$md5sums[old$file == "foo"]
-#   }
-# }
+# changed_battle_files = md5sums %>%
+#   filter(changed)
 # 
-# for (i in seq_along(battle_files)) {
-#   file <- battle_files[i]
-#   
+# check_battle_file = function(file) {
+#   any_error = FALSE
+# 
+#   if (!isTRUE())
 # }
 
-
-for (i in seq_along(battle_files)) {
-  file <- battle_files[i]
+for (i in seq_along(changed_battle_files)) {
+  file <- changed_battle_files[i]
   d <- readr::read_csv(file, col_types = col_types)
   
   test_that(
     paste(file,"has the correct columns"),
-    
     expect_equal(names(d), c("battleID","userID","battle","n_sims"))
   )
   
@@ -55,10 +45,15 @@ for (i in seq_along(battle_files)) {
     expect_true(all(diff(d$battleID) == 1))
   )
   
+  # test_that(
+  #   paste(file, "userIDs in 1,2,3"),
+  #   last_test = expect_true(all(d$userID %in% as.integer(1:4)))
+  # )
+  
   for (r in 1:nrow(d)) {
     test_that(
-      paste(file, r, d$userID[r], "userIDs in 1,2,3"),
-      expect_true(d$userID[r] %in% as.integer(1:3))
+      paste(file, r, d$userID[r], "userIDs in 1:4"),
+      expect_true(d$userID[r] %in% as.integer(1:4))
     )
     
     test_that(
