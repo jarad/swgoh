@@ -1,0 +1,173 @@
+battleID,reward,count
+1,Hera Syndulla,6
+1,Ability Material Mk II,1
+1,Ability Material Mk I,3
+2,Hera Syndulla,6
+2,Ability Material Mk II,3
+2,Ability Material Mk I,2
+3,Hera Syndulla,5
+3,Ability Material Mk II,1
+3,Ability Material Mk I,1
+4,Sabine Wren,3
+4,Mk 2 CEC Fusion Furnace,2
+4,Mk 1 BlasTech Weapon Mod,3
+4,Mk 1 Nubian Security Scanner,3
+5,Mk 5 Loronar Power Cell Salvage,1
+5,Mk 3 Neuro-Saav Electrobinoculars,2
+5,Mk 3 BlasTech Weapon Mod,3
+6,Mk 3 Neuro-Saav Electrobinoculars,7
+6,Mk 1 BAW Armor Mod,3
+6,Ship Ability Material Mk I,1
+7,Mk 1 Zaltin Bacta Gel Prototype Salvage,3
+7,Mk 5 Fabritech Data Pad,9
+8,Mk 2 CEC Fusion Furnace,1
+8,Mk 1 Nubian Security Scanner,2
+8,Mk 1 BlasTech Weapon Mod,1
+9,Mk 6 Chiewab Hypo Syringe Salvage,1
+9,Mk 5 BioTech Implant Prototype,1
+10,Ezra Bridger,9
+10,Ability Material Mk III,1
+10,Ability Material Mk II,1
+10,Ability Material Mk I,5
+11,Ezra Bridger,2
+11,Ability Material Mk II,4
+11,Ability Material Mk I,4
+12,Ezra Bridger,2
+12,Ability Material Mk III,1
+12,Ability Material Mk II,2
+12,Ability Material Mk I,3
+13,Sabine Wren,4
+13,Mk 2 CEC Fusion Furnace,3
+13,Mk 1 Nubian Security Scanner,3
+13,Mk 1 BlasTech Weapon Mod,2
+14,Zaalbar,1
+14,Mk 5 Loronar Power Cell Salvage,1
+14,Mk 3 Neuro-Saav Electrobinoculars,1
+14,Mk 3 BlasTech Weapon Mod,2
+15,Mk 3 Neuro-Saav Electrobinoculars,4
+15,Mk 1 BAW Armor Mod,2
+16,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+16,Mk 5 Loronar Power Cell Salvage,1
+16,Mk 3 Neuro-Saav Electrobinoculars,2
+16,Mk 3 BlasTech Weapon Mod,1
+17,Hera Syndulla,2
+17,Ability Material Mk I,2
+18,Ezra Bridger,6
+18,Ability Material Mk II,2
+18,Ability Material Mk I,1
+19,Ezra Bridger,8
+19,Ability Material Mk II,2
+19,Ability Material Mk I,2
+20,Boba Fett,3
+20,Mk 7 BAW Armor Mod Prototype Salvage,2
+20,Mk 1 Carbanti Sensor Array Prototype Salvage,1
+20,Mk 2 Merr-Sonn Shield Generator,4
+20,Mk 1 Fabritech Data Pad,3
+21,Mk 1 Zaltin Bacta Gel Prototype Salvage,2
+21,Mk 2 Chiewab Hypo Syringe,1
+22,Boba Fett,1
+22,Mk 7 BAW Armor Mod Prototype Salvage,3
+22,Mk 1 Carbanti Sensor Array Prototype Salvage,2
+22,Mk 2 Merr-Sonn Shield Generator,2
+22,Mk 1 Fabritech Data Pad,1
+23,Zaalbar,2
+23,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+23,Mk 5 Loronar Power Cell Salvage,2
+23,Mk 3 Neuro-Saav Electrobinoculars,5
+23,Mk 3 BlasTech Weapon Mod,3
+24,Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,2
+24,Mk 2 Arakyd Droid Caller,5
+25,Mk 5 Neuro-Saav Electrobinoculars Salvage,3
+25,Mk 1 TaggeCo Holo Lens,5
+26,Hera Syndulla,9
+26,Ability Material Mk III,1
+26,Ability Material Mk II,3
+26,Ability Material Mk I,3
+27,Hera Syndulla,1
+28,Sabine Wren,1
+28,Mk 2 CEC Fusion Furnace,4
+28,Mk 1 Nubian Security Scanner,2
+28,Mk 1 BlasTech Weapon Mod,2
+29,Zaalbar,2
+29,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+29,Mk 5 Loronar Power Cell Salvage,2
+29,Mk 3 Neuro-Saav Electrobinoculars,2
+29,Mk 3 BlasTech Weapon Mod,2
+30,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+30,Mk 3 Neuro-Saav Electrobinoculars,1
+31,Mk 4 BAW Armor Mod Salvage,1
+31,Mk 2 Fabritech Data Pad,1
+31,Ship Ability Material Mk II,1
+32,Jolee Bindo,2
+32,Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,1
+32,Mk 2 Chiewab Hypo Syringe,3
+33,Hera Syndulla,5
+33,Ability Material Mk I,1
+34,Mk 1 Zaltin Bacta Gel Prototype Salvage,2
+34,Mk 3 BioTech Implant,4
+34,Mk 2 Chiewab Hypo Syringe,2
+35,Mk 3 Neuro-Saav Electrobinoculars,9
+35,Mk 1 BAW Armor Mod,5
+36,Hera Syndulla,2
+36,Ability Material Mk II,1
+36,Ability Material Mk I,2
+37,Biggs Darklighter,2
+37,Mk 1 Carbanti Sensor Array Prototype Salvage,2
+37,Mk 1 Zaltin Bacta Gel Prototype Salvage,1
+37,Mk 3 BioTech Implant,2
+37,Mk 2 Chiewab Hypo Syringe,2
+38,Boba Fett,1
+38,Mk 5 BlasTech Weapon Mod Prototype,3
+38,Mk 1 Neuro-Saav Electrobinoculars,2
+39,Bastila Shan,1
+39,Mk 4 CEC Fusion Furnace Prototype Salvage,1
+39,Mk 7 BlasTech Weapon Mod Prototype Salvage,2
+39,Mk 5 BlasTech Weapon Mod Prototype,1
+40,Mk 3 Neuro-Saav Electrobinoculars,8
+40,Mk 1 BAW Armor Mod,9
+40,Ship Ability Material Mk I,2
+41,Ezra Bridger,3
+41,Ability Material Mk II,1
+41,Ability Material Mk I,1
+42,Ezra Bridger,3
+42,Ability Material Mk I,1
+43,Biggs Darklighter,2
+43,Mk 1 Zaltin Bacta Gel Prototype Salvage,3
+43,Mk 1 Carbanti Sensor Array Prototype Salvage,2
+43,Mk 3 BioTech Implant,3
+43,Mk 2 Chiewab Hypo Syringe,2
+44,Boba Fett,1
+45,Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,5
+45,Mk 2 Arakyd Droid Caller,13
+45,Ship Ability Material Mk I,3
+46,Mk 1 Carbanti Sensor Array Prototype Salvage,1
+46,Mk 2 Merr-Sonn Shield Generator,1
+46,Mk 1 Fabritech Data Pad,1
+47,Mk 1 Carbanti Sensor Array Prototype Salvage,1
+47,Mk 7 BAW Armor Mod Prototype Salvage,1
+47,Mk 2 Merr-Sonn Shield Generator,1
+47,Mk 1 Fabritech Data Pad,1
+49,Biggs Darklighter,1
+49,Mk 1 Zaltin Bacta Gel Prototype Salvage,2
+49,Mk 3 BioTech Implant,2
+49,Mk 2 Chiewab Hypo Syringe,2
+50,Mk 5 Fabritech Data Pad,2
+51,Mk 5 SoroSuub Keypad Salvage,1
+51,Mk 5 Fabritech Data Pad,3
+52,Mk 5 Fabritech Data Pad,1
+53,Mk 5 SoroSuub Keypad Salvage,1
+55,Mk 3 BAW Armor Mod ,1
+57,Mk 2 SoroSuub Keypad Prototype,3
+57,Mk 3 Chiewab Hypo Syringe Prototype Salvage,1
+61,Mk 3 Neuro-Saav Electrobinoculars,7
+61,Mk 1 BAW Armor Mod,1
+61,Ship Ability Material Mk I,1
+62,Mk 5 SoroSuub Keypad Salvage,2
+62,Mk 5 Fabritech Data Pad,3
+63,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+63,Mk 3 Neuro-Saav Electrobinoculars,1
+64,Mk 2 SoroSuub Keypad Prototype,2
+64,Mk 5 A/KT Stun Gun Prototype Salvage,2
+64,Mk 3 Chiewab Hypo Syringe Prototype Salvage,1
+66,Mk 6 TaggeCo Holo Lens Prototype Salvage,1
+66,Mk 2 Chedak Comlink Prototype,1
