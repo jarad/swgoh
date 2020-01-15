@@ -1,0 +1,58 @@
+battleID,userID,battle,n_sims
+1,2,Fleet 1-A (Normal),12
+2,1,Fleet 2-D (Hard),5
+3,4,Fleet 1-A (Normal),14
+4,3,Fleet 1-C (Hard),5
+5,4,Cantina 2-B,20
+6,4,Cantina 2-B,17
+7,4,Dark Side 1-A (Hard),5
+8,4,Light Side 5-D (Hard),3
+9,2,Cantina 1-F,20
+10,2,Cantina 1-F,20
+11,2,Cantina 1-F,20
+12,2,Dark Side 1-A (Hard),5
+13,2,Light Side 5-D (Hard),5
+14,2,Dark Side 4-E (Hard),5
+15,3,Cantina 1-F,3
+16,3,Dark Side 1-A (Hard),5
+17,3,Light Side 5-D (Hard),3
+18,3,Light Side 5-D (Hard),2
+19,3,Cantina 1-F,8
+20,3,Dark Side 5-B (Hard),5
+21,3,Fleet 1-A (Hard),5
+22,1,Cantina 1-F,20
+23,1,Dark Side 1-A (Hard),5
+24,1,Light Side 5-D (Hard),3
+25,2,Dark Side 4-A (Hard),2
+26,1,Cantina 1-F,13
+27,1,Light Side 5-D (Hard),2
+28,1,Dark Side 5-B (Hard),5
+29,1,Fleet 1-C (Hard),5
+30,4,Cantina 2-B,8
+31,3,Cantina 1-F,7
+32,3,Fleet 1-D (Normal),20
+33,3,Dark Side 4-E (Hard),5
+34,3,Dark Side 4-A (Hard),5
+35,3,Dark Side 6-D (Hard),0
+36,3,Dark Side 6-D (Hard),2
+37,4,Fleet 1-A (Normal),15
+38,2,Cantina 1-F,8
+39,2,Fleet 1-A (Normal),12
+40,4,Dark Side 5-B (Hard),5
+41,4,Dark Side 4-A (Hard),5
+42,4,Dark Side 4-E (Hard),5
+43,2,Dark Side 4-A (Hard),3
+44,2,Dark Side 2-B (Hard),5
+45,2,Dark Side 5-G (Normal),2
+46,2,Dark Side 5-G (Normal),2
+47,2,Dark Side 5-G (Normal),2
+48,2,Dark Side 5-G (Normal),2
+49,2,Dark Side 5-G (Normal),1
+50,4,Fleet 1-A (Normal),3
+51,3,Dark Side 6-D (Hard),2
+52,3,Dark Side 5-D (Hard),1
+53,1,Fleet 2-B (Hard),5
+54,1,Dark Side 6-D (Hard),5
+55,1,Dark Side 4-E (Hard),5
+56,1,Dark Side 4-A (Hard),1
+57,1,Cantina 1-F,3
