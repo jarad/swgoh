@@ -62,8 +62,15 @@ for (i in seq_along(changed_battle_files)) {
     )
     
     test_that(
-      paste(file, r, d$n_sims[r], "n_sims have reasonable numbers"),
+      paste(file, r, d$n_sims[r], "0 <= n_sims <= 20"),
       expect_true(0 <= d$n_sims[r] & d$n_sims[r] <= 20)
     )
+    
+    if (grepl("hard", d$battle[r])) {
+      test_that(
+        paste(file, r, d$n_sims[r], "n_sims (hard) <= 5"),
+        expect_true(d$n_sims[r] <= 5)
+      )
+    }
   }
 }

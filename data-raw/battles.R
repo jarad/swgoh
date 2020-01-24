@@ -4,7 +4,7 @@ library("tidyr")
 col_types <- cols(
   battleID = col_integer(),
   userID   = col_integer(),
-  battle   = col_double(),
+  battle   = col_character(),
   n_sims   = col_integer()
 )
 
@@ -33,7 +33,7 @@ battles <- read_dir(path    = "battles",
                       formatC(battleID, width = 3, flag = "0")),
     date     = as.Date(date, format = "b%Y%m%d")) %>% 
   
-  dplyr::select(date, battleID, userID, battle_name, n_sims)
+  dplyr::select(date, battleID, userID, battle, n_sims)
 
 usethis::use_data(battles, overwrite = TRUE)
   
