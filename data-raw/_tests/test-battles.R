@@ -17,7 +17,7 @@ battle_files <- list.files(path = "../battles/",
                            recursive = TRUE,
                            full.names = TRUE)
 
-changed_battle_files <- battle_files
+changed_battle_files <- battle_files[length(battle_files)]
 
 # md5sums <- check_md5sums(files = battle_files,
 #               md5sum_file = "battle_files.md5sum")

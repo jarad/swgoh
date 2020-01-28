@@ -15,6 +15,8 @@ reward_files <- list.files(path = "../rewards/",
                            recursive = TRUE,
                            full.names = TRUE)
 
+changed_reward_files <- reward_files[length(reward_files)]
+
 # # Figure out how to check md5sums for changes
 # md5sums <- vapply(reward_files, 
 #                   FUN = function(x) tools::md5sum(x),
@@ -39,8 +41,8 @@ reward_files <- list.files(path = "../rewards/",
 # }
 
 
-for (i in seq_along(reward_files)) {
-  file <- reward_files[i]
+for (i in seq_along(changed_reward_files)) {
+  file <- changed_reward_files[i]
   d <- readr::read_csv(file, col_types = col_types)
   
   test_that(
