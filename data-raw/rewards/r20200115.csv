@@ -59,19 +59,19 @@ battleID,reward,count
 18,Mk 3 Arakyd Droid Caller Salvage,2
 18,Mk 7 BlasTech Weapon Mod Prototype Salvage,1
 18,Mk 5 BlasTech Weapon Mod Prototype,2
-18,Boba Fett,1
-18,Mk 1 Carbanti Sensor Array Prototype Salvage,1
-18,Mk 2 Merr-Sonn Shield Generator,2
-18,Mk 1 Fabritech Data Pad,1
-19,Hera Syndulla,2
-20,Mk 5 Loronar Power Cell Salvage,2
-20,Mk 3 BlasTech Weapon Mod,2
-20,Mk 3 Neuro-Saav Electrobinoculars,1
-21,Boba Fett,3
-21,Mk 7 BAW Armor Mod Prototype Salvage,1
-21,Mk 1 Carbanti Sensor Array Prototype Salvage,1
-21,Mk 2 Merr-Sonn Shield Generator,3
-21,Mk 1 Fabritech Data Pad,2
+19,Boba Fett,1
+19,Mk 1 Carbanti Sensor Array Prototype Salvage,1
+19,Mk 2 Merr-Sonn Shield Generator,2
+19,Mk 1 Fabritech Data Pad,1
+20,Hera Syndulla,2
+21,Mk 5 Loronar Power Cell Salvage,2
+21,Mk 3 BlasTech Weapon Mod,2
+21,Mk 3 Neuro-Saav Electrobinoculars,1
+22,Boba Fett,3
+22,Mk 7 BAW Armor Mod Prototype Salvage,1
+22,Mk 1 Carbanti Sensor Array Prototype Salvage,1
+22,Mk 2 Merr-Sonn Shield Generator,3
+22,Mk 1 Fabritech Data Pad,2
 23,Hera Syndulla,10
 23,Ability Material Mk III,1
 23,Ability Material Mk I,3
@@ -159,7 +159,7 @@ battleID,reward,count
 49,Mk 2 Chiewab Hypo Syringe,1
 50,Hera Syndulla,2
 50,Ability Material Mk I,1
-51,Boba Fett,1
+51,Slave I,1
 51,Mk 5 Chiewab Hypo Syringe Prototype Salvage,2
 51,Mk 4 BAW Armor Mod Salvage,1
 52,Jolee Bindo,1

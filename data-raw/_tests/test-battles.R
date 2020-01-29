@@ -1,39 +1,25 @@
 library("testthat")
-library("readr")
-library("dplyr")
+library("tidyverse")
 
 # source("check_md5ums.R")
 load("../../data/battle_rewards.rda")
+source("update_md5sums.R")
 
-col_types <- cols(
-  battleID = col_integer(),
-  userID   = col_integer(),
-  battle   = col_character(),
-  n_sims   = col_integer()
-)
 
-battle_files <- list.files(path = "../battles/",
-                           pattern = "*.csv",
-                           recursive = TRUE,
-                           full.names = TRUE)
+changed <- md5sums %>%
+  filter(!is.na(battle_filename), !passed)
 
-changed_battle_files <- battle_files[length(battle_files)]
 
-# md5sums <- check_md5sums(files = battle_files,
-#               md5sum_file = "battle_files.md5sum")
-# 
-# changed_battle_files = md5sums %>%
-#   filter(changed)
-# 
-# check_battle_file = function(file) {
-#   any_error = FALSE
-# 
-#   if (!isTRUE())
-# }
 
-for (i in seq_along(changed_battle_files)) {
-  file <- changed_battle_files[i]
-  d <- readr::read_csv(file, col_types = col_types)
+for (i in nrow(changed):1) {
+  file <- changed$battle_filename[i]
+  d <- readr::read_csv(file, 
+                       col_types = cols(
+                         battleID = col_integer(),
+                         userID   = col_integer(),
+                         battle   = col_character(),
+                         n_sims   = col_integer()
+                       ))
   
   test_that(
     paste(file,"has the correct columns"),
@@ -44,12 +30,7 @@ for (i in seq_along(changed_battle_files)) {
     paste(file, "battleIDs are sequential"),
     expect_true(all(diff(d$battleID) == 1))
   )
-  
-  # test_that(
-  #   paste(file, "userIDs in 1,2,3"),
-  #   last_test = expect_true(all(d$userID %in% as.integer(1:4)))
-  # )
-  
+
   for (r in 1:nrow(d)) {
     test_that(
       paste(file, r, d$userID[r], "userIDs in 1:4"),

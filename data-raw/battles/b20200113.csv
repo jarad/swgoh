@@ -44,9 +44,9 @@ battleID,userID,battle,n_sims
 43,4,Light Side 5-D (Hard),2
 44,4,Dark Side 5-B (Hard),5
 45,4,Light Side 6-D (Normal),2
-46,2,Dark Side 5-B (Hard),4
-47,2,Dark Side 5-B (Hard),2
-48,2,Dark Side 5-B (Hard),3
+46,2,Dark Side 5-B (Normal),4
+47,2,Dark Side 5-B (Normal),2
+48,2,Dark Side 5-B (Normal),3
 49,4,Light Side 6-D (Normal),2
 50,2,Fleet 1-A (Normal),18
 51,4,Dark Side 2-B (Hard),3

@@ -15,68 +15,68 @@ battleID,reward,count
 6,Obi-Wan Kenobi (Old Ben),1
 7,Nightsister Acolyte,2
 7,Ability Material Mk I,4
-9,Hera Syndulla,3
-9,Ability Material Mk II,1
-10,Sabine Wren,2
-10,Mk 2 CEC Fusion Furnace,1
-10,Mk 1 BlasTech Weapon Mod,2
-10,Mk 1 Nubian Security Scanner,2
+10,Hera Syndulla,3
+10,Ability Material Mk II,1
+11,Sabine Wren,2
 11,Mk 2 CEC Fusion Furnace,1
-11,Mk 1 BlasTech Weapon Mod,1
-11,Mk 1 Nubian Security Scanner,1
+11,Mk 1 BlasTech Weapon Mod,2
+11,Mk 1 Nubian Security Scanner,2
+12,Mk 2 CEC Fusion Furnace,1
 12,Mk 1 BlasTech Weapon Mod,1
 12,Mk 1 Nubian Security Scanner,1
-13,Mk 2 CEC Fusion Furnace,1
+13,Mk 1 BlasTech Weapon Mod,1
+13,Mk 1 Nubian Security Scanner,1
+14,Mk 2 CEC Fusion Furnace,1
 15,Sabine Wren,1
 15,Mk 2 CEC Fusion Furnace,1
-16,Mk 1 BioTech Implant,1
-19,Clone Wars Chewbacca,3
-19,Mk 1 Athakam Medpac Salvage,5
-19,Mk 3 Neuro-Saav Electrobinoculars,2
-19,Mk 1 BioTech Implant,3
-20,Rey (Scavenger),1
-20,Mk 2 BAW Armor Mod Prototype,3
-20,Mk 1 A/KT Stun Gun,2
-20,Mk 1 Loronar Power Cell,4
-21,Mk 2 Sienar Holo Projector Prototype Salvage,1
-22,Hera Syndulla,4
-22,Ability Material Mk III,1
-22,Ability Material Mk I,1
-23,Royal Guard,3
-23,Mk 4 Arakyd Droid Caller Salvage,1
-23,Mk 6 BioTech Implant Prototype Salvage,1
-23,Mk 5 BioTech Implant Prototype,2
-23,Mk 2 Chedak Comlink Prototype,2
-24,Hera Syndulla,2
-24,Ability Material Mk I,1
-25,Mace Windu,2
-25,Mk 1 Czerka Stun Cuffs,2
-25,Mk 1 BioTech Implant,1
-25,Mk 1 BlasTech Weapon Mod,1
-26,Count Dooku,3
-26,Mk 5 BioTech Implant Prototype,3
-26,Mk 3 BioTech Implant,2
-26,Mk 1 SoroSuub Keypad,3
-27,Clone Sergeant - Phase I,1
-27,Mk 3 Loronar Power Cell,3
-27,Mk 2 TaggeCo Holo Lens,1
-27,Mk 2 BlasTech Weapon Mod,2
+17,Mk 1 BioTech Implant,1
+20,Clone Wars Chewbacca,3
+20,Mk 1 Athakam Medpac Salvage,5
+20,Mk 3 Neuro-Saav Electrobinoculars,2
+20,Mk 1 BioTech Implant,3
+21,Rey (Scavenger),1
+21,Mk 2 BAW Armor Mod Prototype,3
+21,Mk 1 A/KT Stun Gun,2
+21,Mk 1 Loronar Power Cell,4
+22,Mk 2 Sienar Holo Projector Prototype Salvage,1
+23,Hera Syndulla,4
+23,Ability Material Mk III,1
+23,Ability Material Mk I,1
+24,Royal Guard,3
+24,Mk 4 Arakyd Droid Caller Salvage,1
+24,Mk 6 BioTech Implant Prototype Salvage,1
+24,Mk 5 BioTech Implant Prototype,2
+24,Mk 2 Chedak Comlink Prototype,2
+25,Hera Syndulla,2
+25,Ability Material Mk I,1
+26,Mace Windu,2
+26,Mk 1 Czerka Stun Cuffs,2
+26,Mk 1 BioTech Implant,1
+26,Mk 1 BlasTech Weapon Mod,1
+27,Count Dooku,3
+27,Mk 5 BioTech Implant Prototype,3
+27,Mk 3 BioTech Implant,2
+27,Mk 1 SoroSuub Keypad,3
 28,Clone Sergeant - Phase I,1
-28,Mk 1 Sienar Holo Projector,3
-28,Mk 1 Nubian Design Tech Prototype,1
-29,Mk 4 BAW Armor Mod Salvage,1
-29,Mk 5 TaggeCo Holo Lens Prototype Salvage,1
-29,Mk 2 TaggeCo Holo Lens,1
-30,Imperial TIE Fighter,2
-30,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
-31,Ability Material Mk I,1
-32,Young Lando Calrissian,1
-32,Lando's Millennium Falcon,3
-32,Mk 3 Sienar Holo Projector Salvage,1
-32,Mk 1 Chiewab Hypo Syringe Prototype,1
-33,Clone Sergeant - Phase I,1
-33,Mk 4 BAW Armor Mod Salvage,1
-33,Mk 5 TaggeCo Holo Lens Prototype Salvage,1
-34,Mk 2 TaggeCo Holo Lens,2
-34,Mk 3 Loronar Power Cell,1
-34,Mk 2 BlasTech Weapon Mod,4
+28,Mk 3 Loronar Power Cell,3
+28,Mk 2 TaggeCo Holo Lens,1
+28,Mk 2 BlasTech Weapon Mod,2
+29,Clone Sergeant - Phase I,1
+29,Mk 1 Sienar Holo Projector,3
+29,Mk 1 Nubian Design Tech Prototype,1
+30,Mk 4 BAW Armor Mod Salvage,1
+30,Mk 5 TaggeCo Holo Lens Prototype Salvage,1
+30,Mk 2 TaggeCo Holo Lens,1
+31,Imperial TIE Fighter,2
+31,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+32,Ability Material Mk I,1
+33,Young Lando Calrissian,1
+33,Lando's Millennium Falcon,3
+33,Mk 3 Sienar Holo Projector Salvage,1
+33,Mk 1 Chiewab Hypo Syringe Prototype,1
+34,Clone Sergeant - Phase I,1
+34,Mk 4 BAW Armor Mod Salvage,1
+34,Mk 5 TaggeCo Holo Lens Prototype Salvage,1
+35,Mk 2 TaggeCo Holo Lens,2
+35,Mk 3 Loronar Power Cell,1
+35,Mk 2 BlasTech Weapon Mod,4

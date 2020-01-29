@@ -1,50 +1,24 @@
 library("testthat")
-library("readr")
-library("dplyr")
-
-col_types <- cols(
-  battleID = col_integer(),
-  reward   = col_character(),
-  count    = col_integer()
-)
+library("tidyverse")
 
 load("../../data/battle_rewards.rda")
+source("update_md5sums.R")
 
-reward_files <- list.files(path = "../rewards/",
-                           pattern = "*.csv",
-                           recursive = TRUE,
-                           full.names = TRUE)
-
-changed_reward_files <- reward_files[length(reward_files)]
-
-# # Figure out how to check md5sums for changes
-# md5sums <- vapply(reward_files, 
-#                   FUN = function(x) tools::md5sum(x),
-#                   FUN.VALUE = character(1)) 
-# 
-# if (file.exists("reward_files.md5sums")) {
-#   old <- readr::read_csv("reward_files.md5sums")
-#   
-#   keep = numeric()
-#   m <- match(reward_files, old$files)
-#   
-#   for (i in seq_along(m)) {
-#     
-#     
-#     if (old$md5sums[old$file == "foo"]
-#   }
-# }
-# 
-# for (i in seq_along(reward_files)) {
-#   file <- reward_files[i]
-#   
-# }
+changed <- md5sums %>%
+  filter(!is.na(reward_filename), !passed)
 
 
-for (i in seq_along(changed_reward_files)) {
-  file <- changed_reward_files[i]
-  d <- readr::read_csv(file, col_types = col_types)
+for (i in nrow(changed):1) {
+  file <- changed$reward_filename[i] 
   
+  d <- readr::read_csv(file, 
+                       col_types = cols(
+                         battleID = col_integer(),
+                         reward   = col_character(),
+                         count    = col_integer()
+                       )) 
+  
+  # Check just reward file
   test_that(
     paste(file,"has the correct columns"),
     
@@ -56,15 +30,41 @@ for (i in seq_along(changed_reward_files)) {
     expect_true(all(diff(d$battleID) >= 0))
   )
   
-  for (j in 1:nrow(d)) {
+  # Compare to battle data
+  d <- d %>%
+    left_join(readr::read_csv(changed$battle_filename[i], 
+                              col_types = cols(
+                                battleID = col_integer(),
+                                userID   = col_integer(),
+                                battle   = col_character(),
+                                n_sims   = col_integer()
+                              )) %>%
+                mutate(n_sims = ifelse(n_sims == 0, 1, n_sims)),
+              by = "battleID")
+  
+  
+  for (j in nrow(d):1) {
+    br <- battle_rewards %>% filter(battle == d$battle[j])
+    
     test_that(
-      paste(file, j, d$reward[j], "reward is known"),
-      expect_true(d$reward[j] %in% battle_rewards$reward)
+      paste0("reward doesn't match battle in:\n",
+             "file: ", file, "\n",
+             "line: ", j+1, "\n",
+             "battleID: ", d$battleID[j], "\n",
+             "reward: ", d$reward[j], "\n",
+             "battle: ", d$battle[j]),
+      expect_true(d$reward[j] %in% br$reward)
     )
     
     test_that(
-      paste(file, j, "0 <=", d$count[j], "<= 20"),
-      expect_true(0 <= d$count[j] & d$count[j] <= 20)
+      paste0("count isn't consistent with number of attempts in:\n",
+             "file: ", file, "\n",
+             "line: ", j+1, "\n",
+             "battleID: ", d$battleID[j], "\n",
+             "count: ", d$count[j], "\n",
+             "n_sims: ", d$n_sims[j]),
+      # paste(file, j, "0 <=", d$count[j], "<= n_sims"),
+      expect_true(0 < d$count[j] & d$count[j] <= d$n_sims[j])
     )
   }
 }
