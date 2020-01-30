@@ -78,7 +78,9 @@ rewards <- read_reward_dir(path    = "rewards",
   dplyr::full_join(battles, by="battleID") %>%
   
   dplyr::mutate(count = as.integer(count)) %>%
-  tidyr::spread(reward, count, fill=0)
+  tidyr::spread(reward, count, fill=0) %>%
+
+  tidyr::gather(reward, count, -battleID, -date, -userID, -battle, -simulated, -n)
   
 
 usethis::use_data(rewards, overwrite = TRUE)
