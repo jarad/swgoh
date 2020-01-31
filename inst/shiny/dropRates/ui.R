@@ -9,6 +9,9 @@
 
 library(shiny)
 
+source("rewards.R")
+possible_rewards <- sort(unique(rewards$reward))
+
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(
   
@@ -18,16 +21,20 @@ shinyUI(fluidPage(
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
     sidebarPanel(
-       sliderInput("bins",
-                   "Number of bins:",
-                   min = 1,
-                   max = 50,
-                   value = 30)
+       selectizeInput(
+         inputId  = "reward",
+         label    = "Reward:",
+         choices  = possible_rewards,
+         selected = "Hera Syndulla")
     ),
     
     # Show a plot of the generated distribution
     mainPanel(
-       plotOutput("distPlot")
+      tabsetPanel(type = "tabs",
+                  tabPanel("Plot",plotOutput("plot")),
+                  tabPanel("Data", tableOutput("table"))
+                  
+      )
     )
   )
 ))

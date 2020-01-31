@@ -7,20 +7,34 @@
 #    http://shiny.rstudio.com/
 #
 
-library(shiny)
+library("shiny")
+library("tidyverse")
+source("rewards.R")
 
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
    
-  output$distPlot <- renderPlot({
+  d <- reactive( { 
+    rewards %>%
+      filter(reward == input$reward)
+  })
+  
+  output$plot <- renderPlot({
+    ggplot(d(), aes(x = n_sims, y = p, ymin = lb, ymax = ub)) + 
+      geom_pointrange() + 
+      facet_wrap(~battle) + 
+      labs(x = "Number of simulations (0 indicates battle was fought manually)", 
+           y = "Drop rate") +
+      theme_bw(base_size = 18)
     
-    # generate bins based on input$bins from ui.R
-    x    <- faithful[, 2] 
-    bins <- seq(min(x), max(x), length.out = input$bins + 1)
-    
-    # draw the histogram with the specified number of bins
-    hist(x, breaks = bins, col = 'darkgray', border = 'white')
-    
+  })
+  
+  output$table <- renderTable({
+    d() %>%
+      arrange(battle, n_sims) %>%
+      rename(attempts = n,
+             successes = y) %>%
+      select(battle, n_sims, attempts, successes, p)
   })
   
 })
