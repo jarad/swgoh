@@ -1,15 +1,15 @@
-#' Rewards
+#' Rewards received
 #' 
-#' Rewards received from competing in battles
+#' This data set is just 
+#' a concatenation of all the data files containing rewards received. This does
+#' not include any rewards that could have been received and therefore the 
+#' rewards_complete data set is most likely of more use.
 #' 
-#' @format A data frame with 3 columns:
+#' @format A data.frame with 3 columns:
 #' \describe{
 #'   \item{battleID}{character, unique battle identifier}
-#'   \item{date}{Date, date of battle}
-#'   \item{userID}{integer, user identifier}
-#'   \item{battle}{character, name of the battle}
-#'   \item{simulated}{logical, whether or not the battle was simulated}
-#'   \item{n}{integer, the number to battle attempts}
-#'   \item{...}{remaining columns are reward names and the number of that reward received for that battle}
+#'   \item{reward}{character, name of reward}
+#'   \item{count}{integer, amount of that reward received}
 #' }
+#' @seealso rewards_complete, battles, battle_rewards
 "rewards"

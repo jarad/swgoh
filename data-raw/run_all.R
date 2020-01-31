@@ -6,4 +6,5 @@ source("users.R")
 
 source("battles.R")
 source("rewards.R")
-# source("store.R")
+source("rewards_complete.R")
+# source("bronzium.R")

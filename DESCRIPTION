@@ -22,5 +22,6 @@ Suggests:
     testthat,
     readr,
     dplyr,
-    tidyr
+    tidyr,
+    shiny
 RoxygenNote: 7.0.1
