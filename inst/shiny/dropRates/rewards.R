@@ -1,3 +1,4 @@
+library("tidyverse")
 
 rewards <- swgoh::rewards_complete %>%
   
