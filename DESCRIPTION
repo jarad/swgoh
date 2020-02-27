@@ -1,6 +1,6 @@
 Package: swgoh
 Title: Data for Battle Rewards from Star Wars Galaxy of Heroes 
-Version: 0.0.0.9002
+Version: 0.0.0.9003
 Authors@R: 
     person(given = "Jarad",
            family = "Niemi",
