@@ -1,6 +1,6 @@
 # Prioritized by the least likely to change on top
 
-source("battle_rewards.R")
+source("battle_details.R")
 
 source("users.R")
 

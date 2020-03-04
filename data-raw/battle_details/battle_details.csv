@@ -1,0 +1,349 @@
+battle,energy
+Light Side 1-A (Normal),6
+Light Side 1-B (Normal),6
+Light Side 1-C (Normal),6
+Light Side 1-D (Normal),6
+Light Side 1-E (Normal),6
+Light Side 1-F (Normal),6
+Light Side 2-A (Normal),6
+Light Side 2-B (Normal),6
+Light Side 2-C (Normal),6
+Light Side 2-D (Normal),6
+Light Side 2-E (Normal),6
+Light Side 2-F (Normal),6
+Light Side 2-G (Normal),6
+Light Side 2-H (Normal),6
+Light Side 2-I (Normal),6
+Light Side 3-A (Normal),6
+Light Side 3-B (Normal),6
+Light Side 3-C (Normal),6
+Light Side 3-D (Normal),6
+Light Side 3-E (Normal),6
+Light Side 3-F (Normal),6
+Light Side 3-G (Normal),6
+Light Side 3-H (Normal),6
+Light Side 3-I (Normal),6
+Light Side 4-A (Normal),6
+Light Side 4-B (Normal),6
+Light Side 4-C (Normal),6
+Light Side 4-D (Normal),6
+Light Side 4-E (Normal),6
+Light Side 4-F (Normal),6
+Light Side 4-G (Normal),6
+Light Side 4-H (Normal),6
+Light Side 4-I (Normal),6
+Light Side 4-J (Normal),6
+Light Side 4-K (Normal),6
+Light Side 4-L (Normal),6
+Light Side 5-A (Normal),8
+Light Side 5-B (Normal),8
+Light Side 5-C (Normal),8
+Light Side 5-D (Normal),8
+Light Side 5-E (Normal),8
+Light Side 5-F (Normal),8
+Light Side 5-G (Normal),8
+Light Side 5-H (Normal),8
+Light Side 5-I (Normal),8
+Light Side 5-J (Normal),8
+Light Side 5-K (Normal),8
+Light Side 5-L (Normal),8
+Light Side 6-A (Normal),8
+Light Side 6-B (Normal),8
+Light Side 6-C (Normal),8
+Light Side 6-D (Normal),8
+Light Side 6-E (Normal),8
+Light Side 6-F (Normal),8
+Light Side 6-G (Normal),8
+Light Side 6-H (Normal),8
+Light Side 6-I (Normal),8
+Light Side 6-J (Normal),8
+Light Side 7-A (Normal),10
+Light Side 7-B (Normal),10
+Light Side 7-C (Normal),10
+Light Side 7-D (Normal),10
+Light Side 7-E (Normal),10
+Light Side 7-F (Normal),10
+Light Side 7-G (Normal),10
+Light Side 7-H (Normal),10
+Light Side 8-A (Normal),10
+Light Side 8-B (Normal),10
+Light Side 8-C (Normal),10
+Light Side 8-D (Normal),10
+Light Side 8-E (Normal),10
+Light Side 8-F (Normal),10
+Light Side 8-G (Normal),10
+Light Side 8-H (Normal),10
+Light Side 9-A (Normal),10
+Light Side 9-B (Normal),10
+Light Side 9-C (Normal),10
+Light Side 9-D (Normal),10
+Light Side 9-E (Normal),10
+Light Side 9-F (Normal),10
+Light Side 9-G (Normal),10
+Light Side 9-H (Normal),10
+Light Side 1-A (Hard),12
+Light Side 1-B (Hard),12
+Light Side 1-C (Hard),12
+Light Side 1-D (Hard),12
+Light Side 2-A (Hard),12
+Light Side 2-B (Hard),12
+Light Side 2-C (Hard),12
+Light Side 2-D (Hard),12
+Light Side 2-E (Hard),12
+Light Side 2-F (Hard),12
+Light Side 3-A (Hard),12
+Light Side 3-B (Hard),12
+Light Side 3-C (Hard),12
+Light Side 3-D (Hard),12
+Light Side 3-E (Hard),12
+Light Side 3-F (Hard),12
+Light Side 4-A (Hard),12
+Light Side 4-B (Hard),12
+Light Side 4-C (Hard),12
+Light Side 4-D (Hard),12
+Light Side 4-E (Hard),12
+Light Side 4-F (Hard),12
+Light Side 5-A (Hard),16
+Light Side 5-B (Hard),16
+Light Side 5-C (Hard),16
+Light Side 5-D (Hard),16
+Light Side 5-E (Hard),16
+Light Side 5-F (Hard),16
+Light Side 6-A (Hard),16
+Light Side 6-B (Hard),16
+Light Side 6-C (Hard),16
+Light Side 6-D (Hard),16
+Light Side 6-E (Hard),16
+Light Side 7-A (Hard),20
+Light Side 7-B (Hard),20
+Light Side 7-C (Hard),20
+Light Side 7-D (Hard),20
+Light Side 8-A (Hard),20
+Light Side 8-B (Hard),20
+Light Side 8-C (Hard),20
+Light Side 8-D (Hard),20
+Light Side 9-A (Hard),20
+Light Side 9-B (Hard),20
+Light Side 9-C (Hard),20
+Light Side 9-D (Hard),20
+Dark Side 1-A (Normal),6
+Dark Side 1-B (Normal),6
+Dark Side 1-C (Normal),6
+Dark Side 1-D (Normal),6
+Dark Side 1-E (Normal),6
+Dark Side 1-F (Normal),6
+Dark Side 2-A (Normal),6
+Dark Side 2-B (Normal),6
+Dark Side 2-C (Normal),6
+Dark Side 2-D (Normal),6
+Dark Side 2-E (Normal),6
+Dark Side 2-F (Normal),6
+Dark Side 2-G (Normal),6
+Dark Side 2-H (Normal),6
+Dark Side 2-I (Normal),6
+Dark Side 3-A (Normal),6
+Dark Side 3-B (Normal),6
+Dark Side 3-C (Normal),6
+Dark Side 3-D (Normal),6
+Dark Side 3-E (Normal),6
+Dark Side 3-F (Normal),6
+Dark Side 3-G (Normal),6
+Dark Side 3-H (Normal),6
+Dark Side 3-I (Normal),6
+Dark Side 4-A (Normal),6
+Dark Side 4-B (Normal),6
+Dark Side 4-C (Normal),6
+Dark Side 4-D (Normal),6
+Dark Side 4-E (Normal),6
+Dark Side 4-F (Normal),6
+Dark Side 4-G (Normal),6
+Dark Side 4-H (Normal),6
+Dark Side 4-I (Normal),6
+Dark Side 4-J (Normal),6
+Dark Side 4-K (Normal),6
+Dark Side 4-L (Normal),6
+Dark Side 5-A (Normal),8
+Dark Side 5-B (Normal),8
+Dark Side 5-C (Normal),8
+Dark Side 5-D (Normal),8
+Dark Side 5-E (Normal),8
+Dark Side 5-F (Normal),8
+Dark Side 5-G (Normal),8
+Dark Side 5-H (Normal),8
+Dark Side 5-I (Normal),8
+Dark Side 5-J (Normal),8
+Dark Side 5-K (Normal),8
+Dark Side 5-L (Normal),8
+Dark Side 6-A (Normal),8
+Dark Side 6-B (Normal),8
+Dark Side 6-C (Normal),8
+Dark Side 6-D (Normal),8
+Dark Side 6-E (Normal),8
+Dark Side 6-F (Normal),8
+Dark Side 6-G (Normal),8
+Dark Side 6-H (Normal),8
+Dark Side 6-I (Normal),8
+Dark Side 6-J (Normal),8
+Dark Side 7-A (Normal),10
+Dark Side 7-B (Normal),10
+Dark Side 7-C (Normal),10
+Dark Side 7-D (Normal),10
+Dark Side 7-E (Normal),10
+Dark Side 7-F (Normal),10
+Dark Side 7-G (Normal),10
+Dark Side 7-H (Normal),10
+Dark Side 8-A (Normal),10
+Dark Side 8-B (Normal),10
+Dark Side 8-C (Normal),10
+Dark Side 8-D (Normal),10
+Dark Side 8-E (Normal),10
+Dark Side 8-F (Normal),10
+Dark Side 8-G (Normal),10
+Dark Side 8-H (Normal),10
+Dark Side 9-A (Normal),10
+Dark Side 9-B (Normal),10
+Dark Side 9-C (Normal),10
+Dark Side 9-D (Normal),10
+Dark Side 9-E (Normal),10
+Dark Side 9-F (Normal),10
+Dark Side 9-G (Normal),10
+Dark Side 9-H (Normal),10
+Dark Side 1-A (Hard),12
+Dark Side 1-B (Hard),12
+Dark Side 1-C (Hard),12
+Dark Side 1-D (Hard),12
+Dark Side 2-A (Hard),12
+Dark Side 2-B (Hard),12
+Dark Side 2-C (Hard),12
+Dark Side 2-D (Hard),12
+Dark Side 2-E (Hard),12
+Dark Side 2-F (Hard),12
+Dark Side 3-A (Hard),12
+Dark Side 3-B (Hard),12
+Dark Side 3-C (Hard),12
+Dark Side 3-D (Hard),12
+Dark Side 3-E (Hard),12
+Dark Side 3-F (Hard),12
+Dark Side 4-A (Hard),12
+Dark Side 4-B (Hard),12
+Dark Side 4-C (Hard),12
+Dark Side 4-D (Hard),12
+Dark Side 4-E (Hard),12
+Dark Side 4-F (Hard),12
+Dark Side 5-A (Hard),16
+Dark Side 5-B (Hard),16
+Dark Side 5-C (Hard),16
+Dark Side 5-D (Hard),16
+Dark Side 5-E (Hard),16
+Dark Side 5-F (Hard),16
+Dark Side 6-A (Hard),16
+Dark Side 6-B (Hard),16
+Dark Side 6-C (Hard),16
+Dark Side 6-D (Hard),16
+Dark Side 6-E (Hard),16
+Dark Side 7-A (Hard),20
+Dark Side 7-B (Hard),20
+Dark Side 7-C (Hard),20
+Dark Side 7-D (Hard),20
+Dark Side 8-A (Hard),20
+Dark Side 8-B (Hard),20
+Dark Side 8-C (Hard),20
+Dark Side 8-D (Hard),20
+Dark Side 9-A (Hard),20
+Dark Side 9-B (Hard),20
+Dark Side 9-C (Hard),20
+Dark Side 9-D (Hard),20
+Cantina 1-A,8
+Cantina 1-B,8
+Cantina 1-C,8
+Cantina 1-D,8
+Cantina 1-E,8
+Cantina 1-F,8
+Cantina 1-G,8
+Cantina 2-A,8
+Cantina 2-B,8
+Cantina 2-C,8
+Cantina 2-D,8
+Cantina 2-E,8
+Cantina 2-F,8
+Cantina 2-G,8
+Cantina 3-A,10
+Cantina 3-B,10
+Cantina 3-C,10
+Cantina 3-D,10
+Cantina 3-E,10
+Cantina 3-F,10
+Cantina 3-G,10
+Cantina 4-A,10
+Cantina 4-B,10
+Cantina 4-C,10
+Cantina 4-D,10
+Cantina 4-E,10
+Cantina 4-F,10
+Cantina 4-G,10
+Cantina 5-A,12
+Cantina 5-B,12
+Cantina 5-C,12
+Cantina 5-D,12
+Cantina 5-E,12
+Cantina 5-F,12
+Cantina 5-G,12
+Cantina 6-A,12
+Cantina 6-B,12
+Cantina 6-C,12
+Cantina 6-D,12
+Cantina 6-E,12
+Cantina 6-F,12
+Cantina 6-G,12
+Cantina 7-A,16
+Cantina 7-B,16
+Cantina 7-C,16
+Cantina 7-D,16
+Cantina 7-E,16
+Cantina 7-F,16
+Cantina 7-G,16
+Cantina 8-A,16
+Cantina 8-B,16
+Cantina 8-C,16
+Cantina 8-D,16
+Cantina 8-E,16
+Cantina 8-F,16
+Cantina 8-G,16
+Fleet 1-A (Normal),8
+Fleet 1-B (Normal),8
+Fleet 1-C (Normal),8
+Fleet 1-D (Normal),8
+Fleet 1-E (Normal),8
+Fleet 1-F (Normal),8
+Fleet 1-G (Normal),8
+Fleet 2-A (Normal),8
+Fleet 2-B (Normal),8
+Fleet 2-C (Normal),8
+Fleet 2-D (Normal),8
+Fleet 2-E (Normal),8
+Fleet 2-F (Normal),8
+Fleet 2-G (Normal),8
+Fleet 3-A (Normal),10
+Fleet 3-B (Normal),10
+Fleet 3-C (Normal),10
+Fleet 3-D (Normal),10
+Fleet 3-E (Normal),10
+Fleet 3-F (Normal),10
+Fleet 3-G (Normal),10
+Fleet 4-A (Normal),10
+Fleet 4-B (Normal),10
+Fleet 1-A (Hard),16
+Fleet 1-B (Hard),16
+Fleet 1-C (Hard),16
+Fleet 1-D (Hard),16
+Fleet 1-E (Hard),16
+Fleet 2-A (Hard),20
+Fleet 2-B (Hard),20
+Fleet 2-C (Hard),20
+Fleet 2-D (Hard),20
+Fleet 2-E (Hard),20
+Fleet 3-A (Hard),20
+Fleet 3-B (Hard),20
+Fleet 3-C (Hard),20
+Fleet 3-D (Hard),20
+Fleet 3-E (Hard),20
