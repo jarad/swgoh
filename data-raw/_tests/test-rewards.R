@@ -2,14 +2,11 @@ library("testthat")
 library("tidyverse")
 
 load("../../data/battle_rewards.rda")
-source("update_md5sums.R")
 
-changed <- md5sums %>%
-  filter(!is.na(reward_filename), !passed)
+source("files.R")
 
-
-for (i in nrow(changed):1) {
-  file <- changed$reward_filename[i] 
+for (i in seq_along(files$reward)) {
+  file <- files$reward[i]
   
   d <- readr::read_csv(file, 
                        col_types = cols(
@@ -32,7 +29,7 @@ for (i in nrow(changed):1) {
   
   # Compare to battle data
   d <- d %>%
-    left_join(readr::read_csv(changed$battle_filename[i], 
+    left_join(readr::read_csv(files$battle[i], 
                               col_types = cols(
                                 battleID = col_integer(),
                                 userID   = col_integer(),

@@ -1,22 +1,15 @@
 library("testthat")
 library("tidyverse")
 
-# source("check_md5ums.R")
-load("../../data/battle_rewards.rda")
-source("update_md5sums.R")
+source("files.R")
 
-
-changed <- md5sums %>%
-  filter(!is.na(battle_filename), !passed)
-
-
-
-for (i in nrow(changed):1) {
-  file <- changed$battle_filename[i]
+for (i in seq_along(files$battle)) {
+  file <- files$battle[i]
+  
   d <- readr::read_csv(file, 
                        col_types = cols(
                          battleID = col_integer(),
-                         userID   = col_integer(),
+                         userID   = col_character(),
                          battle   = col_character(),
                          n_sims   = col_integer()
                        ))
