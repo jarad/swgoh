@@ -4,8 +4,9 @@ library("tidyr")
 
 col_types <- readr::cols(
   date     = readr::col_date(format = "%Y-%m-%d"),
-  userID   = readr::col_integer(),
-  level    = readr::col_integer()
+  userID   = readr::col_character(),
+  level    = readr::col_integer(),
+  power    = readr::col_integer()
 )
 
 read_users_csv = function(f, into) {
@@ -28,6 +29,6 @@ users <- read_users_dir(path    = "users",
                           pattern = "*.csv",
                           into    = c("users","year","month","extension")) %>%
   
-  select(date, userID, level)
+  select(date, userID, level, power)
 
 usethis::use_data(users, overwrite = TRUE)

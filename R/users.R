@@ -1,6 +1,8 @@
-#' Users
+#' Daily user data
 #' 
-#' Daily Level and galactic power for users
+#' Daily level and galactic power for users
+#' 
+#' 
 #' 
 #' @format A data frame with 4 columns:
 #' \describe{
