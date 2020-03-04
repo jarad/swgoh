@@ -1101,12 +1101,12 @@ Cantina 8-E,Ability Material Omega
 Cantina 8-E,Ability Material Mk III
 Cantina 8-E,Ability Material Mk II
 Cantina 8-E,Ability Material Mk I
-Cantina 8-F,
+Cantina 8-F,Incomplete Signal Data
 Cantina 8-F,Ability Material Omega
 Cantina 8-F,Ability Material Mk III
 Cantina 8-F,Ability Material Mk II
 Cantina 8-F,Ability Material Mk I
-Cantina 8-G,
+Cantina 8-G,Flawed Signal Data
 Cantina 8-G,Ability Material Mk III
 Cantina 8-G,Ability Material Mk II
 Cantina 8-G,Ability Material Mk I
@@ -1213,6 +1213,21 @@ Fleet 3-G (Normal),Mk 2 Merr-Sonn Shield Generator
 Fleet 3-G (Normal),Reinforcement Materials
 Fleet 3-G (Normal),Ship Ability Material Mk II
 Fleet 3-G (Normal),Ship Ability Material Mk I
+Fleet 4-A (Normal),Mk 12 Czerka Hypo Syringe Prototype Salvage
+Fleet 4-A (Normal),Mk 7 Merr-Sonn Shield Generator Salvage
+Fleet 4-A (Normal),Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage
+Fleet 4-A (Normal),Mk 3 TaggeCo Holo Lens Prototype
+Fleet 4-A (Normal),Reinforcement Materials
+Fleet 4-A (Normal),Ship Ability Material Mk III
+Fleet 4-A (Normal),Ship Ability Material Mk II
+Fleet 4-A (Normal),Ship Ability Material Mk I
+Fleet 4-B (Normal),Mk 9 Neuro-Saav Electrobinoculars Salvage
+Fleet 4-B (Normal),Mk 6 Fabritech Data Pad Salvage
+Fleet 4-B (Normal),Mk 6 TaggeCo Holo Lens Prototype Salvage
+Fleet 4-B (Normal),Reinforcement Materials
+Fleet 4-B (Normal),Ship Ability Material Mk III
+Fleet 4-B (Normal),Ship Ability Material Mk II
+Fleet 4-B (Normal),Ship Ability Material Mk I
 Fleet 1-A (Hard),Clone Sergeant's ARC-170
 Fleet 1-A (Hard),Mk 4 SoroSuub Keypad Salvage
 Fleet 1-A (Hard),Mk 2 Arakyd Droid Caller
@@ -1287,3 +1302,17 @@ Fleet 3-C (Hard),Mk 2 SoroSuub Keypad Prototype
 Fleet 3-C (Hard),Reinforcement Materials
 Fleet 3-C (Hard),Ship Ability Material Mk II
 Fleet 3-C (Hard),Ship Ability Material Mk I
+Fleet 3-D (Hard),Scimitar
+Fleet 3-D (Hard),Mk 5 A/KT Stun Gun Prototype Salvage
+Fleet 3-D (Hard),Mk 1 Zaltin Bacta Gel Prototype Salvage
+Fleet 3-D (Hard),Mk 3 BAW Armor Mod
+Fleet 3-D (Hard),Reinforcement Materials
+Fleet 3-D (Hard),Ship Ability Material Mk II
+Fleet 3-D (Hard),Ship Ability Material Mk I
+Fleet 3-E (Hard),Sith Fighter
+Fleet 3-E (Hard),Mk 4 Chedak Comlink Prototype Salvage
+Fleet 3-E (Hard),Mk 5 TaggeCo Holo Lens Prototype Salvage
+Fleet 3-E (Hard),Mk 3 Loronar Power Cell
+Fleet 3-E (Hard),Reinforcement Materials
+Fleet 3-E (Hard),Ship Ability Material Mk II
+Fleet 3-E (Hard),Ship Ability Material Mk I
