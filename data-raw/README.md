@@ -1,15 +1,15 @@
 # Data
 
-Three data sets
+These data sets are created by the `run_all.R` script:
 
-  - battles: contains all battles fought
-  - rewards: contains rewards for those battles
-  - users: contains level information for specific users
-  - store/bronzium: contains data for bronzium cards purchased in the store
-  - battle_rewards: static directory/file contain possible battle rewards
+  - battles: battles fought
+  - rewards: battle rewards
+  - users: daily user information including level and galactic power
+  - store/bronzium: bronzium cards purchased in the store
+  - battle_details: battle energy cost
+  - battle_rewardss: possible battle rewards
   
-The battles and rewards data set have a new file created each day while
-the users data set has a new file each month.
+
   
 ## battles
 
@@ -35,6 +35,7 @@ Files with filenames YYYY-MM.csv containing the following columns:
   - date: date in YYYY-MM-DD format
   - userID: designated user identification number
   - level: the level for that user at the start of the day
+  - power: the galactic power for that user at the start of the day
   
 ## store
 
@@ -47,10 +48,18 @@ columns:
   - reward: the reward received
   - amount: the amount of that reward received
   
-## battle_rewards
+  
+## battle_details/
 
-A static file containing each battle and the possible rewards from that battle.
-The file is battle_rewards.csv and contains the columns:
+Two files containing static battle details:
+
+battle_details.csv columns:
+
+  - battle
+  - energy
+
+battle_rewards.csv columns:
 
   - battle
   - reward
+  
