@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "jaradniemi@gmail.com",
            comment = c(ORCID = "0000-0002-5079-158X"))
-Description: The package contains counts for Battle Rewards from the mobile 
+Description: The package contains counts for battle rewards from the mobile 
     game Star Wars Galaxy of Heroes. The intent of these data are to provide a
     modern data set for the analysis of count and the estimation of 
     probabilities related to the binomial, Poisson, and multinomial distributions.
