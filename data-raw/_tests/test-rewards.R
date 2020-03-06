@@ -1,8 +1,6 @@
 library("testthat")
 library("tidyverse")
 
-load("../../data/battle_rewards.rda")
-
 source("files.R")
 
 for (i in seq_along(files$reward)) {
