@@ -1,6 +1,5 @@
 
 dates <- Sys.Date()
-dates <- as.Date("2020-03-05")
 # dates <- seq(as.Date("2019-12-03"), Sys.Date(), "days") # uncomment to test all files
 
 files <- data.frame(
