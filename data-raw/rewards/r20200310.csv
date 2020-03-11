@@ -1,0 +1,160 @@
+battleID,reward,count
+1,Slave I,2
+1,Mk 5 Chiewab Hypo Syringe Prototype Salvage,3
+1,Mk 4 BAW Armor Mod Salvage,1
+1,Mk 2 Fabritech Data Pad,2
+1,Ship Ability Material Mk II,1
+2,Slave I,1
+2,Mk 5 Chiewab Hypo Syringe Prototype Salvage,2
+2,Mk 4 BAW Armor Mod Salvage,2
+2,Mk 2 Fabritech Data Pad,1
+2,Ship Ability Material Mk II,2
+3,Slave I,2
+3,Mk 2 Fabritech Data Pad,1
+4,Mk 5 Chiewab Hypo Syringe Prototype Salvage,1
+4,Mk 4 BAW Armor Mod Salvage,2
+4,Mk 2 Fabritech Data Pad,1
+5,Obi-Wan Kenobi (Old Ben),5
+5,Ability Material Mk III,1
+5,Ability Material Mk II,1
+5,Ability Material Mk I,2
+6,Obi-Wan Kenobi (Old Ben),6
+6,Ability Material Mk I,1
+7,Obi-Wan Kenobi (Old Ben),8
+7,Ability Material Mk III,1
+7,Ability Material Mk II,2
+7,Ability Material Mk I,4
+8,Obi-Wan Kenobi (Old Ben),6
+8,Ability Material Mk II,4
+8,Ability Material Mk I,2
+9,Mk 4 CEC Fusion Furnace Prototype Salvage,1
+9,Mk 3 Arakyd Droid Caller Salvage,2
+9,Mk 7 BlasTech Weapon Mod Prototype Salvage,1
+10,Zaalbar,2
+10,Mk 3 Neuro-Saav Electrobinoculars,1
+10,Mk 3 BlasTech Weapon Mod,1
+11,Kylo Ren (Unmasked),4
+11,TIE Silencer,3
+11,Ability Material Mk III,1
+11,Ability Material Mk II,2
+11,Ability Material Mk I,7
+12,Sabine Wren,3
+12,Mk 2 CEC Fusion Furnace,3
+12,Mk 1 BlasTech Weapon Mod,4
+12,Mk 1 Nubian Security Scanner,1
+13,Stormtrooper,1
+13,Mk 3 BlasTech Weapon Mod,2
+13,Mk 1 TaggeCo Holo Lens,4
+13,Mk 1 Arakyd Droid Caller,4
+14,Obi-Wan Kenobi (Old Ben),5
+14,Ability Material Mk II,1
+14,Ability Material Mk I,1
+15,Bastila Shan,1
+15,Mk 3 Arakyd Droid Caller Salvage,2
+15,Mk 7 BlasTech Weapon Mod Prototype Salvage,3
+15,Mk 5 BlasTech Weapon Mod Prototype,2
+16,Zaalbar,2
+16,Mk 8 BlasTech Weapon Mod Prototype Salvage,3
+16,Mk 5 Loronar Power Cell Salvage,1
+16,Mk 3 Neuro-Saav Electrobinoculars,1
+16,Mk 3 BlasTech Weapon Mod,1
+17,Jolee Bindo,1
+17,Mk 3 Carbanti Sensor Array Salvage,1
+17,Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,1
+17,Mk 2 Chiewab Hypo Syringe,4
+18,Obi-Wan Kenobi (Old Ben),4
+18,Ability Material Mk III,1
+18,Ability Material Mk II,2
+19,Bastila Shan,1
+19,Mk 5 BlasTech Weapon Mod Prototype,1
+20,Zaalbar,1
+20,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+20,Mk 3 Neuro-Saav Electrobinoculars,2
+21,Jolee Bindo,4
+21,Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,2
+21,Mk 6 Loronar Power Cell Salvage,1
+21,Mk 2 Chiewab Hypo Syringe,4
+22,Bastila Shan,3
+22,Mk 6 Chiewab Hypo Syringe Salvage,1
+22,Mk 5 BioTech Implant Prototype,1
+22,Ship Ability Material Mk II,1
+23,Obi-Wan Kenobi (Old Ben),5
+23,Ability Material Mk III,1
+23,Ability Material Mk I,3
+24,Bastila Shan,2
+24,Mk 7 BlasTech Weapon Mod Prototype Salvage,3
+24,Mk 3 Arakyd Droid Caller Salvage,2
+24,Mk 5 BlasTech Weapon Mod Prototype,1
+25,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+25,Mk 5 Loronar Power Cell Salvage,1
+25,Mk 3 BlasTech Weapon Mod,2
+25,Mk 3 Neuro-Saav Electrobinoculars,2
+26,Bastila Shan,2
+26,Mk 6 Chiewab Hypo Syringe Salvage,1
+26,Mk 5 BioTech Implant Prototype,1
+27,Mk 5 A/KT Stun Gun Prototype Salvage,4
+27,Mk 3 Chiewab Hypo Syringe Prototype Salvage,3
+27,Mk 2 SoroSuub Keypad Prototype,5
+28,Obi-Wan Kenobi (Old Ben),3
+28,Ability Material Mk I,2
+29,Mk 5 A/KT Stun Gun Prototype Salvage,2
+29,Mk 3 Chiewab Hypo Syringe Prototype Salvage,1
+29,Mk 2 SoroSuub Keypad Prototype,2
+30,Imperial TIE Fighter,3
+30,Mk 3 Neuro-Saav Electrobinoculars,2
+31,Jolee Bindo,3
+31,Mk 3 Carbanti Sensor Array Salvage,3
+31,Mk 6 Loronar Power Cell Salvage,2
+31,Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,2
+31,Mk 2 Chiewab Hypo Syringe,3
+32,Bastila Shan,2
+32,Mk 6 Chiewab Hypo Syringe Salvage,1
+32,Mk 6 Loronar Power Cell Salvage,2
+32,Mk 5 BioTech Implant Prototype,1
+33,Zaalbar,1
+33,Mk 2 SoroSuub Keypad Prototype,1
+34,Kylo Ren (Unmasked),2
+34,TIE Silencer,2
+34,Ability Material Mk III,1
+34,Ability Material Mk II,2
+34,Ability Material Mk I,5
+35,Mk 3 Carbanti Sensor Array Salvage,1
+35,Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,2
+35,Mk 6 Loronar Power Cell Salvage,1
+35,Mk 2 Chiewab Hypo Syringe,2
+36,Mk 4 Carbanti Sensor Array Prototype Salvage,1
+38,Mk 8 BlasTech Weapon Mod Prototype Salvage,2
+38,Mk 5 Loronar Power Cell Salvage,2
+38,Mk 3 Neuro-Saav Electrobinoculars,2
+38,Mk 3 BlasTech Weapon Mod,1
+39,Bastila Shan,3
+39,Mk 6 Chiewab Hypo Syringe Salvage,2
+39,Ship Ability Material Mk I,1
+40,Mk 3 Neuro-Saav Electrobinoculars,1
+41,Mk 3 Arakyd Droid Caller Salvage,1
+41,Mk 7 BlasTech Weapon Mod Prototype Salvage,1
+41,Mk 5 BlasTech Weapon Mod Prototype,2
+42,Zaalbar,1
+42,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+42,Mk 3 BlasTech Weapon Mod,1
+43,Obi-Wan Kenobi (Old Ben),3
+43,Ability Material Mk I,1
+44,Mk 5 A/KT Stun Gun Prototype Salvage,3
+44,Mk 3 Chiewab Hypo Syringe Prototype Salvage,5
+44,Mk 2 SoroSuub Keypad Prototype,3
+45,Mk 8 BlasTech Weapon Mod Prototype Salvage,1
+45,Mk 5 Loronar Power Cell Salvage,1
+45,Mk 3 BlasTech Weapon Mod,1
+46,Obi-Wan Kenobi (Old Ben),1
+47,Mk 5 A/KT Stun Gun Prototype Salvage,3
+47,Mk 3 Chiewab Hypo Syringe Prototype Salvage,4
+47,Mk 2 SoroSuub Keypad Prototype,6
+48,Zaalbar,1
+48,Mk 4 Carbanti Sensor Array Prototype Salvage,1
+48,Mk 3 Chiewab Hypo Syringe Prototype Salvage,1
+48,Reinforcement Materials,1
+49,Mk 4 Carbanti Sensor Array Prototype Salvage,1
+49,Ship Ability Material Mk II,1
+50,Mk 5 A/KT Stun Gun Prototype Salvage,3
+50,Mk 3 Chiewab Hypo Syringe Prototype Salvage,3
+50,Mk 2 SoroSuub Keypad Prototype,3
