@@ -3,8 +3,5 @@
 source("battle_details.R")
 
 source("users.R")
-
-source("battles.R")
-source("rewards.R")
-source("rewards_complete.R")
+source("rewards.R")  # runs source("battles.R")
 # source("bronzium.R")

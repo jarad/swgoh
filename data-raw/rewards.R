@@ -2,6 +2,9 @@ library("dplyr")
 library("tidyr")
 library("readr")
 
+if (!exists("battles"))        source("battles.R")
+if (!exists("battle_rewards")) source("battle_rewards.R")
+
 ################################################################################
 # Rewards
 
@@ -16,6 +19,7 @@ read_reward_csv = function(f, into) {
     tidyr::separate(file, into) 
 }
 
+
 read_reward_dir = function(path, pattern, into) {
   files = list.files(path = path,
                      pattern = pattern,
@@ -24,7 +28,9 @@ read_reward_dir = function(path, pattern, into) {
   plyr::ldply(files, read_reward_csv, into = into)
 }
 
-rewards <- read_reward_dir(path    = "rewards",
+################################################################################
+
+rewards_raw <- read_reward_dir(path    = "rewards",
                            pattern = "*.csv",
                            into    = c("rewards","date","extension")) %>%
   
@@ -35,5 +41,15 @@ rewards <- read_reward_dir(path    = "rewards",
   dplyr::select(battleID, reward, count) 
   
 
-usethis::use_data(rewards, overwrite = TRUE)
+rewards <- battles %>%
+  dplyr::left_join(battle_rewards, by = "battle") %>%
+  dplyr::left_join(rewards_raw,    by = c("battleID", "reward")) %>%
+  
+  mutate(count = ifelse(is.na(count), 0, count),
+         count = as.integer(count))
+
+
+
+usethis::use_data(rewards_raw, overwrite = TRUE)
+usethis::use_data(rewards,     overwrite = TRUE)
   

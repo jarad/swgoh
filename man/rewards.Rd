@@ -3,23 +3,27 @@
 \docType{data}
 \name{rewards}
 \alias{rewards}
-\title{Rewards received}
-\format{A data.frame with 3 columns:
+\title{Rewards for battles fought}
+\format{A data frame with 3 columns:
 \describe{
-  \item{battleID}{character, unique battle identifier}
-  \item{reward}{character, name of reward}
-  \item{count}{integer, amount of that reward received}
+  \item{date}{Date, date battle was fought}
+  \item{battleID}{character, unique battle identifier using YYYYMMDD-### format}
+  \item{userID}{character, unique account identifier}
+  \item{battle}{character, battle name}
+  \item{attempts}{integer, number of times battle was fought/simulated}
+  \item{simulated}{logical, indicates if the battle was simulated (TRUE) or fought (FALSE)}
+  \item{reward}{character, type of reward received}
+  \item{count}{integer, number of that reward received}
 }}
 \usage{
 rewards
 }
 \description{
-This data set is just 
-a concatenation of all the data files containing rewards received. This does
-not include any rewards that could have been received and therefore the 
-rewards_complete data set is most likely of more use.
+Data set that combines the data in \code{battles}, \code{battle_rewards},
+and \code{rewards_raw}. This data set includes zeros for rewards not received
+and therefore is more relevant than \code{rewards_raw}.
 }
 \seealso{
-rewards_complete, battles, battle_rewards
+\link{\code{rewards_raw}}, \link{\code{battles}}, \link{\code{battle_rewards}}
 }
 \keyword{datasets}
