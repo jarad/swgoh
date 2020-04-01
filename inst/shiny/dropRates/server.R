@@ -3,19 +3,19 @@ source("rewards.R")
 shinyServer(function(input, output, session) {
   
   observe({
-  updateSelectInput(
-    session, 
-    inputId = "subtype",
-    choices = sort(unique(rewards$subtype[rewards$type == input$type]))
-  )
+    updateSelectInput(
+      session, 
+      inputId = "subtype",
+      choices = sort(unique(rewards$subtype[rewards$type == input$type]))
+    )
   })
   
   observe({
-  updateSelectInput(
-    session, 
-    inputId = "reward",
-    choices = sort(unique(rewards$reward[rewards$subtype == input$subtype]))
-  )
+    updateSelectInput(
+      session, 
+      inputId = "reward",
+      choices = sort(unique(rewards$reward[rewards$subtype == input$subtype]))
+    )
   })
   
   d <- reactive( { 
