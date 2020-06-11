@@ -1,6 +1,6 @@
 Package: swgoh
 Title: Data for Battle Rewards from Star Wars Galaxy of Heroes 
-Version: 0.0.0.9014
+Version: 0.0.0.9015
 Authors@R: 
     person(given = "Jarad",
            family = "Niemi",
@@ -25,3 +25,5 @@ Suggests:
     tidyr,
     shiny
 RoxygenNote: 7.0.1
+Depends: 
+    R (>= 2.10)
