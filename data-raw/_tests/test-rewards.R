@@ -61,7 +61,10 @@ for (i in seq_along(files$reward)) {
       # paste(file, j, "0 <=", d$count[j], "<= n_sims"),
       expect_true(0 < d$count[j] & 
                     d$count[j] <= d$n_sims[j] + d$n_sims[j] * 
-                    (d$reward[j] == "Incomplete Signal Data") # double rewards for incomplete data signal
+                    # double rewards for the following rewards
+                    (d$reward[j] %in% c("Fragmented Signal Data",
+                                        "Incomplete Signal Data",
+                                        "Flawed Signal Data")) 
       )
     )
   }
