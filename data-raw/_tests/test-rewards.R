@@ -59,7 +59,10 @@ for (i in seq_along(files$reward)) {
              "count: ", d$count[j], "\n",
              "n_sims: ", d$n_sims[j]),
       # paste(file, j, "0 <=", d$count[j], "<= n_sims"),
-      expect_true(0 < d$count[j] & d$count[j] <= d$n_sims[j])
+      expect_true(0 < d$count[j] & 
+                    d$count[j] <= d$n_sims[j] + d$n_sims[j] * 
+                    (d$reward[j] == "Incomplete Signal Data") # double rewards for incomplete data signal
+      )
     )
   }
 }
