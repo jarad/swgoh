@@ -1,3 +1,5 @@
+library("dplyr")
+
 reward_details <- readr::read_csv("reward_details/reward_details.csv",
                                   col_types = readr::cols(
                                     reward  = readr::col_character(),
