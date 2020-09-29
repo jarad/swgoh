@@ -163,3 +163,6 @@ Injector Cell Salvage,Ship Component,Ship Component
 Injector Handle Salvage,Ship Component,Ship Component
 Injector Head Salvage,Ship Component,Ship Component
 Reinforcement Materials,Ship Component,Ship Component
+Fragmented Signal Data,Signal Data,Signal Data
+Incomplete Signal Data,Signal Data,Signal Data
+Flawed Signal Data,Signal Data,Signal Data
