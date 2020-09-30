@@ -6,6 +6,6 @@ reward_details <- readr::read_csv("reward_details/reward_details.csv",
                                     type    = readr::col_character(),
                                     subtype = readr::col_character()
                                   )) %>%
-  arrange(type, subtype, reward)
+  arrange(type, reward)
 
 usethis::use_data(reward_details, overwrite = TRUE)
