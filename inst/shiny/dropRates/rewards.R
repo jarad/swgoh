@@ -1,6 +1,8 @@
 library("shiny")
 library("tidyverse")
 
+
+
 rewards <- swgoh::rewards %>%
   
   dplyr::mutate(n_sims = ifelse(simulated, attempts, 0)) %>%
@@ -11,7 +13,7 @@ rewards <- swgoh::rewards %>%
     .groups = "keep") %>%
   dplyr::ungroup() %>%
   
-  left_join(swgoh::reward_details, by = "reward") %>%
+  # left_join(swgoh::reward_details, by = "reward") %>%
   
   # Poisson model with Ga(0.5, 0.5) prior
   dplyr::mutate(
@@ -29,8 +31,8 @@ rewards <- swgoh::rewards %>%
     # ub = ifelse(p==1, 1, ub),
     
     a = 0.5 + y,
-    b = 0.5 + n,
-    rate  = a/b,
+    b = 1 + n,
+    rate  = y/n,
     
     lb = qgamma(.025, a, b),
     ub = qgamma(.975, a, b),
