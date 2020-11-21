@@ -9,7 +9,7 @@ battleID,reward,count
 3,Jolee Bindo,2
 3,Mk 6 Loronar Power Cell Salvage,1
 3,Mk 3 Merr-Sonn Thermal Detonator Prototype Salvage,4
-3,Mk 3 Chiewab Hypo Syringe,3
+3,Mk 2 Chiewab Hypo Syringe,3
 4,Zaalbar,1
 4,Mk 8 BlasTech Weapon Mod Prototype Salvage,2
 4,Mk 5 Loronar Power Cell Salvage,1
@@ -19,7 +19,7 @@ battleID,reward,count
 5,Mk 1 Zaltin Bacta Gel Prototype Salvage,1
 6,Umbaran Starfighter,1
 6,Mk 4 Nubian Security Scanner Prototype Salvage,2
-6,Reinforcement Material2,1
+6,Reinforcement Materials,1
 7,Canderous Ordo,5
 7,Ability Material Mk II,7
 7,Ability Material Mk I,4
@@ -49,7 +49,7 @@ battleID,reward,count
 14,Ability Material Mk I,1
 15,Juhani,2
 15,Mk 6 Nubian Security Scanner Prototype Salvage,1
-15,Mk 3 SIenar Holo Projector Salvage,1
+15,Mk 3 Sienar Holo Projector Salvage,1
 16,Carth Onasi,3
 16,Mk 3 Carbanti Sensor Array Salvage,1
 16,Mk 6 TaggeCo Holo Lens Prototype Salvage,1
@@ -67,7 +67,7 @@ battleID,reward,count
 21,TIE Advanced x1,2
 21,Mk 9 Neuro-Saav Electrobinoculars Salvage,1
 21,Mk 6 Neuro-Saav Electrobinoculars Prototype Salvage,1
-21,Reinforcement Material,1
+21,Reinforcement Materials,1
 22,Mk 1 Zaltin Bacta Gel Prototype Salvage,1
-22,Reinforcement Material,1
+22,Reinforcement Materials,1
 22,Ship Ability Material Mk II,1
