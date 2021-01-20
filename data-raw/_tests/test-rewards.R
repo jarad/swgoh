@@ -36,31 +36,7 @@ for (i in seq_along(files$reward)) {
                               )) %>%
                 mutate(n_sims = ifelse(n_sims == 0, 1, n_sims)),
               by = "battleID")
-  
-  #
-  # IG-11 and Kuiil were bonus awards in all Cantina battles from 2020/12/16 to ?
-  #
-  d_tmp <- d %>% filter(reward %in% c("IG-11","Kuiil"))
-  
-  if (nrow(d_tmp) > 0) {
-    test_that(
-      paste0("IG-11 and Kuiil are only in Cantina battles",
-             "file: ", file, "\n"),
-      expect_true(all(grepl("Cantina", d_tmp$battle)))
-    )
-    
-    date = as.Date(substr(file, 13, 20), format = "%Y%m%d")
-    test_that(
-      paste0("IG-11 and Kuiil bonus award dates are between 2020/12/16 and 2021/?/?",
-             "file: ", file, "\n"),
-      expect_true(date >= as.Date("2020/12/16"))
-    )
-  }
-  d <- d %>%
-    filter(!(reward %in% c("IG-11","Kuiil")))
-  # 
-  # end of IG-11 and Kuiil special treatment
-  #
+
   
   
   for (j in nrow(d):1) {

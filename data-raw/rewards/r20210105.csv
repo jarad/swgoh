@@ -1,13 +1,9 @@
 battleID,reward,count
 1,Veteran Smuggler Chewbacca,18
-1,IG-11,4
-1,Kuiil,4
 1,Ability Material Mk III,2
 1,Ability Material Mk II,3
 1,Ability Material Mk I,4
 2,Veteran Smuggler Chewbacca,10
-2,Kuiil,1
-2,IG-11,2
 2,Ability Material Mk III,5
 2,Ability Material Mk II,6
 2,Ability Material Mk I,5
@@ -22,7 +18,6 @@ battleID,reward,count
 5,Mk 2 Chedak Comlink Prototype,1
 6,Ship Ability Material Mk I,1
 7,Veteran Smuggler Chewbacca,6
-7,Kuiil,3
 8,Juhani,2
 8,Mk 6 Nubian Security Scanner Prototype Salvage,2
 8,Mk 3 Sienar Holo Projector Salvage,1
@@ -38,7 +33,6 @@ battleID,reward,count
 11,Mk 6 BioTech Implant Prototype Salvage,1
 11,Ship Ability Material Mk II,1
 12,Mission Vao,6
-12,Kuiil,3
 12,Ability Material Mk III,3
 12,Ability Material Mk II,7
 12,Ability Material Mk I,6
