@@ -4,12 +4,14 @@
 \name{rewards_raw}
 \alias{rewards_raw}
 \title{Raw rewards data}
-\format{A data.frame with 3 columns:
+\format{
+A data.frame with 3 columns:
 \describe{
   \item{battleID}{character, unique battle identifier}
   \item{reward}{character, name of reward}
   \item{count}{integer, amount of that reward received}
-}}
+}
+}
 \usage{
 rewards_raw
 }
@@ -19,6 +21,6 @@ received. This does not include any rewards that could have been received and
 therefore the \code{rewards} data set is most likely of more use.
 }
 \seealso{
-\link{\code{rewards}}, \link{\code{battles}}, \link{\code{battle_rewards}}
+\code{\link{rewards}}, \code{\link{battles}}, \code{\link{battle_rewards}}
 }
 \keyword{datasets}

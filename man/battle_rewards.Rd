@@ -4,11 +4,13 @@
 \name{battle_rewards}
 \alias{battle_rewards}
 \title{Battle rewards}
-\format{A data frame with 2 columns:
+\format{
+A data frame with 2 columns:
 \describe{
   \item{battle}{character, battle name}
   \item{reward}{character, name of reward}
-}}
+}
+}
 \usage{
 battle_rewards
 }

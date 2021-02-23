@@ -4,12 +4,14 @@
 \name{reward_details}
 \alias{reward_details}
 \title{Reward details}
-\format{A data frame with 2 columns:
+\format{
+A data frame with 2 columns:
 \describe{
   \item{reward}{character, reward name}
   \item{type}{character, reward type}
   \item{subtype}{character, reward subtype}
-}}
+}
+}
 \usage{
 reward_details
 }

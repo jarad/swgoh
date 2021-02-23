@@ -4,7 +4,8 @@
 \name{rewards}
 \alias{rewards}
 \title{Rewards for battles fought}
-\format{A data frame with 3 columns:
+\format{
+A data frame with 3 columns:
 \describe{
   \item{date}{Date, date battle was fought}
   \item{battleID}{character, unique battle identifier using YYYYMMDD-### format}
@@ -14,7 +15,8 @@
   \item{simulated}{logical, indicates if the battle was simulated (TRUE) or fought (FALSE)}
   \item{reward}{character, type of reward received}
   \item{count}{integer, number of that reward received}
-}}
+}
+}
 \usage{
 rewards
 }
@@ -24,6 +26,6 @@ and \code{rewards_raw}. This data set includes zeros for rewards not received
 and therefore is more relevant than \code{rewards_raw}.
 }
 \seealso{
-\link{\code{rewards_raw}}, \link{\code{battles}}, \link{\code{battle_rewards}}
+\code{\link{rewards_raw}}, \code{\link{battles}}, \code{\link{battle_rewards}}
 }
 \keyword{datasets}

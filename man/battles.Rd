@@ -4,7 +4,8 @@
 \name{battles}
 \alias{battles}
 \title{Battles fought}
-\format{A data frame with 3 columns:
+\format{
+A data frame with 3 columns:
 \describe{
   \item{date}{Date, when battle was fought}
   \item{battleID}{character, unique battle identifier}
@@ -12,7 +13,8 @@
   \item{battle}{character, name of the battle}
   \item{attempts}{integer, number of attempts for the battle}
   \item{simulated}{logical, whether the battle was simulated (TRUE) or fought (FALSE)}
-}}
+}
+}
 \usage{
 battles
 }
