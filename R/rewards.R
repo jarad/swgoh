@@ -15,7 +15,7 @@
 #'   \item{reward}{character, type of reward received}
 #'   \item{count}{integer, number of that reward received}
 #' }
-#' @seealso \link{\code{rewards_raw}}, \link{\code{battles}}, \link{\code{battle_rewards}}
+#' @seealso \code{\link{rewards_raw}}, \code{\link{battles}}, \code{\link{battle_rewards}}
 "rewards"
 
 
@@ -31,5 +31,5 @@
 #'   \item{reward}{character, name of reward}
 #'   \item{count}{integer, amount of that reward received}
 #' }
-#' @seealso \link{\code{rewards}}, \link{\code{battles}}, \link{\code{battle_rewards}}
+#' @seealso \code{\link{rewards}}, \code{\link{battles}}, \code{\link{battle_rewards}}
 "rewards_raw"
